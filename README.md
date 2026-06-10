@@ -1,124 +1,77 @@
-# Organizational Authenticity — Part 1: Stated Values
+# Organizational Authenticity
 
-Recover what 50 large U.S. companies (10 by market cap in each of 5 S&P 500 sectors)
-**publicly said they valued**, year by year, 2016–2024, from the Wayback Machine, and
-tag each page against a fixed set of value themes. The output is a tidy
-company-year dataset of stated values and how they changed.
+This is my submission for the Wharton-TAU research assistant recruitment task on
+organizational authenticity. The project measures the gap between what 50 of the largest U.S.
+companies **say** they value (their public websites) and what they emphasize in their
+**formal filings** (annual proxy statements, SEC form DEF 14A), for every year from 2016 to
+2024. It builds up to a single per-company-year "authenticity index" for that gap, then
+explores where the gap comes from.
 
-`PART1.md` is the detailed design log; this README is the structured overview.
+## Headline findings
 
----
+- **Say moved more than substance.** On their websites, companies shifted from shareholder
+  language to stakeholder language over the decade (profit/shareholder talk fell from 48% to
+  26% of pages). In their proxies, they mostly **added** stakeholder language on top without
+  dropping shareholder primacy (profit/shareholder emphasis stayed flat and remained the
+  single most prominent theme every year).
+- **The authenticity index.** Comparing the two sides per company-year, energy firms
+  over-claim the most (ConocoPhillips, Marathon, Phillips 66 top the table), while
+  Citigroup, Home Depot, and Bank of America track closest between what they market and what
+  they file.
+- **What drives over-claiming (Part 4, exploratory).** Companies over-claim more on the
+  values their industry is expected to hold, but the sharper driver is cheap-vs-costly: they
+  back up the expected values that are costly or regulated (an energy firm genuinely engages
+  the environment, which is material and litigated for it) and inflate the soft image values
+  (heritage, innovation).
 
-## What it does (end to end)
+## The four parts
+
+| Part | What it does | Docs |
+|---|---|---|
+| **Part 1: Stated Values** | Recover each company's public "About/values" page per year from the Wayback Machine and tag it against a frozen 13-theme taxonomy. | [README](PART1_README.md) · [summary](PART1_SUMMARY.md) · [design log](PART1.md) |
+| **Part 2: Lived Values** | Collect every annual proxy (DEF 14A) from SEC EDGAR and analyze how value language shifts, with classical NLP plus selective LLM tagging. | [README](PART2_README.md) · [summary](PART2_SUMMARY.md) · [schema](PART2_SCHEMA.md) |
+| **Part 3: Authenticity Index** | Score the emphasis-weighted over-claiming between the website and the proxy, per company-year, with a widening/closing trajectory. | [README](PART3_README.md) · [summary](PART3_SUMMARY.md) |
+| **Part 4: Exploration** | Test whether over-claiming concentrates on industry-expected values, and refine that into the cheap-vs-costly pattern. | [README](PART4_README.md) · [summary](PART4_SUMMARY.md) |
+
+Each part's README is the technical write-up. Each summary is a 1-2 page non-technical read.
+
+## Repo structure
 
 ```
-discover  →  fetch  →  clean  →  change-detect  →  agent-recover  →  tag
+authenticity-index/
+├── src/authenticity/      the Python package
+│   ├── *.py               Part 1: discover, fetch, clean, change-detect, tag (Wayback + LLM)
+│   ├── disclosure/        Part 2: SEC EDGAR collection + proxy text analysis
+│   └── index3/            Part 3 + Part 4: the index, validity checks, sector exploration
+├── scripts/               runnable entry points (one per pipeline step, per part)
+├── config/                YAML inputs: companies, taxonomy, value lexicon, settings, events
+├── data/                  outputs (Part 1 in data/output, Part 2 in data/part2, Part 3+4 in data/part3)
+└── logs/                  run logs and persisted state (jsonl decision logs, filing manifests)
 ```
-
-1. **Discover** the right "About/values" URL per company. One Wayback **CDX host query**
-   per company returns the archived About-ish paths; they're ranked locally and the best
-   is kept. Companies the query can't resolve are split into `genuine_miss` (archive
-   answered, no page) vs `timeout` (archive didn't answer).
-2. **Fetch** one archived snapshot per year (nearest a fixed anchor date) as raw HTML.
-3. **Clean** to main-content text (trafilatura), with charset-correct decoding + `ftfy`
-   so the text is free of mojibake.
-4. **Change-detect** year over year from the CDX content digest (identical bytes → no
-   change, for free) backed by a difflib similarity check.
-5. **Agent-recover** the residual gaps: a tool-using LLM agent looks for a *different*
-   archived URL/host that has the missing years — but only for companies deterministic
-   discovery couldn't fully resolve.
-6. **Tag** every page against a **frozen 13-theme taxonomy** with Claude structured
-   outputs. The LLM is called only on the first year and on detected changes; identical
-   text reuses the prior tag.
-
-**Outputs:** `data/output/part1_stated_values.csv` (one row per company-year) and
-`data/coverage_grid.csv` (the companies × years grid with a reason code on every gap).
-
----
-
-## Why these choices
-
-- **Host CDX query, not exact-path guessing or a domain scan.** Exact guessing only finds
-  paths you think of and needs ~40 calls/company; `matchType=domain` scans the entire
-  domain index and *times out* on heavily-archived sites (microsoft.com never returned).
-  A `matchType=host` query with a keyword filter and a small `limit` returns the canonical
-  paths in one cheap call.
-- **Deterministic first, agent only for the residual.** ~84% of companies resolve with no
-  LLM at all. The agent — non-deterministic and the only step that costs API credits — runs
-  only where deterministic methods fell short, and timeouts are excluded from it entirely
-  (a non-response says nothing about whether a page exists; those get gentle retries).
-- **Confirm-don't-invent harness.** Whatever URL the agent proposes, the harness re-runs a
-  real archive query itself and accepts only years a query actually returns. The model
-  cannot fill a cell from thin air, and its URL picks are constrained to real values pages
-  (product-category and social-profile pages are rejected by rule).
-- **Frozen taxonomy.** The 13 themes are bootstrapped once from a 5-sector sample, frozen,
-  and justified — never re-derived per page, which would make labels incomparable.
-- **`broken_snapshot` reclassification.** A snapshot can exist yet clean to empty text
-  (JS-rendered/stub pages). Those cells are reclassified out of "covered" so coverage
-  reflects real *content*, not just the presence of a capture.
-- **Politeness + caching.** Every request sends a `User-Agent`, is rate-limited, and is
-  cached by content hash, so reruns are free and deterministic and the archive isn't
-  hammered. (Over-aggressive early runs got us soft-throttled — hence the gentle defaults.)
-
----
-
-## Assumptions
-
-- **One snapshot per year**, the capture nearest July 1 — a fixed, defensible rule rather
-  than cherry-picking.
-- **"Values page" means a real About/mission/values page** — not a homepage (Apple has no
-  dedicated values page, so it's left a documented gap rather than tagging the homepage),
-  not a product/category page, not a social-media profile.
-- **Snapshot status 200 + `text/html`** only; redirects/404s are dropped (and logged).
-- **Human-pinned URLs are trusted** (e.g. `about.google`, `berkshirehathaway.com`) and
-  exempt from the automated acceptance rule.
-
----
-
-## What I'd do differently with more time
-
-- **Parallelize discovery earlier and budget rate limits up front** — the throttling that
-  forced the gentle, partly-serial approach was self-inflicted by bursty early runs.
-- **Follow multi-hop redirects** at the snapshot level to rescue some `no_capture` /
-  `broken_snapshot` years that exist behind a 301/302.
-- **A headless-render fallback** for JS-rendered About pages (the `broken_snapshot` cells),
-  instead of accepting empty text.
-- **Per-year URL provenance in the main CSV** (it's tracked internally) so a reader can see
-  exactly which archived URL each cell came from.
-
----
-
-## Known limitations
-
-- **72% content coverage** (326 / 450 cells). Remaining: `no_capture` 70 (archive lacks the
-  year), `timeout` 36 (4 heavy sites — AAPL, F, INTC, ORCL — never responded), `host_wrong`
-  9 (no values page found, e.g. AXP), `broken_snapshot` 9 (snapshot exists, no text).
-- **A few non-canonical fills**, flagged `is_canonical=false` in the grid: XOM's only
-  archived About content is under an `/aviation/` sub-brand; AMZN's 2016–17 came from the
-  jobs site. The years are real; the page is second-best.
-- **Watch-item: `human_progress_wellbeing`** — a broad theme. The full run shows it at 44%
-  (mid-pack, not a runaway catch-all), but it's worth re-checking if the taxonomy is revised.
-- **Discovery is gentle-but-slow**, by necessity given archive throttling.
-
----
 
 ## How to run
 
 ```bash
 python3 -m venv .venv && ./.venv/bin/python -m pip install -r requirements.txt
-cp .env.example .env          # add ANTHROPIC_API_KEY (needed only for the agent + tagging)
+cp .env.example .env          # add ANTHROPIC_API_KEY
 ```
 
-Pipeline (each step has a script; all reuse the cache + logs):
+Each part has its own run commands in its README (the scripts are named by part: `discover.py`
+and friends for Part 1, `p2_*.py` for Part 2, `p3_*.py` for Part 3, `p4_explore.py` for Part
+4). The API key is only needed for the steps that call a model: Part 1 theme tagging and the
+recovery agent, and Part 2 LLM tagging. The Part 3 index and all of Part 4 are pure
+computation over the existing outputs and need no API.
 
-```bash
-./.venv/bin/python scripts/discover.py            # deterministic discovery -> tiers
-./.venv/bin/python scripts/run_agent.py           # agent missing-year recovery (needs key)
-./.venv/bin/python scripts/enforce_acceptable.py  # scrub any non-values URLs (free)
-./.venv/bin/python scripts/retry_timeouts.py      # one gentle retry of timeouts (free)
-./.venv/bin/python scripts/bootstrap_taxonomy.py  # propose taxonomy from cleaned sample
-./.venv/bin/python scripts/extract_part1.py       # fetch+clean+change+tag -> the CSV
-./.venv/bin/python scripts/build_grid.py          # (re)build the coverage grid
-```
+## Data and coverage
 
-`ANTHROPIC_API_KEY` lives in `.env` (gitignored); never commit it.
+Coverage is partial and documented, never silently filled. Part 1 reaches about 72% of
+possible company-years (some values pages were never archived or never existed). Part 2 is
+complete (100%), because filing a proxy is mandatory. Part 3 scores only the intersection
+where both sources exist (301 company-years, 243 of them on website pages long enough to
+trust). Every missing cell carries a reason code. The coverage grids live at
+[data/coverage_grid.csv](data/coverage_grid.csv) (Part 1) and
+[data/part2/output/part2_coverage_grid.csv](data/part2/output/part2_coverage_grid.csv) (Part 2).
+
+A note on scope: the index compares two registers of corporate **speech** (a marketing
+website and an accountable filing), not words against real behavior. Read each part's
+limitations section for what the numbers do and don't support.

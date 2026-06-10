@@ -1,6 +1,6 @@
 # Part 2 — Slice Findings (Apple, JPMorgan, ExxonMobil)
 
-> **Superseded by `PART2_FINDINGS.md` (full 50-company run).** This file is kept as the
+> **Superseded by `PART2_SUMMARY.md` (full 50-company run).** This file is kept as the
 > record of the 3-company sanity-check slice that was reviewed before scaling. Its
 > directional findings — ESG language rising while shareholder language holds, Exxon's 2021
 > environmental pivot — all held up and strengthened on the full sample.
