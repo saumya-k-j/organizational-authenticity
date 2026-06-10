@@ -1,0 +1,6 @@
+sector,n_companies,mean_over_expected,mean_over_nonexpected,mean_gap,expected_themes
+Consumer Discretionary,8,0.1297,0.0942,0.0355,"community_social_good, customer_client_focus, operational_excellence"
+Energy,10,0.217,0.1216,0.0954,"heritage_longevity, innovation_science, operational_excellence"
+Financials,8,0.0172,0.1061,-0.089,customer_client_focus
+Healthcare,9,0.1931,0.0757,0.1174,"customer_client_focus, human_progress_wellbeing, innovation_science, integrity_responsibility, people_talent"
+Technology,5,0.246,0.0357,0.2102,"customer_client_focus, human_progress_wellbeing, innovation_science"
