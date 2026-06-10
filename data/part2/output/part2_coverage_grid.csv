@@ -1,0 +1,51 @@
+ticker,name,sector,cik,collisions,years_covered,2016,2017,2018,2019,2020,2021,2022,2023,2024
+MSFT,Microsoft,Technology,0000789019,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+AAPL,Apple,Technology,0000320193,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+NVDA,NVIDIA,Technology,0001045810,1,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+GOOGL,Alphabet,Technology,0001652044,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+META,Meta Platforms,Technology,0001326801,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+AVGO,Broadcom,Technology,0001730168,1,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+CRM,Salesforce,Technology,0001108524,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+ORCL,Oracle,Technology,0001341439,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+IBM,IBM,Technology,0000051143,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+INTC,Intel,Technology,0000050863,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+BRK.B,Berkshire Hathaway,Financials,0001067983,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+JPM,JPMorgan Chase,Financials,0000019617,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+BAC,Bank of America,Financials,0000070858,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+WFC,Wells Fargo,Financials,0000072971,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+GS,Goldman Sachs,Financials,0000886982,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+MS,Morgan Stanley,Financials,0000895421,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+BLK,BlackRock,Financials,0001364742,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+SCHW,Charles Schwab,Financials,0000316709,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+AXP,American Express,Financials,0000004962,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+C,Citigroup,Financials,0000831001,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+LLY,Eli Lilly,Healthcare,0000059478,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+UNH,UnitedHealth Group,Healthcare,0000731766,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+JNJ,Johnson & Johnson,Healthcare,0000200406,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+ABBV,AbbVie,Healthcare,0001551152,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+MRK,Merck,Healthcare,0000310158,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+TMO,Thermo Fisher,Healthcare,0000097745,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+ABT,Abbott Laboratories,Healthcare,0000001800,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+PFE,Pfizer,Healthcare,0000078003,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+MDT,Medtronic,Healthcare,0001613103,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+BMY,Bristol-Myers Squibb,Healthcare,0000014272,1,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+AMZN,Amazon,Consumer Discretionary,0001018724,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+TSLA,Tesla,Consumer Discretionary,0001318605,1,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+HD,Home Depot,Consumer Discretionary,0000354950,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+MCD,McDonald's,Consumer Discretionary,0000063908,1,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+NKE,Nike,Consumer Discretionary,0000320187,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+SBUX,Starbucks,Consumer Discretionary,0000829224,1,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+TGT,Target,Consumer Discretionary,0000027419,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+LOW,Lowe's,Consumer Discretionary,0000060667,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+TJX,TJX Companies,Consumer Discretionary,0000109198,1,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+F,Ford Motor,Consumer Discretionary,0000037996,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+XOM,ExxonMobil,Energy,0000034088,1,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+CVX,Chevron,Energy,0000093410,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+COP,ConocoPhillips,Energy,0001163165,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+EOG,EOG Resources,Energy,0000821189,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+SLB,SLB (Schlumberger),Energy,0000087347,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+MPC,Marathon Petroleum,Energy,0001510295,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+PSX,Phillips 66,Energy,0001534701,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+VLO,Valero Energy,Energy,0001035002,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+OXY,Occidental Petroleum,Energy,0000797468,1,9,filled,filled,filled,filled,filled,filled,filled,filled,filled
+HAL,Halliburton,Energy,0000045012,0,9,filled,filled,filled,filled,filled,filled,filled,filled,filled

@@ -1,0 +1,72 @@
+# Lexicons for the CLASSICAL (no-LLM) half of Part 2 analysis.
+#
+# Two jobs:
+#   1. theme_terms  -> deterministic, reproducible per-theme word frequency in each
+#      proxy, keyed to Part 1's FROZEN 13-theme taxonomy so the "stated" (Part 1) and
+#      "disclosed/lived" (Part 2) channels are directly comparable.
+#   2. tone_*       -> a compact, curated tone lexicon (Loughran-McDonald *style*, the
+#      finance-domain standard). This is a deliberately small hand-checked subset, NOT
+#      the full LM dictionary — documented as a limitation in the README. Frequencies
+#      are normalized per 1k words so longer proxies aren't scored as "more" of anything.
+#
+# Matching is case-insensitive on word stems with a word boundary on the left, so
+# "innovat" catches innovate/innovation/innovative but not a substring mid-word.
+
+# value-cue terms: union used to pull the values-relevant EXCERPT sent to the LLM.
+# (Anything in theme_terms is also a cue; these are extra framing words.)
+excerpt_cues:
+  - sustainab
+  - human capital
+  - stakeholder
+  - our values
+  - our purpose
+  - culture
+  - corporate responsibility
+  - environmental
+  - social
+  - governance
+  - ethic
+  - employee
+  - community
+  - diversity
+  - inclusion
+
+theme_terms:
+  integrity_responsibility:
+    [integrity, ethic, honest, accountab, responsib, trust, complian, code of conduct, transparen]
+  operational_excellence:
+    [quality, excellence, reliab, efficien, disciplin, performance, operational, execution, rigor]
+  innovation_science:
+    [innovat, research, technolog, science, scientif, invent, discovery, breakthrough, digital, patent]
+  people_talent:
+    [employee, talent, workforce, human capital, colleague, training, development, retention, wellbeing, well-being]
+  diversity_inclusion:
+    [diversity, inclusion, inclusive, equit, belonging, underrepresented, gender, minorit]
+  customer_client_focus:
+    [customer, client, consumer, member, patient, service, satisfaction]
+  community_social_good:
+    [community, communities, philanthrop, social responsibility, giving, volunteer, charit, donat]
+  environmental_stewardship:
+    [environment, climate, emission, carbon, sustainab, renewable, greenhouse, net zero, net-zero, biodiversit]
+  leadership_governance:
+    [governance, board, director, oversight, leadership, fiduciary, independ, committee]
+  human_progress_wellbeing:
+    [health, wellbeing, well-being, quality of life, better future, progress, lives, society]
+  profitable_growth:
+    [shareholder, stockholder, return, profit, earnings, dividend, capital allocation, total shareholder return, tsr, value creation]
+  heritage_longevity:
+    [heritage, legacy, history, founded, long-standing, longstanding, enduring, generations, tradition]
+  safety:
+    [safety, safe, injury, incident, hazard, occupational, workplace safety, process safety]
+
+# Compact curated tone lexicon (per-1k-word frequencies; LM-style categories).
+tone_positive:
+  [achieve, advantage, benefit, strong, success, successful, improve, improved, opportunit,
+   leading, leader, gain, progress, confident, effective, excellent, robust, outperform,
+   growth, innovat, committed, commitment, value, valuable, reward]
+tone_negative:
+  [loss, losses, decline, weak, adverse, fail, failure, against, deficien, litigation,
+   penalt, breach, harm, damage, default, restructur, impair, downturn, shortfall, concern]
+tone_uncertainty:
+  [may, could, might, uncertain, risk, risks, depend, fluctuat, approximate, possible,
+   potential, assume, contingen, exposure, volatil, unpredictab, believe, anticipat]

@@ -1,0 +1,454 @@
+ticker  meeting_year  n_words  net_tone  flesch_reading_ease  sim_to_prev dominant_theme_classical       llm_dominant_theme llm_stakeholder_orientation
+  AMZN          2016    18124     0.585                 33.7          NaN    leadership_governance    leadership_governance         shareholder_primacy
+  AMZN          2017    26300     0.542                 31.4       0.9303    leadership_governance    leadership_governance         shareholder_primacy
+  AMZN          2018    19780     0.550                 32.7       0.9408    leadership_governance    leadership_governance         shareholder_primacy
+  AMZN          2019    32231     0.512                 30.2       0.8463    leadership_governance    leadership_governance                    balanced
+  AMZN          2020    40958     0.534                 28.3       0.9359    leadership_governance    leadership_governance                    balanced
+  AMZN          2021    49630     0.674                 27.3       0.9465    leadership_governance    leadership_governance                    balanced
+  AMZN          2022    71554     0.634                 28.8       0.9721    leadership_governance    leadership_governance                    balanced
+  AMZN          2023    78817     0.537                 29.2       0.9662    leadership_governance      diversity_inclusion        stakeholder_oriented
+  AMZN          2024    71075     0.504                 26.1       0.9545    leadership_governance    leadership_governance                    balanced
+     F          2016    69794     0.693                 35.1          NaN    leadership_governance                                                     
+     F          2017    39746     0.814                 35.4       0.7880    leadership_governance                                                     
+     F          2018    59868     0.728                 35.3       0.9317    leadership_governance                                                     
+     F          2019    73457     0.698                 34.3       0.8592    leadership_governance                                                     
+     F          2020    44485     0.743                 34.6       0.7939    leadership_governance                                                     
+     F          2021    53600     0.773                 33.5       0.9763    leadership_governance                                                     
+     F          2022    80881     0.721                 33.1       0.8332    leadership_governance                                                     
+     F          2023    60740     0.746                 30.2       0.8877    leadership_governance                                                     
+     F          2024    56944     0.717                 33.0       0.9745    leadership_governance                                                     
+    HD          2016    34703     0.689                 33.4          NaN    leadership_governance    leadership_governance         shareholder_primacy
+    HD          2017    38282     0.734                 33.1       0.9861    leadership_governance    leadership_governance         shareholder_primacy
+    HD          2018    40301     0.679                 33.0       0.9874    leadership_governance    leadership_governance         shareholder_primacy
+    HD          2019    41000     0.736                 34.0       0.9768    leadership_governance    leadership_governance         shareholder_primacy
+    HD          2020    44500     0.706                 34.1       0.9844    leadership_governance        profitable_growth         shareholder_primacy
+    HD          2021    43167     0.748                 32.8       0.9812    leadership_governance        profitable_growth                    balanced
+    HD          2022    61259     0.732                 33.9       0.9654    leadership_governance            people_talent        stakeholder_oriented
+    HD          2023    50560     0.764                 31.3       0.9339    leadership_governance            people_talent                    balanced
+    HD          2024    50252     0.669                 30.9       0.9438    leadership_governance    leadership_governance                    balanced
+   LOW          2016    36960     0.773                 29.5          NaN    leadership_governance                                                     
+   LOW          2017    32800     0.767                 27.8       0.9718    leadership_governance                                                     
+   LOW          2018    33356     0.790                 28.7       0.9823    leadership_governance                                                     
+   LOW          2019    35716     0.805                 30.8       0.9417    leadership_governance                                                     
+   LOW          2020    40619     0.716                 28.7       0.9347    leadership_governance                                                     
+   LOW          2021    40066     0.792                 25.3       0.9564    leadership_governance                                                     
+   LOW          2022    60974     0.746                 27.3       0.9310    leadership_governance                                                     
+   LOW          2023    43154     0.842                 25.2       0.9199    leadership_governance                                                     
+   LOW          2024    40688     0.875                 24.6       0.9895    leadership_governance                                                     
+   MCD          2016    33190     0.687                 28.5          NaN    leadership_governance    leadership_governance                    balanced
+   MCD          2017    48143     0.662                 28.8       0.9179    leadership_governance    leadership_governance         shareholder_primacy
+   MCD          2018    35074     0.830                 28.2       0.9333    leadership_governance    leadership_governance         shareholder_primacy
+   MCD          2019    34257     0.826                 25.9       0.9741    leadership_governance    leadership_governance                    balanced
+   MCD          2020    48876     0.786                 28.3       0.9155    leadership_governance    leadership_governance                    balanced
+   MCD          2021    37036     0.821                 26.0       0.9174    leadership_governance    leadership_governance                    balanced
+   MCD          2022    56774     0.768                 28.6       0.9327    leadership_governance    leadership_governance                    balanced
+   MCD          2023    51146     0.800                 26.5       0.9379    leadership_governance    leadership_governance                    balanced
+   MCD          2024    55024     0.808                 27.6       0.9645    leadership_governance    leadership_governance                    balanced
+   NKE          2016    29584     0.690                 38.6          NaN    leadership_governance    leadership_governance                    balanced
+   NKE          2017    29366     0.627                 36.6       0.9657    leadership_governance    leadership_governance                    balanced
+   NKE          2018    27279     0.675                 36.9       0.9796    leadership_governance    leadership_governance                    balanced
+   NKE          2019    25723     0.754                 35.2       0.9636    leadership_governance    leadership_governance                    balanced
+   NKE          2020    40179     0.699                 36.4       0.9100    leadership_governance    leadership_governance                    balanced
+   NKE          2021    36535     0.727                 28.7       0.8893    leadership_governance    leadership_governance         shareholder_primacy
+   NKE          2022    35611     0.772                 32.7       0.9220    leadership_governance    leadership_governance         shareholder_primacy
+   NKE          2023    35427     0.766                 27.6       0.9317    leadership_governance    leadership_governance                    balanced
+   NKE          2024    36303     0.665                 28.0       0.9717    leadership_governance    leadership_governance         shareholder_primacy
+  SBUX          2016    39870     0.729                 31.0          NaN    leadership_governance    leadership_governance                    balanced
+  SBUX          2017    36910     0.783                 31.1       0.9848    leadership_governance    leadership_governance                    balanced
+  SBUX          2018    41446     0.701                 31.6       0.9788    leadership_governance    leadership_governance                    balanced
+  SBUX          2019    41563     0.721                 30.2       0.9759    leadership_governance    leadership_governance                    balanced
+  SBUX          2020    45043     0.788                 29.7       0.9253    leadership_governance    leadership_governance                    balanced
+  SBUX          2021    47923     0.802                 29.6       0.9840    leadership_governance    leadership_governance                    balanced
+  SBUX          2022    68801     0.772                 28.7       0.9184    leadership_governance    leadership_governance                    balanced
+  SBUX          2023    52214     0.731                 27.4       0.8921    leadership_governance    leadership_governance                    balanced
+  SBUX          2024    60109     0.760                 22.6       0.9386    leadership_governance    leadership_governance                    balanced
+   TGT          2016    35370     0.808                 31.4          NaN    leadership_governance    leadership_governance                    balanced
+   TGT          2017    35596     0.768                 29.9       0.9654    leadership_governance    leadership_governance                    balanced
+   TGT          2018    35354     0.806                 29.5       0.9587    leadership_governance    leadership_governance                    balanced
+   TGT          2019    33107     0.794                 29.1       0.9799    leadership_governance    leadership_governance                    balanced
+   TGT          2020    48954     0.740                 31.2       0.8857    leadership_governance    leadership_governance                    balanced
+   TGT          2021    33891     0.814                 29.1       0.8853    leadership_governance    leadership_governance                    balanced
+   TGT          2022    36251     0.787                 30.1       0.9773    leadership_governance                                                     
+   TGT          2023    40515     0.827                 27.8       0.9717    leadership_governance                                                     
+   TGT          2024    44849     0.713                 26.1       0.9763    leadership_governance                                                     
+   TJX          2016    31915     0.768                 31.8          NaN    leadership_governance                                                     
+   TJX          2017    55893     0.711                 30.2       0.9202    leadership_governance                                                     
+   TJX          2018    35761     0.744                 30.6       0.9255    leadership_governance                                                     
+   TJX          2019    35375     0.770                 29.3       0.9899    leadership_governance                                                     
+   TJX          2020    39301     0.774                 27.9       0.9817    leadership_governance                                                     
+   TJX          2021    41766     0.805                 24.6       0.8587    leadership_governance                                                     
+   TJX          2022    62996     0.769                 27.7       0.9344    leadership_governance                                                     
+   TJX          2023    47387     0.760                 25.2       0.8632    leadership_governance                                                     
+   TJX          2024    42006     0.811                 25.9       0.9811    leadership_governance                                                     
+  TSLA          2016    24904     0.682                 33.3          NaN    leadership_governance    leadership_governance         shareholder_primacy
+  TSLA          2017    27493     0.686                 33.6       0.9932    leadership_governance    leadership_governance         shareholder_primacy
+  TSLA          2018    33045     0.807                 34.8       0.8666   operational_excellence        profitable_growth         shareholder_primacy
+  TSLA          2019    77658     0.626                 29.9       0.8241    leadership_governance    leadership_governance                    balanced
+  TSLA          2020    32978     0.532                 31.0       0.8563    leadership_governance    leadership_governance         shareholder_primacy
+  TSLA          2021    52695     0.454                 29.3       0.9412    leadership_governance    leadership_governance                    balanced
+  TSLA          2022    55770     0.426                 28.3       0.9896    leadership_governance    leadership_governance                    balanced
+  TSLA          2023    33259     0.712                 27.5       0.9196    leadership_governance    leadership_governance         shareholder_primacy
+  TSLA          2024   236905     0.368                 39.5       0.7756    leadership_governance    leadership_governance                    balanced
+   COP          2016    59735     0.659                 33.4          NaN    leadership_governance                                                     
+   COP          2017    62986     0.700                 34.4       0.9911    leadership_governance                                                     
+   COP          2018    57257     0.728                 29.5       0.9555    leadership_governance                                                     
+   COP          2019    62092     0.836                 30.4       0.9891    leadership_governance                                                     
+   COP          2020    63922     0.825                 30.1       0.9930    leadership_governance                                                     
+   COP          2021    69888     0.756                 30.5       0.9882    leadership_governance                                                     
+   COP          2022    81624     0.759                 28.8       0.9713    leadership_governance                                                     
+   COP          2023   102229     0.749                 30.0       0.9524    leadership_governance                                                     
+   COP          2024    66116     0.775                 29.6       0.9591    leadership_governance                                                     
+   CVX          2016    58825     0.619                 33.0          NaN    leadership_governance                                                     
+   CVX          2017    49411     0.630                 31.9       0.9778    leadership_governance                                                     
+   CVX          2018    50495     0.660                 31.7       0.9905    leadership_governance                                                     
+   CVX          2019    51466     0.686                 32.8       0.9897    leadership_governance                                                     
+   CVX          2020    53704     0.627                 32.2       0.9862    leadership_governance                                                     
+   CVX          2021    55299     0.685                 31.1       0.9870    leadership_governance                                                     
+   CVX          2022    74047     0.702                 32.5       0.9575    leadership_governance                                                     
+   CVX          2023    65023     0.759                 27.7       0.9452    leadership_governance                                                     
+   CVX          2024    61880     0.772                 28.9       0.9896    leadership_governance                                                     
+   EOG          2016    30460     0.755                 34.1          NaN    leadership_governance                                                     
+   EOG          2017    33231     0.810                 34.7       0.9881    leadership_governance                                                     
+   EOG          2018    39049     0.815                 35.2       0.9763    leadership_governance                                                     
+   EOG          2019    33475     0.865                 32.7       0.9700    leadership_governance                                                     
+   EOG          2020    33454     0.875                 30.6       0.9847    leadership_governance                                                     
+   EOG          2021    55158     0.794                 33.4       0.8969    leadership_governance                                                     
+   EOG          2022    37117     0.877                 32.7       0.8743    leadership_governance                                                     
+   EOG          2023    39755     0.849                 29.8       0.9381    leadership_governance                                                     
+   EOG          2024    39137     0.815                 28.7       0.9923    leadership_governance                                                     
+   HAL          2016    34394     0.668                 33.0          NaN    leadership_governance                                                     
+   HAL          2017    48615     0.740                 33.4       0.9301    leadership_governance                                                     
+   HAL          2018    29190     0.798                 34.5       0.9145    leadership_governance                                                     
+   HAL          2019    40677     0.814                 33.5       0.9112    leadership_governance                                                     
+   HAL          2020    40532     0.782                 31.6       0.9906    leadership_governance                                                     
+   HAL          2021    47942     0.780                 31.9       0.9835    leadership_governance                                                     
+   HAL          2022    30640     0.778                 29.0       0.8740    leadership_governance                                                     
+   HAL          2023    44447     0.761                 28.0       0.9560    leadership_governance                                                     
+   HAL          2024    49172     0.820                 30.5       0.9366    leadership_governance                                                     
+   MPC          2016    54523     0.807                 31.9          NaN    leadership_governance                                                     
+   MPC          2017    67016     0.782                 32.2       0.9742    leadership_governance                                                     
+   MPC          2018    53149     0.798                 31.3       0.9651    leadership_governance                                                     
+   MPC          2019    41158     0.886                 29.7       0.9189    leadership_governance                                                     
+   MPC          2020    39745     0.859                 25.2       0.9560    leadership_governance                                                     
+   MPC          2021    66604     0.811                 26.9       0.9304    leadership_governance                                                     
+   MPC          2022    46374     0.814                 24.4       0.9307    leadership_governance                                                     
+   MPC          2023    47587     0.809                 22.0       0.9719    leadership_governance                                                     
+   MPC          2024    46444     0.840                 18.3       0.9876    leadership_governance                                                     
+   OXY          2016    32582     0.756                 27.4          NaN    leadership_governance                                                     
+   OXY          2017    33693     0.742                 24.9       0.9845    leadership_governance                                                     
+   OXY          2018    53373     0.642                 27.1       0.9147    leadership_governance                                                     
+   OXY          2019    29285     0.812                 24.2       0.9064    leadership_governance                                                     
+   OXY          2020   106603     0.609                 26.2       0.8152    leadership_governance                                                     
+   OXY          2021    42957     0.796                 28.3       0.8171    leadership_governance                                                     
+   OXY          2022    52854     0.744                 35.6       0.9638    leadership_governance                                                     
+   OXY          2023    47904     0.765                 23.5       0.9737    leadership_governance                                                     
+   OXY          2024    44360     0.815                 22.7       0.9806    leadership_governance                                                     
+   PSX          2016    33134     0.845                 32.7          NaN    leadership_governance                                                     
+   PSX          2017    30526     0.850                 31.9       0.9712    leadership_governance                                                     
+   PSX          2018    34194     0.851                 30.9       0.9865    leadership_governance                                                     
+   PSX          2019    32942     0.805                 29.3       0.9691    leadership_governance                                                     
+   PSX          2020    32435     0.807                 29.9       0.9797    leadership_governance                                                     
+   PSX          2021    38597     0.793                 27.7       0.9632    leadership_governance                                                     
+   PSX          2022    54664     0.770                 29.0       0.9158    leadership_governance                                                     
+   PSX          2023    40631     0.791                 25.4       0.8669    leadership_governance                                                     
+   PSX          2024    42492     0.852                 21.9       0.9401    leadership_governance                                                     
+   SLB          2016    48708     0.706                 31.0          NaN    leadership_governance                                                     
+   SLB          2017    56983     0.726                 28.0       0.9095    leadership_governance                                                     
+   SLB          2018    44181     0.791                 28.9       0.8929    leadership_governance                                                     
+   SLB          2019    46447     0.818                 28.0       0.9123    leadership_governance                                                     
+   SLB          2020    40435     0.832                 28.3       0.9573    leadership_governance                                                     
+   SLB          2021    66979     0.734                 28.2       0.9021    leadership_governance                                                     
+   SLB          2022    37208     0.910                 25.0       0.8812    leadership_governance                                                     
+   SLB          2023    36015     0.889                 27.2       0.6348    leadership_governance                                                     
+   SLB          2024    35752     0.868                 26.6       0.9901    leadership_governance                                                     
+   VLO          2016    44690     0.739                 33.1          NaN    leadership_governance                                                     
+   VLO          2017    28272     0.787                 30.7       0.9127    leadership_governance                                                     
+   VLO          2018    33347     0.791                 29.2       0.9798    leadership_governance                                                     
+   VLO          2019    30036     0.797                 29.8       0.9834    leadership_governance                                                     
+   VLO          2020    49508     0.787                 31.9       0.9345    leadership_governance                                                     
+   VLO          2021    37977     0.822                 28.2       0.9361    leadership_governance                                                     
+   VLO          2022    51178     0.815                 24.1       0.9721    leadership_governance                                                     
+   VLO          2023    61467     0.845                 22.6       0.9879    leadership_governance                                                     
+   VLO          2024    60930     0.885                 25.2       0.9553    leadership_governance                                                     
+   XOM          2016    36677     0.725                 29.4          NaN    leadership_governance    leadership_governance                    balanced
+   XOM          2017    32225     0.755                 29.1       0.9754    leadership_governance    leadership_governance                    balanced
+   XOM          2018    27211     0.738                 30.6       0.9791    leadership_governance    leadership_governance         shareholder_primacy
+   XOM          2019    32723     0.743                 28.8       0.9826    leadership_governance    leadership_governance         shareholder_primacy
+   XOM          2020    32258     0.732                 26.8       0.9913    leadership_governance    leadership_governance         shareholder_primacy
+   XOM          2021    46326     0.779                 27.4       0.9713    leadership_governance    leadership_governance                    balanced
+   XOM          2022    38769     0.767                 26.0       0.9618    leadership_governance    leadership_governance         shareholder_primacy
+   XOM          2023    55855     0.588                 25.2       0.9620    leadership_governance    leadership_governance                    balanced
+   XOM          2024    49040     0.721                 25.1       0.9643    leadership_governance    leadership_governance                    balanced
+   AXP          2016    58700     0.745                 28.6          NaN    leadership_governance    leadership_governance                    balanced
+   AXP          2017    39563     0.699                 28.9       0.9368    leadership_governance    leadership_governance                    balanced
+   AXP          2018    44961     0.696                 33.7       0.9472    leadership_governance    leadership_governance         shareholder_primacy
+   AXP          2019    43841     0.806                 34.1       0.9542    leadership_governance    leadership_governance                    balanced
+   AXP          2020    52037     0.785                 29.7       0.9052    leadership_governance    leadership_governance                    balanced
+   AXP          2021    44811     0.787                 26.2       0.9086    leadership_governance    leadership_governance                    balanced
+   AXP          2022    41167     0.839                 25.7       0.9598    leadership_governance    leadership_governance                    balanced
+   AXP          2023    47678     0.849                 26.5       0.9652    leadership_governance    leadership_governance                    balanced
+   AXP          2024    65724     0.800                 26.3       0.9476    leadership_governance    leadership_governance                    balanced
+   BAC          2016    39797     0.745                 27.5          NaN    leadership_governance    leadership_governance                    balanced
+   BAC          2017    48564     0.795                 25.3       0.9739    leadership_governance    leadership_governance                    balanced
+   BAC          2018    49054     0.840                 27.6       0.9878    leadership_governance    leadership_governance                    balanced
+   BAC          2019    73643     0.810                 28.6       0.9335    leadership_governance    leadership_governance                    balanced
+   BAC          2020    56451     0.790                 26.0       0.9048    leadership_governance    leadership_governance                    balanced
+   BAC          2021    80656     0.831                 27.2       0.9397    leadership_governance    leadership_governance                    balanced
+   BAC          2022    66760     0.848                 24.8       0.9404    leadership_governance    leadership_governance                    balanced
+   BAC          2023    89152     0.838                 24.8       0.9401    leadership_governance    leadership_governance                    balanced
+   BAC          2024    82398     0.786                 27.6       0.9760    leadership_governance    leadership_governance                    balanced
+   BLK          2016    40768     0.523                 31.1          NaN    leadership_governance    leadership_governance                    balanced
+   BLK          2017    43677     0.692                 29.9       0.9181    leadership_governance    leadership_governance                    balanced
+   BLK          2018    49086     0.804                 30.4       0.9460    leadership_governance    leadership_governance                    balanced
+   BLK          2019    48677     0.808                 29.1       0.9801    leadership_governance    leadership_governance                    balanced
+   BLK          2020    50175     0.834                 28.6       0.9917    leadership_governance    leadership_governance                    balanced
+   BLK          2021    58050     0.779                 25.7       0.9782    leadership_governance    leadership_governance                    balanced
+   BLK          2022    48857     0.835                 29.3       0.9193    leadership_governance    leadership_governance                    balanced
+   BLK          2023    54785     0.730                 27.4       0.9865    leadership_governance    leadership_governance                    balanced
+   BLK          2024    72505     0.739                 28.9       0.9549    leadership_governance    leadership_governance                    balanced
+ BRK.B          2016     9317     0.077                 41.1          NaN    leadership_governance    leadership_governance         shareholder_primacy
+ BRK.B          2017    11356    -0.034                 37.6       0.9580    leadership_governance    leadership_governance         shareholder_primacy
+ BRK.B          2018    11111     0.390                 38.8       0.9656    leadership_governance    leadership_governance         shareholder_primacy
+ BRK.B          2019     9523     0.636                 42.1       0.9735    leadership_governance    leadership_governance         shareholder_primacy
+ BRK.B          2020    11708     0.489                 41.3       0.9815    leadership_governance    leadership_governance         shareholder_primacy
+ BRK.B          2021    11286     0.589                 38.9       0.9713    leadership_governance    leadership_governance         shareholder_primacy
+ BRK.B          2022    12350     0.195                 38.7       0.9790    leadership_governance    leadership_governance                    balanced
+ BRK.B          2023    14664     0.128                 36.8       0.9765    leadership_governance    leadership_governance         shareholder_primacy
+ BRK.B          2024    15367     0.200                 39.4       0.9662    leadership_governance    leadership_governance         shareholder_primacy
+     C          2016    76816     0.532                 29.8          NaN    leadership_governance    leadership_governance                    balanced
+     C          2017    56747     0.519                 28.6       0.9737    leadership_governance    leadership_governance         shareholder_primacy
+     C          2018    75290     0.572                 29.1       0.9866    leadership_governance    leadership_governance                    balanced
+     C          2019    69167     0.584                 30.2       0.9966    leadership_governance    leadership_governance                    balanced
+     C          2020    74470     0.588                 30.5       0.9966    leadership_governance    leadership_governance                    balanced
+     C          2021    79906     0.596                 30.2       0.9941    leadership_governance    leadership_governance                    balanced
+     C          2022    74653     0.617                 29.8       0.9963    leadership_governance    leadership_governance                    balanced
+     C          2023    76422     0.686                 28.0       0.9961    leadership_governance    leadership_governance                    balanced
+     C          2024    79427     0.614                 27.6       0.9967    leadership_governance    leadership_governance                    balanced
+    GS          2016    45095     0.631                 29.0          NaN    leadership_governance    leadership_governance         shareholder_primacy
+    GS          2017    44336     0.717                 30.4       0.9804    leadership_governance    leadership_governance                    balanced
+    GS          2018    67908     0.613                 33.6       0.8951    leadership_governance    leadership_governance                    balanced
+    GS          2019    50099     0.724                 29.9       0.8880    leadership_governance    leadership_governance                    balanced
+    GS          2020    46216     0.734                 24.6       0.9731    leadership_governance    leadership_governance                    balanced
+    GS          2021    73904     0.643                 29.8       0.9101    leadership_governance    leadership_governance                    balanced
+    GS          2022    57480     0.784                 23.7       0.9065    leadership_governance    leadership_governance                    balanced
+    GS          2023    67871     0.766                 26.8       0.9735    leadership_governance    leadership_governance                    balanced
+    GS          2024    66734     0.724                 24.6       0.9826    leadership_governance    leadership_governance                    balanced
+   JPM          2016    50415     0.708                 30.1          NaN    leadership_governance    leadership_governance         shareholder_primacy
+   JPM          2017    46012     0.707                 31.9       0.9827    leadership_governance    leadership_governance                    balanced
+   JPM          2018    60545     0.746                 31.4       0.9539    leadership_governance    leadership_governance         shareholder_primacy
+   JPM          2019    47756     0.783                 28.8       0.9628    leadership_governance    leadership_governance                    balanced
+   JPM          2020    52637     0.778                 28.6       0.9480    leadership_governance    leadership_governance                    balanced
+   JPM          2021    63727     0.709                 27.7       0.9542    leadership_governance    leadership_governance                    balanced
+   JPM          2022    59290     0.738                 26.9       0.9706    leadership_governance    leadership_governance                    balanced
+   JPM          2023    65857     0.673                 27.7       0.9693    leadership_governance    leadership_governance                    balanced
+   JPM          2024    71449     0.633                 28.0       0.9644    leadership_governance    leadership_governance                    balanced
+    MS          2016    51593     0.633                 30.5          NaN    leadership_governance    leadership_governance         shareholder_primacy
+    MS          2017    64880     0.623                 28.9       0.9725    leadership_governance    leadership_governance         shareholder_primacy
+    MS          2018    39660     0.767                 27.5       0.9289    leadership_governance    leadership_governance                    balanced
+    MS          2019    41603     0.794                 26.6       0.9906    leadership_governance    leadership_governance                    balanced
+    MS          2020    40942     0.837                 27.7       0.9927    leadership_governance    leadership_governance                    balanced
+    MS          2021    49915     0.733                 26.8       0.9744    leadership_governance    leadership_governance                    balanced
+    MS          2022    41434     0.808                 26.8       0.9676    leadership_governance    leadership_governance                    balanced
+    MS          2023    46366     0.781                 24.4       0.9784    leadership_governance    leadership_governance                    balanced
+    MS          2024    63787     0.735                 26.5       0.8905    leadership_governance    leadership_governance                    balanced
+  SCHW          2016    27658     0.664                 38.1          NaN    leadership_governance    leadership_governance                    balanced
+  SCHW          2017    29950     0.521                 36.2       0.9887    leadership_governance    leadership_governance                    balanced
+  SCHW          2018    59692     0.575                 36.3       0.9012    leadership_governance    leadership_governance         shareholder_primacy
+  SCHW          2019    27812     0.747                 35.6       0.8912    leadership_governance    leadership_governance                    balanced
+  SCHW          2020    59725     0.569                 33.7       0.8892    leadership_governance    leadership_governance                    balanced
+  SCHW          2021    32980     0.659                 33.0       0.8304    leadership_governance    leadership_governance                    balanced
+  SCHW          2022    61129     0.624                 31.7       0.9112    leadership_governance    leadership_governance         shareholder_primacy
+  SCHW          2023    38054     0.721                 29.6       0.8923    leadership_governance    leadership_governance                    balanced
+  SCHW          2024    38564     0.667                 30.2       0.9932    leadership_governance    leadership_governance                    balanced
+   WFC          2016    57357     0.696                 29.2          NaN    leadership_governance    leadership_governance                    balanced
+   WFC          2017    68281     0.631                 29.4       0.9655    leadership_governance    leadership_governance                    balanced
+   WFC          2018    68863     0.706                 21.7       0.9411    leadership_governance    leadership_governance                    balanced
+   WFC          2019    96180     0.773                 22.4       0.9478    leadership_governance    leadership_governance                    balanced
+   WFC          2020    71715     0.734                 23.5       0.9258    leadership_governance    leadership_governance        stakeholder_oriented
+   WFC          2021    73059     0.715                 20.9       0.9741    leadership_governance    leadership_governance                    balanced
+   WFC          2022    79034     0.666                 24.4       0.9550    leadership_governance    leadership_governance                    balanced
+   WFC          2023    65540     0.559                 22.5       0.9294    leadership_governance    leadership_governance                    balanced
+   WFC          2024    72288     0.604                 22.3       0.9690    leadership_governance    leadership_governance                    balanced
+  ABBV          2016    32921     0.750                 34.0          NaN    leadership_governance    leadership_governance                    balanced
+  ABBV          2017    33357     0.729                 34.6       0.9945    leadership_governance    leadership_governance         shareholder_primacy
+  ABBV          2018    36320     0.700                 33.6       0.9948    leadership_governance    leadership_governance                    balanced
+  ABBV          2019    35446     0.688                 33.3       0.9961    leadership_governance    leadership_governance                    balanced
+  ABBV          2020    35823     0.678                 32.8       0.9967    leadership_governance    leadership_governance                    balanced
+  ABBV          2021    61575     0.733                 31.9       0.9343    leadership_governance    leadership_governance                    balanced
+  ABBV          2022    39439     0.676                 32.2       0.9332    leadership_governance    leadership_governance                    balanced
+  ABBV          2023    43653     0.702                 31.7       0.9882    leadership_governance integrity_responsibility                    balanced
+  ABBV          2024    45003     0.678                 32.4       0.9914    leadership_governance    leadership_governance                    balanced
+   ABT          2016    29885     0.846                 35.8          NaN    leadership_governance    leadership_governance                    balanced
+   ABT          2017    55319     0.835                 34.7       0.9411    leadership_governance    leadership_governance                    balanced
+   ABT          2018    32991     0.767                 35.5       0.9363    leadership_governance    leadership_governance                    balanced
+   ABT          2019    27945     0.795                 34.0       0.9849    leadership_governance        profitable_growth         shareholder_primacy
+   ABT          2020    31558     0.762                 34.7       0.9830    leadership_governance        profitable_growth         shareholder_primacy
+   ABT          2021    39441     0.774                 35.4       0.9804    leadership_governance    leadership_governance                    balanced
+   ABT          2022    37020     0.754                 32.7       0.9834    leadership_governance    leadership_governance                    balanced
+   ABT          2023    38553     0.747                 29.7       0.9694    leadership_governance    leadership_governance                    balanced
+   ABT          2024    33408     0.855                 29.1       0.9847    leadership_governance    leadership_governance                    balanced
+   BMY          2016    44125     0.800                 32.4          NaN    leadership_governance    leadership_governance         shareholder_primacy
+   BMY          2017    67219     0.696                 28.8       0.9112    leadership_governance    leadership_governance         shareholder_primacy
+   BMY          2018    44472     0.742                 30.9       0.8966    leadership_governance    leadership_governance                    balanced
+   BMY          2019    41364     0.755                 30.9       0.9824    leadership_governance    leadership_governance                    balanced
+   BMY          2020    50315     0.809                 32.8       0.8696    leadership_governance    leadership_governance                    balanced
+   BMY          2021    72194     0.751                 30.7       0.8884    leadership_governance       innovation_science                    balanced
+   BMY          2022    48775     0.801                 30.3       0.9303    leadership_governance    leadership_governance                    balanced
+   BMY          2023    54320     0.809                 28.4       0.9615    leadership_governance    leadership_governance                    balanced
+   BMY          2024    59029     0.819                 25.4       0.9450    leadership_governance    leadership_governance                    balanced
+   JNJ          2016    38833     0.785                 33.1          NaN    leadership_governance    leadership_governance                    balanced
+   JNJ          2017    49980     0.789                 33.5       0.8939    leadership_governance    leadership_governance                    balanced
+   JNJ          2018    37794     0.800                 34.9       0.9140    leadership_governance    leadership_governance                    balanced
+   JNJ          2019    41427     0.763                 33.4       0.9864    leadership_governance    leadership_governance                    balanced
+   JNJ          2020    45116     0.761                 31.8       0.9754    leadership_governance    leadership_governance         shareholder_primacy
+   JNJ          2021    53518     0.753                 31.2       0.9581    leadership_governance    leadership_governance        stakeholder_oriented
+   JNJ          2022    89852     0.712                 30.4       0.9372    leadership_governance    leadership_governance                    balanced
+   JNJ          2023    56144     0.701                 30.1       0.9112    leadership_governance    leadership_governance                    balanced
+   JNJ          2024    48892     0.757                 32.2       0.9615    leadership_governance    leadership_governance                    balanced
+   LLY          2016    28458     0.687                 35.0          NaN    leadership_governance    leadership_governance                    balanced
+   LLY          2017    41163     0.673                 36.4       0.9103    leadership_governance    leadership_governance                    balanced
+   LLY          2018    55830     0.610                 32.2       0.8894    leadership_governance    leadership_governance                    balanced
+   LLY          2019    35796     0.784                 30.0       0.8695    leadership_governance    leadership_governance                    balanced
+   LLY          2020    41828     0.656                 27.3       0.9443    leadership_governance    leadership_governance                    balanced
+   LLY          2021    47965     0.742                 26.6       0.9788    leadership_governance    leadership_governance                    balanced
+   LLY          2022    53998     0.743                 25.6       0.9666    leadership_governance    leadership_governance                    balanced
+   LLY          2023    58250     0.738                 23.6       0.9760    leadership_governance human_progress_wellbeing                    balanced
+   LLY          2024    51846     0.753                 22.6       0.9831    leadership_governance human_progress_wellbeing                    balanced
+   MDT          2016    89534     0.597                 30.9          NaN    leadership_governance    leadership_governance                    balanced
+   MDT          2017    62199     0.795                 30.2       0.8300    leadership_governance    leadership_governance                    balanced
+   MDT          2018    36465     0.771                 28.5       0.9228    leadership_governance    leadership_governance                    balanced
+   MDT          2019    39187     0.768                 29.6       0.9877    leadership_governance        profitable_growth         shareholder_primacy
+   MDT          2020    42894     0.735                 29.9       0.9918    leadership_governance    leadership_governance                    balanced
+   MDT          2021    67001     0.746                 29.2       0.9389    leadership_governance    leadership_governance                    balanced
+   MDT          2022    41231     0.776                 27.5       0.9330    leadership_governance    leadership_governance                    balanced
+   MDT          2023    48679     0.810                 25.8       0.9725    leadership_governance human_progress_wellbeing        stakeholder_oriented
+   MDT          2024    42359     0.826                 26.4       0.9530    leadership_governance    leadership_governance                    balanced
+   MRK          2016    41141     0.767                 30.7          NaN    leadership_governance    leadership_governance         shareholder_primacy
+   MRK          2017    43313     0.744                 31.1       0.9844    leadership_governance    leadership_governance                    balanced
+   MRK          2018    39018     0.767                 30.8       0.9853    leadership_governance    leadership_governance                    balanced
+   MRK          2019    54644     0.714                 33.7       0.9181    leadership_governance    leadership_governance                    balanced
+   MRK          2020    40166     0.772                 33.8       0.9190    leadership_governance    leadership_governance                    balanced
+   MRK          2021    41721     0.775                 33.7       0.9837    leadership_governance    leadership_governance                    balanced
+   MRK          2022    46392     0.788                 32.0       0.9717    leadership_governance    leadership_governance                    balanced
+   MRK          2023    55485     0.763                 32.7       0.9625    leadership_governance    leadership_governance                    balanced
+   MRK          2024    49535     0.761                 31.0       0.9665    leadership_governance    leadership_governance                    balanced
+   PFE          2016    56322     0.727                 31.3          NaN    leadership_governance    leadership_governance         shareholder_primacy
+   PFE          2017    59523     0.784                 30.4       0.9907    leadership_governance    leadership_governance                    balanced
+   PFE          2018    67383     0.769                 31.6       0.9613    leadership_governance    leadership_governance         shareholder_primacy
+   PFE          2019    81309     0.743                 29.8       0.9520    leadership_governance    leadership_governance                    balanced
+   PFE          2020    64522     0.732                 29.7       0.9561    leadership_governance    leadership_governance                    balanced
+   PFE          2021    63138     0.761                 29.9       0.9750    leadership_governance    leadership_governance         shareholder_primacy
+   PFE          2022    53695     0.722                 30.5       0.9776    leadership_governance            people_talent                    balanced
+   PFE          2023    60305     0.775                 31.4       0.9790    leadership_governance    leadership_governance         shareholder_primacy
+   PFE          2024    73384     0.735                 31.7       0.9342    leadership_governance    leadership_governance                    balanced
+   TMO          2016    30935     0.879                 32.3          NaN    leadership_governance    leadership_governance                    balanced
+   TMO          2017    28958     0.877                 30.0       0.9859    leadership_governance    leadership_governance                    balanced
+   TMO          2018    30396     0.886                 30.6       0.9926    leadership_governance    leadership_governance                    balanced
+   TMO          2019    37850     0.800                 25.7       0.8443    leadership_governance    customer_client_focus        stakeholder_oriented
+   TMO          2020    38753     0.786                 26.4       0.8991    leadership_governance    leadership_governance                    balanced
+   TMO          2021    42231     0.781                 24.2       0.9408    leadership_governance    leadership_governance                    balanced
+   TMO          2022    39557     0.822                 24.0       0.9911    leadership_governance    leadership_governance                    balanced
+   TMO          2023    58304     0.766                 26.2       0.8420    leadership_governance    customer_client_focus        stakeholder_oriented
+   TMO          2024    38279     0.782                 23.4       0.8854    leadership_governance    customer_client_focus                    balanced
+   UNH          2016    35952     0.756                 30.3          NaN    leadership_governance    leadership_governance                    balanced
+   UNH          2017    38485     0.719                 29.9       0.9804    leadership_governance    leadership_governance                    balanced
+   UNH          2018    37359     0.776                 31.8       0.9697    leadership_governance    leadership_governance                    balanced
+   UNH          2019    38013     0.749                 30.8       0.9824    leadership_governance    leadership_governance                    balanced
+   UNH          2020    50693     0.745                 29.9       0.9428    leadership_governance    leadership_governance                    balanced
+   UNH          2021    45392     0.744                 29.7       0.9544    leadership_governance    leadership_governance                    balanced
+   UNH          2022    38894     0.725                 25.9       0.9566    leadership_governance    leadership_governance                    balanced
+   UNH          2023    43830     0.708                 20.3       0.9725    leadership_governance human_progress_wellbeing        stakeholder_oriented
+   UNH          2024    39756     0.774                 19.0       0.9861    leadership_governance human_progress_wellbeing        stakeholder_oriented
+  AAPL          2016    44312     0.501                 34.7          NaN    leadership_governance    leadership_governance                    balanced
+  AAPL          2017    30154     0.638                 32.6       0.9351    leadership_governance    leadership_governance                    balanced
+  AAPL          2018    35365     0.682                 34.1       0.9548    leadership_governance    leadership_governance         shareholder_primacy
+  AAPL          2019    25750     0.668                 33.1       0.9598    leadership_governance    leadership_governance         shareholder_primacy
+  AAPL          2020    27105     0.693                 34.2       0.9874    leadership_governance    leadership_governance                    balanced
+  AAPL          2021    27454     0.780                 32.8       0.9894    leadership_governance    leadership_governance                    balanced
+  AAPL          2022    54260     0.648                 30.3       0.9362    leadership_governance      diversity_inclusion        stakeholder_oriented
+  AAPL          2023    42829     0.758                 25.7       0.9344    leadership_governance    leadership_governance                    balanced
+  AAPL          2024    43625     0.751                 24.6       0.9711    leadership_governance    leadership_governance                    balanced
+  AVGO          2016    41505     0.743                 33.7          NaN    leadership_governance    leadership_governance                    balanced
+  AVGO          2017    69478     0.434                 32.6       0.8530    leadership_governance    leadership_governance         shareholder_primacy
+  AVGO          2018    74101     0.378                 30.7       0.9403    leadership_governance    leadership_governance         shareholder_primacy
+  AVGO          2019    46169     0.751                 34.3       0.6983    leadership_governance    leadership_governance         shareholder_primacy
+  AVGO          2020    31751     0.818                 33.4       0.9001    leadership_governance    leadership_governance                    balanced
+  AVGO          2021    51840     0.764                 33.9       0.8624    leadership_governance    leadership_governance                    balanced
+  AVGO          2022    32207     0.845                 32.7       0.9281    leadership_governance    leadership_governance                    balanced
+  AVGO          2023    47974     0.816                 32.5       0.9196    leadership_governance    leadership_governance                    balanced
+  AVGO          2024    31877     0.894                 31.8       0.8787    leadership_governance    leadership_governance                    balanced
+   CRM          2016    34814     0.755                 27.2          NaN    leadership_governance    leadership_governance         shareholder_primacy
+   CRM          2017    76640     0.715                 30.1       0.7826    leadership_governance    leadership_governance         shareholder_primacy
+   CRM          2018    80957     0.590                 28.1       0.8959    leadership_governance    leadership_governance                    balanced
+   CRM          2019    81885     0.639                 29.3       0.9916    leadership_governance    leadership_governance                    balanced
+   CRM          2020    81543     0.761                 31.4       0.9067    leadership_governance    leadership_governance                    balanced
+   CRM          2021    65034     0.769                 30.8       0.9567    leadership_governance    leadership_governance                    balanced
+   CRM          2022    83048     0.749                 32.1       0.9536    leadership_governance    leadership_governance         shareholder_primacy
+   CRM          2023    72502     0.759                 26.2       0.9434    leadership_governance    leadership_governance                    balanced
+   CRM          2024    77028     0.747                 24.6       0.9696    leadership_governance    leadership_governance                    balanced
+ GOOGL          2016    47968     0.637                 30.7          NaN    leadership_governance    leadership_governance         shareholder_primacy
+ GOOGL          2017    47315     0.644                 31.6       0.9908    leadership_governance    leadership_governance         shareholder_primacy
+ GOOGL          2018    46759     0.595                 31.6       0.9934    leadership_governance    leadership_governance         shareholder_primacy
+ GOOGL          2019    52586     0.541                 30.8       0.9730    leadership_governance    leadership_governance                    balanced
+ GOOGL          2020    49496     0.607                 30.3       0.9741    leadership_governance    leadership_governance         shareholder_primacy
+ GOOGL          2021    50256     0.658                 28.7       0.9760    leadership_governance    leadership_governance                    balanced
+ GOOGL          2022    75618     0.549                 24.7       0.9526    leadership_governance    leadership_governance                    balanced
+ GOOGL          2023    67816     0.546                 24.2       0.9674    leadership_governance    leadership_governance                    balanced
+ GOOGL          2024    55133     0.458                 25.0       0.9366    leadership_governance    leadership_governance         shareholder_primacy
+   IBM          2016    42306     0.795                 37.4          NaN    leadership_governance    leadership_governance                    balanced
+   IBM          2017    46020     0.788                 37.2       0.9936    leadership_governance    leadership_governance         shareholder_primacy
+   IBM          2018    47168     0.825                 35.7       0.9858    leadership_governance    leadership_governance                    balanced
+   IBM          2019    52249     0.842                 33.3       0.9899    leadership_governance    leadership_governance                    balanced
+   IBM          2020    51982     0.851                 34.1       0.9886    leadership_governance    leadership_governance                    balanced
+   IBM          2021    54978     0.867                 33.9       0.9866    leadership_governance    leadership_governance        stakeholder_oriented
+   IBM          2022    49741     0.804                 32.5       0.9801    leadership_governance    leadership_governance                    balanced
+   IBM          2023    52176     0.826                 32.7       0.9938    leadership_governance    leadership_governance                    balanced
+   IBM          2024    48916     0.785                 32.8       0.9924    leadership_governance    leadership_governance                    balanced
+  INTC          2016    37797     0.658                 33.2          NaN    leadership_governance    leadership_governance                    balanced
+  INTC          2017    57233     0.668                 33.6       0.9148    leadership_governance    leadership_governance                    balanced
+  INTC          2018    47711     0.725                 32.2       0.9340    leadership_governance    leadership_governance                    balanced
+  INTC          2019    70083     0.758                 31.7       0.9148    leadership_governance    leadership_governance                    balanced
+  INTC          2020    70042     0.794                 28.8       0.9415    leadership_governance    leadership_governance                    balanced
+  INTC          2021    63788     0.784                 29.9       0.9432    leadership_governance      diversity_inclusion                    balanced
+  INTC          2022    85394     0.778                 27.8       0.9306    leadership_governance    leadership_governance                    balanced
+  INTC          2023    83822     0.746                 26.4       0.9507    leadership_governance            people_talent        stakeholder_oriented
+  INTC          2024    61587     0.802                 25.8       0.9443    leadership_governance    leadership_governance                    balanced
+  META          2016   119604     0.555                 34.7          NaN    leadership_governance    leadership_governance         shareholder_primacy
+  META          2017    27814     0.580                 38.4       0.6900    leadership_governance            people_talent                    balanced
+  META          2018    29566     0.483                 37.0       0.9861    leadership_governance      diversity_inclusion        stakeholder_oriented
+  META          2019    37986     0.522                 35.9       0.9740    leadership_governance    leadership_governance                    balanced
+  META          2020    45446     0.587                 33.3       0.9420    leadership_governance    leadership_governance                    balanced
+  META          2021    49413     0.589                 30.6       0.9536    leadership_governance    leadership_governance                    balanced
+  META          2022    49188     0.436                 29.7       0.9252    leadership_governance    leadership_governance                    balanced
+  META          2023    55651     0.493                 27.9       0.9563    leadership_governance    leadership_governance                    balanced
+  META          2024    74616     0.541                 29.4       0.9372    leadership_governance    leadership_governance                    balanced
+  MSFT          2016    30828     0.721                 24.6          NaN    leadership_governance    leadership_governance         shareholder_primacy
+  MSFT          2017    42407     0.763                 27.8       0.8858    leadership_governance    leadership_governance         shareholder_primacy
+  MSFT          2018    49910     0.802                 28.5       0.9075    leadership_governance    leadership_governance                    balanced
+  MSFT          2019    31574     0.800                 25.2       0.8968    leadership_governance    leadership_governance                    balanced
+  MSFT          2020    34775     0.760                 28.1       0.9675    leadership_governance    leadership_governance                    balanced
+  MSFT          2021    37045     0.834                 23.8       0.9872    leadership_governance    leadership_governance                    balanced
+  MSFT          2022    50209     0.760                 24.8       0.9515    leadership_governance    leadership_governance                    balanced
+  MSFT          2023    44094     0.771                 23.2       0.9576    leadership_governance    leadership_governance                    balanced
+  MSFT          2024    48568     0.699                 23.5       0.9809    leadership_governance    leadership_governance                    balanced
+  NVDA          2016    63742     0.757                 29.8          NaN    leadership_governance    leadership_governance                    balanced
+  NVDA          2017    27322     0.791                 35.1       0.7534    leadership_governance    leadership_governance                    balanced
+  NVDA          2018    59945     0.756                 30.5       0.7640    leadership_governance    leadership_governance                    balanced
+  NVDA          2019    27896     0.776                 34.1       0.7729    leadership_governance    leadership_governance                    balanced
+  NVDA          2020    59746     0.740                 30.3       0.7734    leadership_governance    leadership_governance                    balanced
+  NVDA          2021    30844     0.825                 32.0       0.7770    leadership_governance   operational_excellence         shareholder_primacy
+  NVDA          2022    55837     0.761                 29.0       0.8501    leadership_governance    leadership_governance                    balanced
+  NVDA          2023    36786     0.824                 28.3       0.8225    leadership_governance    leadership_governance                    balanced
+  NVDA          2024    37537     0.811                 29.5       0.9716    leadership_governance    leadership_governance                    balanced
+  ORCL          2016    39542     0.713                 34.2          NaN    leadership_governance    leadership_governance                    balanced
+  ORCL          2017    56775     0.672                 33.1       0.9536    leadership_governance    leadership_governance                    balanced
+  ORCL          2018    44479     0.758                 34.6       0.9234    leadership_governance    leadership_governance                    balanced
+  ORCL          2019    42065     0.701                 35.5       0.9758    leadership_governance    leadership_governance                    balanced
+  ORCL          2020    60414     0.591                 35.2       0.9321    leadership_governance    leadership_governance                    balanced
+  ORCL          2021    63427     0.596                 32.5       0.9694    leadership_governance    leadership_governance                    balanced
+  ORCL          2022    41463     0.698                 33.9       0.9389    leadership_governance    leadership_governance                    balanced
+  ORCL          2023    66663     0.678                 31.9       0.9289    leadership_governance    leadership_governance                    balanced
+  ORCL          2024    46108     0.671                 31.0       0.9549    leadership_governance    leadership_governance                    balanced
+----------------------------------------------------------------------
+450 company-years -> data/part2/output/part2_disclosure_metrics.csv
+aggregates: part2_theme_trends_by_year.csv, part2_theme_by_sector.csv, part2_distinctive_terms.csv

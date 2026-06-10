@@ -3,8 +3,14 @@ requests>=2.32
 tenacity>=9.0          # retry/backoff
 
 # --- text extraction / cleaning ---
-trafilatura>=1.12      # main-content extraction (strips nav/footer/boilerplate)
+trafilatura>=1.12      # Part 1: main-content extraction (strips nav/footer/boilerplate)
+beautifulsoup4>=4.12   # Part 2: full-text extraction from large table-heavy proxy HTML
+lxml>=5.0              # bs4 parser backend
 ftfy>=6.2              # fix mojibake / encoding artifacts in archived HTML
+
+# --- classical NLP (Part 2 disclosure analysis) ---
+scikit-learn>=1.4      # tf-idf vectors: year-over-year similarity + distinctive terms
+numpy>=1.26
 
 # --- config + structured data ---
 pyyaml>=6.0

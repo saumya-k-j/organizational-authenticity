@@ -1,0 +1,54 @@
+# External events 2016-2024 hypothesized to move specific value-theme language in
+# proxy statements, used by the event-coincidence analysis (disclosure/events.py).
+#
+# PROXY LAG: a DEF 14A is filed in the spring of its meeting_year N and largely reflects
+# the company's prior-fiscal-year activity and current practices. So a mid-year event in
+# year E first plausibly shows up in proxies with meeting_year E (if the event is early /
+# the proxy is late) and more fully at E+1. `reflect_year` is the conservative "first
+# meeting-year we'd expect the language to move," and the analysis also inspects E-1..E+1.
+#
+# `hypothesis`: 'up' = event should raise the theme's frequency; 'down_or_plateau' = should
+# flatten or reverse it. Alignment is judged from the data; non-alignment is reported, not
+# hidden — these are HYPOTHESES, not assumed truths.
+events:
+  - name: "Paris Agreement enters into force"
+    date: "2016-11"
+    reflect_year: 2017
+    themes: [environmental_stewardship]
+    hypothesis: up
+
+  - name: "Business Roundtable redefines corporate purpose (stakeholder statement)"
+    date: "2019-08"
+    reflect_year: 2020
+    themes: [community_social_good, people_talent]
+    hypothesis: up
+
+  - name: "COVID-19 pandemic onset"
+    date: "2020-03"
+    reflect_year: 2021
+    themes: [people_talent, safety, human_progress_wellbeing]
+    hypothesis: up
+
+  - name: "George Floyd murder / racial-justice reckoning"
+    date: "2020-06"
+    reflect_year: 2021
+    themes: [diversity_inclusion]
+    hypothesis: up
+
+  - name: "SEC human-capital disclosure rule (Reg S-K Item 101(c))"
+    date: "2020-11"
+    reflect_year: 2021
+    themes: [people_talent]
+    hypothesis: up
+
+  - name: "Engine No. 1 wins ExxonMobil board seats on climate platform"
+    date: "2021-05"
+    reflect_year: 2022
+    themes: [environmental_stewardship]
+    hypothesis: up
+
+  - name: "Anti-ESG / anti-DEI political backlash intensifies"
+    date: "2022-2023"
+    reflect_year: 2023
+    themes: [diversity_inclusion, environmental_stewardship]
+    hypothesis: down_or_plateau

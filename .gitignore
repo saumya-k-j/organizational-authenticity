@@ -4,6 +4,8 @@ __pycache__/
 .env
 data/raw/
 data/interim/
+data/part2/raw/
+data/part2/interim/
 .cache/
 logs/*.jsonl
 .DS_Store

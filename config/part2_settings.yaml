@@ -1,0 +1,64 @@
+# Part 2 (Lived Values — disclosure analysis) settings.
+#
+# Source: SEC EDGAR free APIs (data.sec.gov / sec.gov). No key, no paid services.
+# We reuse Part 1's repo layout, on-disk cache, and run-log conventions; only the
+# HTTP politeness profile differs (EDGAR allows ~10 req/s vs Wayback's gentle pace),
+# so this file carries its own rate limit rather than borrowing settings.yaml's.
+
+# Same window as Part 1, bucketed by ANNUAL-MEETING year (see meeting_year_q4_cutover).
+year_start: 2016
+year_end: 2024
+
+# A DEF 14A is filed shortly before the annual meeting it serves. U.S. large-cap
+# meetings cluster in spring, so a proxy filed in Q4 (month >= this cutover) is for
+# NEXT year's meeting. Bucketing by meeting-year (not filing-date year) gives one
+# clean row per annual cycle and resolves off-cycle filers like Apple (files in Dec).
+# Limitation: a minority of June-fiscal-year firms hold Nov/Dec meetings and could be
+# shifted +1; the coverage builder flags any company that ends up with a doubled or
+# empty year so the artifact is visible rather than silent.
+meeting_year_q4_cutover: 10   # filing month >= 10 -> meeting_year = filing_year + 1
+
+# SEC requires a descriptive User-Agent with contact info on every request.
+user_agent: "authenticity-index research (ssaumyajaiswal07@gmail.com)"
+
+# EDGAR's documented ceiling is ~10 requests/second. Stay comfortably under it.
+# 0.12s between requests ~= 8.3 req/s. Everything is cached, so reruns make 0 calls.
+sec_min_interval_seconds: 0.12
+request_timeout_seconds: 30
+max_retries: 4   # exponential backoff on 429 / 5xx before giving up
+
+# Form types: the definitive ANNUAL-MEETING proxy. DEF 14A is the normal code; DEFC14A
+# is the same document filed when the board election is CONTESTED (e.g. ExxonMobil 2021,
+# the Engine No. 1 climate proxy fight) — same genre, so we include it to avoid a
+# spurious gap in exactly the most analytically interesting years. We deliberately
+# EXCLUDE additional soliciting material (DEFA14A), preliminary proxies (PRE*14A), and
+# merger/special-meeting proxies (DEFM14A) — those are not the annual values document.
+form_types: ["DEF 14A", "DEFC14A"]
+
+# CIK overrides for corporate-history discontinuities. company_tickers.json maps a ticker
+# to its CURRENT registrant CIK, which can miss in-window proxies when a company
+# reincorporated or reorganized mid-window. For these tickers we scan an explicit list of
+# CIKs (continuing entity + predecessor) and merge filings by meeting-year, so the time
+# series follows the same economic company across the CIK change. Verified against EDGAR.
+cik_overrides:
+  # BlackRock's 2024 holdco reorg created a new registrant (CIK 2012383) with no 2016-2024
+  # proxy history; the long-standing operating company filed every proxy under 1364742.
+  BLK:  ["0001364742", "0002012383"]
+  # Broadcom Inc. (1730168) was created in 2018 when Broadcom Ltd (Singapore) redomiciled
+  # to the US; the 2016-2018 proxies are under the predecessor Broadcom Ltd (1649338).
+  AVGO: ["0001730168", "0001649338"]
+
+# --- Analysis knobs ---
+analysis:
+  # LLM tagging is bounded to a values-relevant excerpt (proxies are 100+ pages, mostly
+  # compensation tables and director bios; value language is concentrated). We pull
+  # paragraphs hitting the value-cue lexicon, capped at this many characters.
+  excerpt_max_chars: 14000
+  # tf-idf vocabulary cap for cross-company/sector distinctive-term tables.
+  tfidf_max_features: 4000
+  tfidf_min_df: 2          # ignore terms in fewer than 2 filings (noise)
+
+llm:
+  # Same frozen 13-theme taxonomy as Part 1, so the two channels are comparable.
+  classify_model: "claude-haiku-4-5"
+  max_tokens: 1200

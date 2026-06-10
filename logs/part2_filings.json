@@ -1,0 +1,5430 @@
+{
+  "AAPL": {
+    "cik": "0000320193",
+    "name": "Apple",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-422528",
+        "form": "DEF 14A",
+        "filing_date": "2016-01-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320193/000119312516422528/d79474ddef14a.htm",
+        "n_chars": 295725,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-003753",
+        "form": "DEF 14A",
+        "filing_date": "2017-01-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320193/000119312517003753/d257185ddef14a.htm",
+        "n_chars": 208567,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-17-380130",
+        "form": "DEF 14A",
+        "filing_date": "2017-12-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320193/000119312517380130/d400278ddef14a.htm",
+        "n_chars": 238298,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-004664",
+        "form": "DEF 14A",
+        "filing_date": "2019-01-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320193/000119312519004664/d667873ddef14a.htm",
+        "n_chars": 177451,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-001450",
+        "form": "DEF 14A",
+        "filing_date": "2020-01-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320193/000119312520001450/d799303ddef14a.htm",
+        "n_chars": 187489,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-001987",
+        "form": "DEF 14A",
+        "filing_date": "2021-01-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320193/000119312521001987/d767770ddef14a.htm",
+        "n_chars": 191314,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-003583",
+        "form": "DEF 14A",
+        "filing_date": "2022-01-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320193/000119312522003583/d222670ddef14a.htm",
+        "n_chars": 366841,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001308179-23-000019",
+        "form": "DEF 14A",
+        "filing_date": "2023-01-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320193/000130817923000019/laap2023_def14a.htm",
+        "n_chars": 301298,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001308179-24-000010",
+        "form": "DEF 14A",
+        "filing_date": "2024-01-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320193/000130817924000010/laapl2024_def14a.htm",
+        "n_chars": 309423,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "JPM": {
+    "cik": "0000019617",
+    "name": "JPMorgan Chase",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0000019617-16-000933",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961716000933/jpmc2016definitiveproxy.htm",
+        "n_chars": 353501,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0000019617-17-000340",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961717000340/jpmc2017definitiveproxy.htm",
+        "n_chars": 321478,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0000019617-18-000077",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961718000077/jpmc2018definitiveproxy.htm",
+        "n_chars": 415628,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-098338",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/19617/000119312519098338/d695908ddef14a.htm",
+        "n_chars": 338644,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-098865",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/19617/000119312520098865/d822689ddef14a.htm",
+        "n_chars": 370902,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0000019617-21-000275",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961721000275/a2021proxystatement.htm",
+        "n_chars": 440510,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0000019617-22-000303",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961722000303/a2022proxystatement.htm",
+        "n_chars": 415196,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000019617-23-000281",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961723000281/jpm-20230403.htm",
+        "n_chars": 462214,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000019617-24-000273",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961724000273/jpm-20240406.htm",
+        "n_chars": 501256,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "XOM": {
+    "cik": "0000034088",
+    "name": "ExxonMobil",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-539460",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312516539460/d14941ddef14a.htm",
+        "n_chars": 256577,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-122538",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312517122538/d182248ddef14a.htm",
+        "n_chars": 226954,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-115091",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312518115091/d527562ddef14a.htm",
+        "n_chars": 193067,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-103474",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312519103474/d686227ddef14a.htm",
+        "n_chars": 232180,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-102226",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312520102226/d869473ddef14a.htm",
+        "n_chars": 230373,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-082140",
+        "form": "DEFC14A",
+        "filing_date": "2021-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312521082140/d94159ddefc14a.htm",
+        "n_chars": 333278,
+        "status": "ok",
+        "n_candidates": 2,
+        "alternates": [
+          "0000902664-21-001931"
+        ]
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-098314",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312522098314/d280259ddef14a.htm",
+        "n_chars": 279381,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-100079",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312523100079/d429320ddef14a.htm",
+        "n_chars": 405014,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-092545",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312524092545/d784249ddef14a.htm",
+        "n_chars": 359884,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 1
+  },
+  "MSFT": {
+    "cik": "0000789019",
+    "name": "Microsoft",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001206774-15-003229",
+        "form": "DEF 14A",
+        "filing_date": "2015-10-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/789019/000120677415003229/microsoft_def14a.htm",
+        "n_chars": 222777,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-16-740758",
+        "form": "DEF 14A",
+        "filing_date": "2016-10-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312516740758/d243670ddef14a.htm",
+        "n_chars": 295373,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-17-310951",
+        "form": "DEF 14A",
+        "filing_date": "2017-10-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312517310951/d461626ddef14a.htm",
+        "n_chars": 346125,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-18-300115",
+        "form": "DEF 14A",
+        "filing_date": "2018-10-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312518300115/d588721ddef14a.htm",
+        "n_chars": 231287,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-19-268531",
+        "form": "DEF 14A",
+        "filing_date": "2019-10-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312519268531/d791036ddef14a.htm",
+        "n_chars": 252855,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-20-272025",
+        "form": "DEF 14A",
+        "filing_date": "2020-10-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312520272025/d31295ddef14a.htm",
+        "n_chars": 270846,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-21-298757",
+        "form": "DEF 14A",
+        "filing_date": "2021-10-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312521298757/d189481ddef14a.htm",
+        "n_chars": 358622,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-22-270484",
+        "form": "DEF 14A",
+        "filing_date": "2022-10-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312522270484/d318171ddef14a.htm",
+        "n_chars": 319251,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-23-259247",
+        "form": "DEF 14A",
+        "filing_date": "2023-10-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312523259247/d356108ddef14a.htm",
+        "n_chars": 352082,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "NVDA": {
+    "cik": "0001045810",
+    "name": "NVIDIA",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001045810-16-000229",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581016000229/nvda2016proxystatement.htm",
+        "n_chars": 417239,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001045810-17-000063",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581017000063/nvda2017proxystatement.htm",
+        "n_chars": 189267,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001045810-18-000047",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581018000047/nvda2018proxystatementsecf.htm",
+        "n_chars": 392235,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001045810-19-000070",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581019000070/nvda2019definitiveproxysta.htm",
+        "n_chars": 191371,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001045810-20-000055",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000055/nvda2020definitiveproxysta.htm",
+        "n_chars": 391101,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001045810-21-000052",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000052/nvda2021definitiveproxysta.htm",
+        "n_chars": 211703,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001045810-22-000067",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000067/nvda2022definitiveproxysta.htm",
+        "n_chars": 368585,
+        "status": "ok",
+        "n_candidates": 2,
+        "alternates": [
+          "0001045810-22-000068"
+        ]
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001045810-23-000080",
+        "form": "DEF 14A",
+        "filing_date": "2023-05-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000080/nvda-20230508.htm",
+        "n_chars": 256173,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001045810-24-000104",
+        "form": "DEF 14A",
+        "filing_date": "2024-05-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000104/nvda-20240514.htm",
+        "n_chars": 258617,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 1
+  },
+  "GOOGL": {
+    "cik": "0001652044",
+    "name": "Alphabet",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001308179-16-000384",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817916000384/lgoog_def14a.htm",
+        "n_chars": 321088,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001308179-17-000170",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817917000170/lgoog2017_def14a.htm",
+        "n_chars": 317612,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001308179-18-000222",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817918000222/lgoog2018-def14a.htm",
+        "n_chars": 313741,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001308179-19-000205",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817919000205/lgoog2019_def14a.htm",
+        "n_chars": 354575,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001308179-20-000203",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-24",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817920000203/lgoog2020_def14a.htm",
+        "n_chars": 328606,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001308179-21-000256",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817921000256/lgoog2021_def14a.htm",
+        "n_chars": 340974,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001308179-22-000262",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817922000262/lgoog2022_def14a.htm",
+        "n_chars": 514088,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001308179-23-000736",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817923000736/lgoog2023_def14a.htm",
+        "n_chars": 471340,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001308179-24-000612",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817924000612/lgoog2024_def14a.htm",
+        "n_chars": 387446,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "META": {
+    "cik": "0001326801",
+    "name": "Meta Platforms",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001326801-16-000074",
+        "form": "DEF 14A",
+        "filing_date": "2016-06-02",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680116000074/facebook2016definitiveprox.htm",
+        "n_chars": 755145,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001326801-17-000016",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680117000016/facebook2017definitiveprox.htm",
+        "n_chars": 186898,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001326801-18-000022",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680118000022/facebook2018definitiveprox.htm",
+        "n_chars": 199241,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001326801-19-000025",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680119000025/facebook2019definitiveprox.htm",
+        "n_chars": 255992,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001326801-20-000037",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-10",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680120000037/facebook2020definitiveprox.htm",
+        "n_chars": 306581,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001326801-21-000022",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000022/facebook2021definitiveprox.htm",
+        "n_chars": 334090,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001326801-22-000043",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000043/meta2022definitiveproxysta.htm",
+        "n_chars": 336109,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001326801-23-000050",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000050/meta-20230414.htm",
+        "n_chars": 382509,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001326801-24-000034",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000034/meta-20240418.htm",
+        "n_chars": 500917,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "AVGO": {
+    "cik": "0001730168",
+    "ciks_scanned": [
+      "0001730168",
+      "0001649338"
+    ],
+    "name": "Broadcom",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-472407",
+        "form": "DEF 14A",
+        "filing_date": "2016-02-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1649338/000119312516472407/d74459ddef14a.htm",
+        "n_chars": 282888,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-047986",
+        "form": "DEF 14A",
+        "filing_date": "2017-02-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1649338/000119312517047986/d260861ddef14a.htm",
+        "n_chars": 486551,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-050352",
+        "form": "DEF 14A",
+        "filing_date": "2018-02-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1649338/000119312518050352/d477352ddef14a.htm",
+        "n_chars": 525358,
+        "status": "ok",
+        "n_candidates": 3,
+        "alternates": [
+          "0001193125-18-076991",
+          "0001193125-18-004449"
+        ]
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-043540",
+        "form": "DEF 14A",
+        "filing_date": "2019-02-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312519043540/d676557ddef14a.htm",
+        "n_chars": 312549,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001730168-20-000020",
+        "form": "DEF 14A",
+        "filing_date": "2020-02-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016820000020/a2020proxystatement.htm",
+        "n_chars": 220601,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001730168-21-000017",
+        "form": "DEF 14A",
+        "filing_date": "2021-02-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016821000017/a2021proxystatement.htm",
+        "n_chars": 346794,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001730168-22-000012",
+        "form": "DEF 14A",
+        "filing_date": "2022-02-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016822000012/a2022proxystatement.htm",
+        "n_chars": 221956,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001140361-23-007640",
+        "form": "DEF 14A",
+        "filing_date": "2023-02-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1730168/000114036123007640/ny20006245x500_def14a.htm",
+        "n_chars": 325034,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001140361-24-009541",
+        "form": "DEF 14A",
+        "filing_date": "2024-02-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1730168/000114036124009541/ny20015852x1_def14a.htm",
+        "n_chars": 230217,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 1
+  },
+  "CRM": {
+    "cik": "0001108524",
+    "name": "Salesforce",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-550325",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312516550325/d27574ddef14a.htm",
+        "n_chars": 241139,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-139646",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312517139646/d333785ddef14a.htm",
+        "n_chars": 507943,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-148743",
+        "form": "DEF 14A",
+        "filing_date": "2018-05-02",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312518148743/d491144ddef14a.htm",
+        "n_chars": 532101,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-119702",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312519119702/d664082ddef14a.htm",
+        "n_chars": 541888,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-131040",
+        "form": "DEF 14A",
+        "filing_date": "2020-05-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312520131040/d861721ddef14a.htm",
+        "n_chars": 547064,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-140350",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312521140350/d80344ddef14a.htm",
+        "n_chars": 442766,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-127612",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312522127612/d301179ddef14a.htm",
+        "n_chars": 558564,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-122123",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312523122123/d406753ddef14a.htm",
+        "n_chars": 501832,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-140549",
+        "form": "DEF 14A",
+        "filing_date": "2024-05-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312524140549/d26900ddef14a.htm",
+        "n_chars": 532245,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "ORCL": {
+    "cik": "0001341439",
+    "name": "Oracle",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-718528",
+        "form": "DEF 14A",
+        "filing_date": "2016-09-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312516718528/d234553ddef14a.htm",
+        "n_chars": 270734,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-297858",
+        "form": "DEF 14A",
+        "filing_date": "2017-09-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312517297858/d382058ddef14a.htm",
+        "n_chars": 382190,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-283993",
+        "form": "DEF 14A",
+        "filing_date": "2018-09-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312518283993/d623045ddef14a.htm",
+        "n_chars": 304888,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-257430",
+        "form": "DEF 14A",
+        "filing_date": "2019-09-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312519257430/d755300ddef14a.htm",
+        "n_chars": 287835,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-249194",
+        "form": "DEF 14A",
+        "filing_date": "2020-09-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312520249194/d78987ddef14a.htm",
+        "n_chars": 403105,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-282422",
+        "form": "DEF 14A",
+        "filing_date": "2021-09-24",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312521282422/d162163ddef14a.htm",
+        "n_chars": 424907,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-250158",
+        "form": "DEF 14A",
+        "filing_date": "2022-09-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312522250158/d357923ddef14a.htm",
+        "n_chars": 282552,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-240594",
+        "form": "DEF 14A",
+        "filing_date": "2023-09-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312523240594/d744477ddef14a.htm",
+        "n_chars": 447997,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-226139",
+        "form": "DEF 14A",
+        "filing_date": "2024-09-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312524226139/d860928ddef14a.htm",
+        "n_chars": 319098,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "IBM": {
+    "cik": "0000051143",
+    "name": "IBM",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001104659-16-102981",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465916102981/a16-2282_1def14a.htm",
+        "n_chars": 290486,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001104659-17-016116",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465917016116/a17-2254_1def14a.htm",
+        "n_chars": 316137,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001104659-18-016710",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465918016710/a18-2910_1def14a.htm",
+        "n_chars": 327598,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001104659-19-013856",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465919013856/a19-2536_1def14a.htm",
+        "n_chars": 364670,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-067199",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/51143/000119312520067199/d845103ddef14a.htm",
+        "n_chars": 362933,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-073223",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/51143/000119312521073223/d46027ddef14a.htm",
+        "n_chars": 384652,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001104659-22-031075",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465922031075/tm2122634-2_def14a.htm",
+        "n_chars": 383452,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001104659-23-029014",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465923029014/tm231774d2_def14a.htm",
+        "n_chars": 406296,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001104659-24-032641",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465924032641/tm2329614-d3_def14a.htm",
+        "n_chars": 379611,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "INTC": {
+    "cik": "0000050863",
+    "name": "Intel",
+    "sector": "Technology",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-528154",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/50863/000119312516528154/d286791ddef14a.htm",
+        "n_chars": 267422,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-112133",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/50863/000119312517112133/d312067ddef14a.htm",
+        "n_chars": 395138,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-107675",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/50863/000119312518107675/d498273ddef14a.htm",
+        "n_chars": 337114,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-095785",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/50863/000119312519095785/d648184ddef14a.htm",
+        "n_chars": 481619,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-091451",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-31",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/50863/000119312520091451/d835759ddef14a.htm",
+        "n_chars": 487404,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-098458",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/50863/000119312521098458/d86711ddef14a.htm",
+        "n_chars": 447995,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0000050863-22-000011",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086322000011/proxy2022.htm",
+        "n_chars": 587336,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000050863-23-000021",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-31",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000021/intc-20230327.htm",
+        "n_chars": 579841,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000050863-24-000057",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000057/intc-20240327.htm",
+        "n_chars": 436037,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "BRK.B": {
+    "cik": "0001067983",
+    "name": "Berkshire Hathaway",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-501649",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312516501649/d117328ddef14a.htm",
+        "n_chars": 61724,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-087493",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312517087493/d305499ddef14a.htm",
+        "n_chars": 76095,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-086050",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312518086050/d526293ddef14a.htm",
+        "n_chars": 74493,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-076915",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312519076915/d684203ddef14a.htm",
+        "n_chars": 63306,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-072952",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312520072952/d856491ddef14a.htm",
+        "n_chars": 77727,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-080418",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312521080418/d938053ddef14a.htm",
+        "n_chars": 76149,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-073447",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312522073447/d208624ddef14a.htm",
+        "n_chars": 83727,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-073948",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312523073948/d362436ddef14a.htm",
+        "n_chars": 99952,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-069107",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312524069107/d512828ddef14a.htm",
+        "n_chars": 105198,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "BAC": {
+    "cik": "0000070858",
+    "name": "Bank of America",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-508200",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312516508200/d87843ddef14a.htm",
+        "n_chars": 282782,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-082970",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312517082970/d269586ddef14a.htm",
+        "n_chars": 345449,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-078695",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312518078695/d501004ddef14a.htm",
+        "n_chars": 340627,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-072939",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312519072939/d641622ddef14a.htm",
+        "n_chars": 508324,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-066901",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312520066901/d839807ddef14a.htm",
+        "n_chars": 397172,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-072547",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312521072547/d937842ddef14a.htm",
+        "n_chars": 555437,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-067335",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312522067335/d222593ddef14a.htm",
+        "n_chars": 471317,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-062686",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312523062686/d294559ddef14a.htm",
+        "n_chars": 622204,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-064529",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312524064529/d529855ddef14a.htm",
+        "n_chars": 573329,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "WFC": {
+    "cik": "0000072971",
+    "name": "Wells Fargo",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-506771",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/72971/000119312516506771/d897049ddef14a.htm",
+        "n_chars": 399550,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-083591",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/72971/000119312517083591/d305364ddef14a.htm",
+        "n_chars": 473555,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-082312",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/72971/000119312518082312/d522023ddef14a.htm",
+        "n_chars": 484606,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-073314",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/72971/000119312519073314/d699854ddef14a.htm",
+        "n_chars": 663054,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-074921",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/72971/000119312520074921/d864220ddef14a.htm",
+        "n_chars": 504830,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-082907",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/72971/000119312521082907/d71313ddef14a.htm",
+        "n_chars": 514634,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-074612",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/72971/000119312522074612/d304150ddef14a.htm",
+        "n_chars": 548016,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-071373",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/72971/000119312523071373/d399928ddef14a.htm",
+        "n_chars": 468638,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000072971-24-000084",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000084/wfc-20240315.htm",
+        "n_chars": 512315,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "GS": {
+    "cik": "0000886982",
+    "name": "Goldman Sachs",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-534905",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/886982/000119312516534905/d147599ddef14a.htm",
+        "n_chars": 316489,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-086538",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/886982/000119312517086538/d535038ddef14a.htm",
+        "n_chars": 309456,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-093157",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/886982/000119312518093157/d552223ddef14a.htm",
+        "n_chars": 461525,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-082951",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/886982/000119312519082951/d635602ddef14a.htm",
+        "n_chars": 350042,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-080718",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/886982/000119312520080718/d813631ddef14a.htm",
+        "n_chars": 323042,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-087020",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/886982/000119312521087020/d88664ddef14a.htm",
+        "n_chars": 505500,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-079120",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/886982/000119312522079120/d62428ddef14a.htm",
+        "n_chars": 404062,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-073347",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/886982/000119312523073347/d353280ddef14a.htm",
+        "n_chars": 477700,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-068743",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/886982/000119312524068743/d541341ddef14a.htm",
+        "n_chars": 470494,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "MS": {
+    "cik": "0000895421",
+    "name": "Morgan Stanley",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001206774-16-005286",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/895421/000120677416005286/morgan_def14a.htm",
+        "n_chars": 357603,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001206774-17-001114",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/895421/000120677417001114/ms3206591-def14a.htm",
+        "n_chars": 441012,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-109962",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/895421/000119312518109962/d492849ddef14a.htm",
+        "n_chars": 280568,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-099179",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/895421/000119312519099179/d637011ddef14a.htm",
+        "n_chars": 294859,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-098079",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/895421/000119312520098079/d815633ddef14a.htm",
+        "n_chars": 288940,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001140361-21-011226",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/895421/000114036121011226/nc10017073x1_def14a.htm",
+        "n_chars": 356214,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001140361-22-013794",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/895421/000114036122013794/ny20000909x1_def14a.htm",
+        "n_chars": 295385,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001140361-23-016930",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/895421/000114036123016930/ny20005681x1_def14a.htm",
+        "n_chars": 340922,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001140361-24-018302",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/895421/000114036124018302/ny20020759x1_def14a.htm",
+        "n_chars": 457009,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "BLK": {
+    "cik": "0001364742",
+    "ciks_scanned": [
+      "0001364742",
+      "0002012383"
+    ],
+    "name": "BlackRock",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-542189",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312516542189/d151567ddef14a.htm",
+        "n_chars": 281152,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-123291",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312517123291/d331228ddef14a.htm",
+        "n_chars": 310185,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-116163",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312518116163/d507277ddef14a.htm",
+        "n_chars": 347600,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-104809",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312519104809/d632173ddef14a.htm",
+        "n_chars": 349615,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-102552",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312520102552/d814850ddef14a.htm",
+        "n_chars": 359215,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-118007",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312521118007/d73637ddef14a.htm",
+        "n_chars": 412505,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-105534",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312522105534/d263204ddef14a.htm",
+        "n_chars": 351738,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-101977",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312523101977/d455540ddef14a.htm",
+        "n_chars": 397684,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-087282",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312524087282/d577664ddef14a.htm",
+        "n_chars": 513954,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "SCHW": {
+    "cik": "0000316709",
+    "name": "Charles Schwab",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-523055",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312516523055/d107634ddef14a.htm",
+        "n_chars": 197261,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-103408",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312517103408/d319517ddef14a.htm",
+        "n_chars": 211778,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-103068",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312518103068/d525917ddef14a.htm",
+        "n_chars": 395664,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-092204",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312519092204/d700802ddef14a.htm",
+        "n_chars": 198050,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-092483",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-31",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312520092483/d868781ddef14a.htm",
+        "n_chars": 397158,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-104906",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-02",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312521104906/d31802ddef14a.htm",
+        "n_chars": 235787,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-093320",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312522093320/d246025ddef14a.htm",
+        "n_chars": 413575,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-086655",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-31",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312523086655/d416280ddef14a.htm",
+        "n_chars": 273604,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-087883",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312524087883/d522898ddef14a.htm",
+        "n_chars": 277082,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "AXP": {
+    "cik": "0000004962",
+    "name": "American Express",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001206774-16-005032",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000120677416005032/amex_def14a.htm",
+        "n_chars": 407453,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001206774-17-000900",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000120677417000900/amex3153611-def14a.htm",
+        "n_chars": 282656,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001206774-18-000866",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000120677418000866/amex3289431-def14a.htm",
+        "n_chars": 320083,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001206774-19-000869",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000120677419000869/axp3463051-def14a.htm",
+        "n_chars": 312122,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-083487",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-24",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000119312520083487/d804770ddef14a.htm",
+        "n_chars": 361780,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-087284",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000119312521087284/d919404ddef14a.htm",
+        "n_chars": 321460,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-079264",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000119312522079264/d235027ddef14a.htm",
+        "n_chars": 295963,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-073923",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000119312523073923/d326074ddef14a.htm",
+        "n_chars": 343189,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-068837",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000119312524068837/d558747ddef14a.htm",
+        "n_chars": 459514,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "C": {
+    "cik": "0000831001",
+    "name": "Citigroup",
+    "sector": "Financials",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001206774-16-004949",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/831001/000120677416004949/citi_def14a.htm",
+        "n_chars": 524713,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001206774-17-000828",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/831001/000120677417000828/citi3148651-def14a.htm",
+        "n_chars": 398774,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001206774-18-000792",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/831001/000120677418000792/citi3349731-def14a.htm",
+        "n_chars": 520359,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001206774-19-000719",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/831001/000120677419000719/citi3503291-def14a.htm",
+        "n_chars": 477947,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001206774-20-000777",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/831001/000120677420000777/citi3648191-def14a.htm",
+        "n_chars": 515473,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001206774-21-000735",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/831001/000120677421000735/citi3828191-def14a.htm",
+        "n_chars": 548306,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001206774-22-000697",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/831001/000120677422000697/citi3969751-def14a.htm",
+        "n_chars": 514492,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001206774-23-000374",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/831001/000120677423000374/citi4100891-def14a.htm",
+        "n_chars": 532399,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001145443-24-000041",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/831001/000114544324000041/citi4284971-def14a.htm",
+        "n_chars": 556127,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "LLY": {
+    "cik": "0000059478",
+    "name": "Eli Lilly",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0000059478-16-000331",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947816000331/proxy2016.htm",
+        "n_chars": 199626,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0000059478-17-000108",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947817000108/proxy2017.htm",
+        "n_chars": 280579,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0000059478-18-000111",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947818000111/proxy2018_def14a.htm",
+        "n_chars": 374555,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0000059478-19-000146",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947819000146/proxy2019_def14a.htm",
+        "n_chars": 250354,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0000059478-20-000080",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947820000080/proxy2020_def14a.htm",
+        "n_chars": 291749,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0000059478-21-000104",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947821000104/llydef14a2021.htm",
+        "n_chars": 332901,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0000059478-22-000099",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000099/llydef14a2022.htm",
+        "n_chars": 373660,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000059478-23-000120",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000120/lly-20230317.htm",
+        "n_chars": 409040,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000059478-24-000099",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000099/lly-20240322.htm",
+        "n_chars": 367890,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "UNH": {
+    "cik": "0000731766",
+    "name": "UnitedHealth Group",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001047469-16-012475",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/731766/000104746916012475/a2228249zdef14a.htm",
+        "n_chars": 302207,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001047469-17-002810",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/731766/000104746917002810/a2231776zdef14a.htm",
+        "n_chars": 321530,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001047469-18-002993",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/731766/000104746918002993/a2235292zdef14a.htm",
+        "n_chars": 320466,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001047469-19-002425",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/731766/000104746919002425/a2238439zdef14a.htm",
+        "n_chars": 317002,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001047469-20-002403",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/731766/000104746920002403/a2241322zdef14a.htm",
+        "n_chars": 414293,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001047469-21-001031",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/731766/000104746921001031/a2243195zdef14a.htm",
+        "n_chars": 368589,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001104659-22-048923",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/731766/000110465922048923/tm223410-1_def14a.htm",
+        "n_chars": 323082,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001104659-23-048439",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/731766/000110465923048439/tm231840d2_def14a.htm",
+        "n_chars": 363979,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001104659-24-050055",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/731766/000110465924050055/tm2332959d4_def14a.htm",
+        "n_chars": 337029,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "JNJ": {
+    "cik": "0000200406",
+    "name": "Johnson & Johnson",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-505952",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000119312516505952/d110075ddef14a.htm",
+        "n_chars": 279858,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0000200406-17-000015",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040617000015/a2017jnjproxy.htm",
+        "n_chars": 344165,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0000200406-18-000009",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040618000009/a2018jnjproxy.htm",
+        "n_chars": 269109,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0000200406-19-000013",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040619000013/a2019jnjproxy.htm",
+        "n_chars": 299917,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0000200406-20-000018",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040620000018/jnjproxy2020.htm",
+        "n_chars": 322926,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0000200406-21-000011",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-10",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000011/jnjproxy2021.htm",
+        "n_chars": 377599,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0000200406-22-000026",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000026/a2022jnjproxy.htm",
+        "n_chars": 619305,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000200406-23-000023",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040623000023/jnj-20230313.htm",
+        "n_chars": 398736,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000200406-24-000024",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000024/jnj-20240311.htm",
+        "n_chars": 349460,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "ABBV": {
+    "cik": "0001551152",
+    "name": "AbbVie",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001047469-16-011386",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746916011386/a2227878zdef14a.htm",
+        "n_chars": 233660,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001047469-17-001778",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746917001778/a2231406zdef14a.htm",
+        "n_chars": 238148,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001047469-18-001843",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746918001843/a2234787zdef14a.htm",
+        "n_chars": 260179,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001047469-19-001544",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746919001544/a2238040zdef14a.htm",
+        "n_chars": 258338,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001047469-20-001710",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746920001710/a2241076zdef14a.htm",
+        "n_chars": 261839,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001558370-21-003318",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837021003318/tmb-20210507xdef14a.htm",
+        "n_chars": 426403,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001558370-22-004011",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837022004011/tmb-20220506xdef14a.htm",
+        "n_chars": 286432,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001558370-23-004204",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837023004204/abbv-20230505xdef14a.htm",
+        "n_chars": 324779,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001558370-24-003496",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837024003496/abbv-20240503xdef14a.htm",
+        "n_chars": 328139,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "MRK": {
+    "cik": "0000310158",
+    "name": "Merck",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001308179-16-000336",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/310158/000130817916000336/lmrk2016_def14a.htm",
+        "n_chars": 289453,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001308179-17-000129",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-10",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/310158/000130817917000129/lmrk2017_def14a.htm",
+        "n_chars": 302963,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001308179-18-000164",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/310158/000130817918000164/lmrk2018_def14a.htm",
+        "n_chars": 274557,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001140361-19-006720",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/310158/000114036119006720/mrk-def14a_052819.htm",
+        "n_chars": 375937,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-099563",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/310158/000119312520099563/d766375ddef14a.htm",
+        "n_chars": 282956,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-106317",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/310158/000119312521106317/d50486ddef14a.htm",
+        "n_chars": 294375,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-095134",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/310158/000119312522095134/d154286ddef14a.htm",
+        "n_chars": 330725,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-089525",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/310158/000119312523089525/d277607ddef14a.htm",
+        "n_chars": 395366,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-093204",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/310158/000119312524093204/d500367ddef14a.htm",
+        "n_chars": 357010,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "TMO": {
+    "cik": "0000097745",
+    "name": "Thermo Fisher",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-530108",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/97745/000119312516530108/d11389ddef14a.htm",
+        "n_chars": 220178,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0000097745-17-000014",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774517000014/a2017proxy.htm",
+        "n_chars": 204342,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0000097745-18-000011",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-10",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774518000011/a2018proxy.htm",
+        "n_chars": 215455,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-101242",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/97745/000119312519101242/d614669ddef14a.htm",
+        "n_chars": 274154,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001140361-20-008182",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/97745/000114036120008182/nc10010542x1-def14a.htm",
+        "n_chars": 281442,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0000097745-21-000019",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774521000019/thermofisher2021proxy.htm",
+        "n_chars": 299209,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0000097745-22-000018",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774522000018/thermofisher2022proxy.htm",
+        "n_chars": 281654,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000097745-23-000025",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774523000025/tmo-20230404.htm",
+        "n_chars": 400239,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-090173",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/97745/000119312524090173/d531012ddef14a.htm",
+        "n_chars": 285180,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "ABT": {
+    "cik": "0000001800",
+    "name": "Abbott Laboratories",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001047469-16-011351",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000104746916011351/a2227343zdef14a.htm",
+        "n_chars": 219143,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001047469-17-001713",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000104746917001713/a2230920zdef14a.htm",
+        "n_chars": 382219,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001047469-18-001774",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000104746918001774/a2234262zdef14a.htm",
+        "n_chars": 245111,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001047469-19-001316",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000104746919001316/a2237648zdef14a.htm",
+        "n_chars": 227418,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001047469-20-001466",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000104746920001466/a2240611zdef14a.htm",
+        "n_chars": 250249,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001047469-21-000592",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000104746921000592/a2242988zdef14a.htm",
+        "n_chars": 311160,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001206774-22-000778",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000120677422000778/abt3910011-def14a.htm",
+        "n_chars": 267185,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001308179-23-000247",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000130817923000247/abt4116441-def14a.htm",
+        "n_chars": 283233,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001308179-24-000182",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000130817924000182/abt4257331-def14a.htm",
+        "n_chars": 251933,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "PFE": {
+    "cik": "0000078003",
+    "name": "Pfizer",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0000930413-16-006044",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000093041316006044/c83881_def14a.htm",
+        "n_chars": 398146,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0000930413-17-001059",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000093041317001059/c87415_def14a.htm",
+        "n_chars": 424210,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0000930413-18-000973",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000093041318000973/c90444_def14a.htm",
+        "n_chars": 472510,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0000930413-19-000953",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000093041319000953/c93082_def14a.htm",
+        "n_chars": 563283,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0000930413-20-000781",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000093041320000781/c94228_def14a.htm",
+        "n_chars": 458699,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0000078003-21-000047",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000047/proxystatement.htm",
+        "n_chars": 443132,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0000078003-22-000038",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000038/proxywc22.htm",
+        "n_chars": 381485,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000078003-23-000040",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800323000040/pfe-20230315.htm",
+        "n_chars": 426446,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000078003-24-000068",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000068/pfe-20240313.htm",
+        "n_chars": 507670,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "MDT": {
+    "cik": "0001613103",
+    "name": "Medtronic",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-677599",
+        "form": "DEF 14A",
+        "filing_date": "2016-08-10",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1613103/000119312516677599/d210423ddef14a.htm",
+        "n_chars": 598659,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001308179-17-000223",
+        "form": "DEF 14A",
+        "filing_date": "2017-08-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1613103/000130817917000223/lmdt2017_def14a.htm",
+        "n_chars": 429736,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001308179-18-000261",
+        "form": "DEF 14A",
+        "filing_date": "2018-08-24",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1613103/000130817918000261/lmdt2018-def14a.htm",
+        "n_chars": 262998,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001308179-19-000222",
+        "form": "DEF 14A",
+        "filing_date": "2019-08-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1613103/000130817919000222/lmdt2019_def14a.htm",
+        "n_chars": 282734,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-220558",
+        "form": "DEF 14A",
+        "filing_date": "2020-08-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1613103/000119312520220558/d941945ddef14a.htm",
+        "n_chars": 308408,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-259369",
+        "form": "DEF 14A",
+        "filing_date": "2021-08-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1613103/000119312521259369/d220554ddef14a.htm",
+        "n_chars": 464370,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-225369",
+        "form": "DEF 14A",
+        "filing_date": "2022-08-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1613103/000119312522225369/d382106ddef14a.htm",
+        "n_chars": 297429,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001613103-23-000108",
+        "form": "DEF 14A",
+        "filing_date": "2023-08-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310323000108/mdt-20230811.htm",
+        "n_chars": 346456,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001613103-24-000124",
+        "form": "DEF 14A",
+        "filing_date": "2024-08-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310324000124/mdt-20240809.htm",
+        "n_chars": 307637,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "BMY": {
+    "cik": "0000014272",
+    "name": "Bristol-Myers Squibb",
+    "sector": "Healthcare",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001047469-16-011495",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/14272/000104746916011495/a2227801zdef14a.htm",
+        "n_chars": 316320,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001047469-17-001940",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/14272/000104746917001940/a2231412zdef14a.htm",
+        "n_chars": 457723,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001047469-18-002011",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/14272/000104746918002011/a2234920zdef14a.htm",
+        "n_chars": 316511,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001047469-19-002763",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/14272/000104746919002763/a2238565zdef14a.htm",
+        "n_chars": 298571,
+        "status": "ok",
+        "n_candidates": 2,
+        "alternates": [
+          "0000921895-19-000749"
+        ]
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001140361-20-006834",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/14272/000114036120006834/nc10007007x1_def14a.htm",
+        "n_chars": 369210,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001140361-21-010010",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/14272/000114036121010010/nc10020324x2_def14a.htm",
+        "n_chars": 494946,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001140361-22-010987",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-24",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/14272/000114036122010987/ny20002084x1_def14a.htm",
+        "n_chars": 345832,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001140361-23-013442",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/14272/000114036123013442/ny20006581x1_def14a.htm",
+        "n_chars": 395499,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001140361-24-016251",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/14272/000114036124016251/ny20016133x2_def14a.htm",
+        "n_chars": 429223,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 1
+  },
+  "AMZN": {
+    "cik": "0001018724",
+    "name": "Amazon",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-530747",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312516530747/d78603ddef14a.htm",
+        "n_chars": 123588,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-120195",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312517120195/d334778ddef14a.htm",
+        "n_chars": 178445,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-121077",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312518121077/d514607ddef14a.htm",
+        "n_chars": 133705,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-102995",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312519102995/d667736ddef14a.htm",
+        "n_chars": 220026,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-108422",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312520108422/d897711ddef14a.htm",
+        "n_chars": 283367,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001104659-21-050333",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465921050333/tm2035374-1_def14a.htm",
+        "n_chars": 350824,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001104659-22-045572",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465922045572/tm223357-5_def14a.htm",
+        "n_chars": 502628,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001104659-23-044708",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465923044708/tm233694d2_def14a.htm",
+        "n_chars": 555661,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001104659-24-045910",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465924045910/tm2329302d4_def14a.htm",
+        "n_chars": 506676,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "TSLA": {
+    "cik": "0001318605",
+    "name": "Tesla",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-543341",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312516543341/d133980ddef14a.htm",
+        "n_chars": 169247,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-130746",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312517130746/d318894ddef14a.htm",
+        "n_chars": 185247,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-035345",
+        "form": "DEF 14A",
+        "filing_date": "2018-02-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312518035345/d524719ddef14a.htm",
+        "n_chars": 217945,
+        "status": "ok",
+        "n_candidates": 2,
+        "alternates": [
+          "0001564590-18-009339"
+        ]
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001564590-19-014268",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459019014268/tsla-def14a_20190611.htm",
+        "n_chars": 504251,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001564590-20-027321",
+        "form": "DEF 14A",
+        "filing_date": "2020-05-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020027321/tsla-def14a_20200707.htm",
+        "n_chars": 225128,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001564590-21-045926",
+        "form": "DEF 14A",
+        "filing_date": "2021-08-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459021045926/tsla-def14a_20210826.htm",
+        "n_chars": 347888,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001564590-22-024064",
+        "form": "DEF 14A",
+        "filing_date": "2022-06-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459022024064/tsla-def14a_20220804.htm",
+        "n_chars": 368786,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-094075",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312523094075/d451342ddef14a.htm",
+        "n_chars": 231165,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001104659-24-053333",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465924053333/tm2326076d15_def14a.htm",
+        "n_chars": 1606597,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 1
+  },
+  "HD": {
+    "cik": "0000354950",
+    "name": "Home Depot",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-529376",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/354950/000119312516529376/d24558ddef14a.htm",
+        "n_chars": 244478,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-108511",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/354950/000119312517108511/d293861ddef14a.htm",
+        "n_chars": 269057,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-104990",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-02",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/354950/000119312518104990/d504528ddef14a.htm",
+        "n_chars": 283434,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0000354950-19-000014",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495019000014/hd-2019proxystatement.htm",
+        "n_chars": 284670,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0000354950-20-000024",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495020000024/hd-2020proxystatement.htm",
+        "n_chars": 308233,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0000354950-21-000116",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495021000116/hd-2021proxystatementng.htm",
+        "n_chars": 298459,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0000354950-22-000116",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495022000116/hd-2022proxystatement.htm",
+        "n_chars": 414569,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000354950-23-000101",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495023000101/hd-20230330.htm",
+        "n_chars": 354138,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000354950-24-000108",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495024000108/hd-20240401.htm",
+        "n_chars": 349882,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "MCD": {
+    "cik": "0000063908",
+    "name": "McDonald's",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0000063908-16-000113",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/63908/000006390816000113/a2016def14a.htm",
+        "n_chars": 235195,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001206774-17-001192",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/63908/000120677417001192/mcdonalds3170981-def14a.htm",
+        "n_chars": 333899,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001206774-18-001176",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/63908/000120677418001176/mcd3291681-def14a.htm",
+        "n_chars": 249961,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001206774-19-001299",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/63908/000120677419001299/mcd3477431-def14a.htm",
+        "n_chars": 243910,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001206774-20-001117",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/63908/000120677420001117/mcd3631831-def14a.htm",
+        "n_chars": 340335,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001206774-21-001039",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/63908/000120677421001039/mcd3798221-def14a.htm",
+        "n_chars": 263984,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001206774-22-001058",
+        "form": "DEFC14A",
+        "filing_date": "2022-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/63908/000120677422001058/mcd3962181-defc14a.htm",
+        "n_chars": 402063,
+        "status": "ok",
+        "n_candidates": 2,
+        "alternates": [
+          "0001193125-22-112029"
+        ]
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001558370-23-005957",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/63908/000155837023005957/mcd-20230525xdef14a.htm",
+        "n_chars": 376225,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001558370-24-004818",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/63908/000155837024004818/mcd-20240522xdef14a.htm",
+        "n_chars": 393803,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 1
+  },
+  "NKE": {
+    "cik": "0000320187",
+    "name": "Nike",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0000320187-16-000339",
+        "form": "DEF 14A",
+        "filing_date": "2016-07-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018716000339/nke-2016xdef14a.htm",
+        "n_chars": 205486,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0000320187-17-000127",
+        "form": "DEF 14A",
+        "filing_date": "2017-07-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018717000127/nke-2017xdef14a.htm",
+        "n_chars": 204198,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0000320187-18-000144",
+        "form": "DEF 14A",
+        "filing_date": "2018-07-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018718000144/nke-2018xdef14a.htm",
+        "n_chars": 192354,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0000320187-19-000053",
+        "form": "DEF 14A",
+        "filing_date": "2019-07-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018719000053/nike2019proxy.htm",
+        "n_chars": 181216,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0000320187-20-000049",
+        "form": "DEF 14A",
+        "filing_date": "2020-07-24",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018720000049/nike2020proxy.htm",
+        "n_chars": 276028,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0000320187-21-000035",
+        "form": "DEF 14A",
+        "filing_date": "2021-08-09",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018721000035/nike2021proxy.htm",
+        "n_chars": 254161,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0000320187-22-000041",
+        "form": "DEF 14A",
+        "filing_date": "2022-07-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018722000041/nike2022proxy.htm",
+        "n_chars": 244434,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000320187-23-000040",
+        "form": "DEF 14A",
+        "filing_date": "2023-07-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018723000040/nke-20230720.htm",
+        "n_chars": 250435,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000320187-24-000045",
+        "form": "DEF 14A",
+        "filing_date": "2024-07-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000045/nke-20240725.htm",
+        "n_chars": 254281,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "SBUX": {
+    "cik": "0000829224",
+    "name": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001567619-16-001713",
+        "form": "DEF 14A",
+        "filing_date": "2016-01-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/829224/000156761916001713/s001119x2_def14a.htm",
+        "n_chars": 278362,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001672764-17-000003",
+        "form": "DEF 14A",
+        "filing_date": "2017-01-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/829224/000167276417000003/t1700114-def14a.htm",
+        "n_chars": 296159,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-021792",
+        "form": "DEF 14A",
+        "filing_date": "2018-01-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/829224/000119312518021792/d440699ddef14a.htm",
+        "n_chars": 293617,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-017145",
+        "form": "DEF 14A",
+        "filing_date": "2019-01-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/829224/000119312519017145/d623511ddef14a.htm",
+        "n_chars": 291271,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001206774-20-000230",
+        "form": "DEF 14A",
+        "filing_date": "2020-01-24",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/829224/000120677420000230/sbux3632601-def14a.htm",
+        "n_chars": 312626,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0000829224-21-000017",
+        "form": "DEF 14A",
+        "filing_date": "2021-01-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/829224/000082922421000017/a2021proxystatement.htm",
+        "n_chars": 329198,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001206774-22-000270",
+        "form": "DEF 14A",
+        "filing_date": "2022-01-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/829224/000120677422000270/sbux3974881-def14a.htm",
+        "n_chars": 470723,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000829224-23-000007",
+        "form": "DEF 14A",
+        "filing_date": "2023-01-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/829224/000082922423000007/a2023proxystatementfinal.htm",
+        "n_chars": 362029,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-014772",
+        "form": "DEFC14A",
+        "filing_date": "2024-01-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/829224/000119312524014772/d523441ddefc14a.htm",
+        "n_chars": 437854,
+        "status": "ok",
+        "n_candidates": 2,
+        "alternates": [
+          "0000902664-24-000649"
+        ]
+      }
+    ],
+    "error": null,
+    "collisions": 1
+  },
+  "TGT": {
+    "cik": "0000027419",
+    "name": "Target",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001308179-16-000375",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817916000375/ltgt2016_def14a.htm",
+        "n_chars": 252636,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001308179-17-000174",
+        "form": "DEF 14A",
+        "filing_date": "2017-05-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817917000174/ltgt2017_def14a.htm",
+        "n_chars": 248615,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001308179-18-000237",
+        "form": "DEF 14A",
+        "filing_date": "2018-05-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817918000237/ltgt2018_def14a.htm",
+        "n_chars": 249107,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001308179-19-000197",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817919000197/ltgt2019_def14a.htm",
+        "n_chars": 235161,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001308179-20-000217",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817920000217/ltgt2020_def14a.htm",
+        "n_chars": 336276,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001308179-21-000258",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817921000258/ltgt2021_def14a.htm",
+        "n_chars": 242761,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001308179-22-000265",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817922000265/ltgt2022_def14a.htm",
+        "n_chars": 259505,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001308179-23-000828",
+        "form": "DEF 14A",
+        "filing_date": "2023-05-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817923000828/ltgt2023_def14a.htm",
+        "n_chars": 293938,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001308179-24-000626",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817924000626/ltgt2024_def14a.htm",
+        "n_chars": 324465,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "LOW": {
+    "cik": "0000060667",
+    "name": "Lowe's",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-536350",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312516536350/d84644ddef14a.htm",
+        "n_chars": 256114,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-131092",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312517131092/d271275ddef14a.htm",
+        "n_chars": 230640,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-123722",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312518123722/d506121ddef14a.htm",
+        "n_chars": 235020,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-110021",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312519110021/d687530ddef14a.htm",
+        "n_chars": 255810,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-108770",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312520108770/d876223ddef14a.htm",
+        "n_chars": 281441,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-117203",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312521117203/d64263ddef14a.htm",
+        "n_chars": 281111,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-105006",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312522105006/d301898ddef14a.htm",
+        "n_chars": 419021,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-099980",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312523099980/d392221ddef14a.htm",
+        "n_chars": 308075,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-100050",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312524100050/d467523ddef14a.htm",
+        "n_chars": 289778,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "TJX": {
+    "cik": "0000109198",
+    "name": "TJX Companies",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-568937",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/109198/000119312516568937/d56044ddef14a.htm",
+        "n_chars": 223241,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-142785",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/109198/000119312517142785/d233676ddef14a.htm",
+        "n_chars": 374650,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-133349",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/109198/000119312518133349/d494641ddef14a.htm",
+        "n_chars": 248872,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-119221",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/109198/000119312519119221/d656615ddef14a.htm",
+        "n_chars": 246405,
+        "status": "ok",
+        "n_candidates": 2,
+        "alternates": [
+          "0001193125-18-288892"
+        ]
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-116317",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/109198/000119312520116317/d851789ddef14a.htm",
+        "n_chars": 272442,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0000109198-21-000016",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919821000016/a2021proxystatement.htm",
+        "n_chars": 286657,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0000109198-22-000024",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919822000024/a2022proxystatement.htm",
+        "n_chars": 418967,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0000109198-23-000014",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-27",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919823000014/tjx-20230427.htm",
+        "n_chars": 326169,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000109198-24-000023",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000023/tjx-20240424.htm",
+        "n_chars": 289027,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 1
+  },
+  "F": {
+    "cik": "0000037996",
+    "name": "Ford Motor",
+    "sector": "Consumer Discretionary",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001047469-16-011835",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/37996/000104746916011835/a2228102zdef14a.htm",
+        "n_chars": 471451,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001047469-17-002228",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-31",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/37996/000104746917002228/a2231095zdef14a.htm",
+        "n_chars": 291799,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001047469-18-002333",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/37996/000104746918002333/a2234985zdef14a.htm",
+        "n_chars": 424222,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001047469-19-001743",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/37996/000104746919001743/a2238106zdef14a.htm",
+        "n_chars": 502841,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001047469-20-002039",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/37996/000104746920002039/a2240860zdef14a.htm",
+        "n_chars": 326014,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001047469-21-000813",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/37996/000104746921000813/a2243092zdef14a.htm",
+        "n_chars": 392847,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001104659-22-041499",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/37996/000110465922041499/tm2130881-4_def14a.htm",
+        "n_chars": 575852,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001558370-23-005203",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-31",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/37996/000155837023005203/f-20230511xdef14a.htm",
+        "n_chars": 431031,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001104659-24-040871",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/37996/000110465924040871/tm2318496-d4_def14a.htm",
+        "n_chars": 433658,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "CVX": {
+    "cik": "0000093410",
+    "name": "Chevron",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-533382",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312516533382/d117593ddef14a.htm",
+        "n_chars": 416212,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-119801",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-11",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312517119801/d304635ddef14a.htm",
+        "n_chars": 353488,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-112804",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-10",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312518112804/d475585ddef14a.htm",
+        "n_chars": 362333,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-106207",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312519106207/d581752ddef14a.htm",
+        "n_chars": 370518,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-100407",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312520100407/d838093ddef14a.htm",
+        "n_chars": 386572,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-109793",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-08",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312521109793/d74377ddef14a.htm",
+        "n_chars": 397275,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-098301",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312522098301/d292137ddef14a.htm",
+        "n_chars": 520587,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-099292",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-12",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312523099292/d433226ddef14a.htm",
+        "n_chars": 480383,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-091327",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-10",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312524091327/d557504ddef14a.htm",
+        "n_chars": 448875,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "COP": {
+    "cik": "0001163165",
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001047469-16-011624",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1163165/000104746916011624/a2227560zdef14a.htm",
+        "n_chars": 423351,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001047469-17-002284",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1163165/000104746917002284/a2230814zdef14a.htm",
+        "n_chars": 450324,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001206774-18-001045",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-02",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677418001045/conoco3364391-def14a.htm",
+        "n_chars": 406668,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001206774-19-001161",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677419001161/cop3493381-def14a.htm",
+        "n_chars": 437748,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001206774-20-000973",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677420000973/cop3661511-def14a.htm",
+        "n_chars": 450003,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001206774-21-000875",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677421000875/cop3840471-def14a.htm",
+        "n_chars": 490207,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001206774-22-000879",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677422000879/cop3949151def14a.htm",
+        "n_chars": 566056,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001308179-23-000477",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1163165/000130817923000477/cop4128181-def14a.htm",
+        "n_chars": 708199,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001308179-24-000384",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-01",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1163165/000130817924000384/cop4258041-def14a.htm",
+        "n_chars": 467548,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "EOG": {
+    "cik": "0000821189",
+    "name": "EOG Resources",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-508576",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312516508576/d98464ddef14a.htm",
+        "n_chars": 210419,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-086309",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312517086309/d347542ddef14a.htm",
+        "n_chars": 230770,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-084042",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312518084042/d525336ddef14a.htm",
+        "n_chars": 267681,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-080799",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312519080799/d651149ddef14a.htm",
+        "n_chars": 232865,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-080817",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312520080817/d867824ddef14a.htm",
+        "n_chars": 233413,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-087493",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312521087493/d102645ddef14a.htm",
+        "n_chars": 367292,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001193125-22-071943",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-10",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312522071943/d286077ddef14a.htm",
+        "n_chars": 258304,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001193125-23-100629",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312523100629/d460790ddef14a.htm",
+        "n_chars": 281572,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001193125-24-080647",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312524080647/d455851ddef14a.htm",
+        "n_chars": 279720,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "SLB": {
+    "cik": "0000087347",
+    "name": "SLB (Schlumberger)",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-468583",
+        "form": "DEF 14A",
+        "filing_date": "2016-02-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/87347/000119312516468583/d123150ddef14a.htm",
+        "n_chars": 331502,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001308179-17-000018",
+        "form": "DEF 14A",
+        "filing_date": "2017-02-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817917000018/lslb2017_def14a.htm",
+        "n_chars": 389287,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001308179-18-000016",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-02",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817918000016/lslb2018_def14a.htm",
+        "n_chars": 307271,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001308179-19-000005",
+        "form": "DEF 14A",
+        "filing_date": "2019-02-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817919000005/lslb2019_def14a.htm",
+        "n_chars": 321230,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001308179-20-000009",
+        "form": "DEF 14A",
+        "filing_date": "2020-02-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817920000009/lslb2020_def14a.htm",
+        "n_chars": 285864,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001308179-21-000014",
+        "form": "DEF 14A",
+        "filing_date": "2021-02-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817921000014/lslb2021_def14a.htm",
+        "n_chars": 454681,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001308179-22-000016",
+        "form": "DEF 14A",
+        "filing_date": "2022-02-24",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817922000016/lslb2022_def14a.htm",
+        "n_chars": 263859,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001308179-23-000057",
+        "form": "DEF 14A",
+        "filing_date": "2023-02-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817923000057/slb-20221231.htm",
+        "n_chars": 255178,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001308179-24-000033",
+        "form": "DEF 14A",
+        "filing_date": "2024-02-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817924000033/lslb2024_def14a.htm",
+        "n_chars": 254051,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "MPC": {
+    "cik": "0001510295",
+    "name": "Marathon Petroleum",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001193125-16-505314",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312516505314/d91653ddef14a.htm",
+        "n_chars": 382187,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001193125-17-083730",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312517083730/d275049ddef14a.htm",
+        "n_chars": 460566,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-084039",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312518084039/d496012ddef14a.htm",
+        "n_chars": 372148,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001510295-19-000021",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029519000021/def14a_2019mpcproxystateme.htm",
+        "n_chars": 290140,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001510295-20-000017",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-16",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029520000017/a2020mpcproxystatement.htm",
+        "n_chars": 289582,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001510295-21-000046",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-15",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029521000046/a2021mpcproxystatement.htm",
+        "n_chars": 459300,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001510295-22-000023",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029522000023/a2022mpcproxystatement.htm",
+        "n_chars": 332295,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001510295-23-000028",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-13",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029523000028/mpc-20230313.htm",
+        "n_chars": 341266,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001510295-24-000033",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-14",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029524000033/mpc-20240313.htm",
+        "n_chars": 338576,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "PSX": {
+    "cik": "0001534701",
+    "name": "Phillips 66",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001047469-16-011582",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1534701/000104746916011582/a2227772zdef14a.htm",
+        "n_chars": 244743,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001047469-17-001870",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1534701/000104746917001870/a2231105zdef14a.htm",
+        "n_chars": 223311,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001571049-18-000199",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1534701/000157104918000199/tv488480_phillips66-2018pxy.htm",
+        "n_chars": 263893,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-092869",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-29",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1534701/000119312519092869/d691086ddef14a.htm",
+        "n_chars": 235001,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-085402",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1534701/000119312520085402/d873892ddef14a.htm",
+        "n_chars": 232414,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001140361-21-010999",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-31",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1534701/000114036121010999/nc10021503x3_def14a.htm",
+        "n_chars": 275072,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001206774-22-000928",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-31",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1534701/000120677422000928/psx3965551_def14a.htm",
+        "n_chars": 380331,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001534701-23-000064",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-30",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470123000064/psx-20230329.htm",
+        "n_chars": 293756,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001534701-24-000095",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000095/psx-20240402.htm",
+        "n_chars": 308622,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "VLO": {
+    "cik": "0001035002",
+    "name": "Valero Energy",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001035002-16-000079",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-31",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500216000079/proxy2016.htm",
+        "n_chars": 301429,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001035002-17-000015",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500217000015/proxy2017.htm",
+        "n_chars": 200608,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001193125-18-090034",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000119312518090034/d513817ddef14a.htm",
+        "n_chars": 234898,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001193125-19-080420",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-20",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000119312519080420/d684656ddef14a.htm",
+        "n_chars": 215845,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001193125-20-078074",
+        "form": "DEF 14A",
+        "filing_date": "2020-03-19",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000119312520078074/d879120ddef14a.htm",
+        "n_chars": 339798,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001193125-21-085910",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-18",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000119312521085910/d112273ddef14a.htm",
+        "n_chars": 271594,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001035002-22-000014",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500222000014/valero2022proxy.htm",
+        "n_chars": 359180,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001035002-23-000040",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500223000040/vlo-20230322.htm",
+        "n_chars": 436563,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001035002-24-000014",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000014/vlo-20240325.htm",
+        "n_chars": 429302,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  },
+  "OXY": {
+    "cik": "0000797468",
+    "name": "Occidental Petroleum",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001308179-16-000248",
+        "form": "DEF 14A",
+        "filing_date": "2016-03-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/797468/000130817916000248/loxy2016_def14a.htm",
+        "n_chars": 232437,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001308179-17-000065",
+        "form": "DEF 14A",
+        "filing_date": "2017-03-24",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/797468/000130817917000065/loxy2017_def14a.htm",
+        "n_chars": 242680,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001308179-18-000070",
+        "form": "DEF 14A",
+        "filing_date": "2018-03-22",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/797468/000130817918000070/loxy2018-def14a.htm",
+        "n_chars": 363607,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001308179-19-000072",
+        "form": "DEF 14A",
+        "filing_date": "2019-03-28",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/797468/000130817919000072/loxy2019_def14a.htm",
+        "n_chars": 212849,
+        "status": "ok",
+        "n_candidates": 3,
+        "alternates": [
+          "0001144204-19-035084",
+          "0001140361-19-013234"
+        ]
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001206774-20-001182",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-17",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/797468/000120677420001182/oxy3740751-def14a.htm",
+        "n_chars": 703360,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001206774-21-000856",
+        "form": "DEF 14A",
+        "filing_date": "2021-03-26",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/797468/000120677421000856/oxy3830511-def14a.htm",
+        "n_chars": 311856,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001206774-22-000870",
+        "form": "DEF 14A",
+        "filing_date": "2022-03-25",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/797468/000120677422000870/oxy3995601-def14a.htm",
+        "n_chars": 336169,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001308179-23-000331",
+        "form": "DEF 14A",
+        "filing_date": "2023-03-23",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/797468/000130817923000331/oxy4107731-def14a.htm",
+        "n_chars": 352355,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0000797468-24-000075",
+        "form": "DEF 14A",
+        "filing_date": "2024-03-21",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/797468/000079746824000075/oxy-20240321.htm",
+        "n_chars": 319561,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 1
+  },
+  "HAL": {
+    "cik": "0000045012",
+    "name": "Halliburton",
+    "sector": "Energy",
+    "filings": [
+      {
+        "meeting_year": 2016,
+        "accession": "0001308179-16-000301",
+        "form": "DEF 14A",
+        "filing_date": "2016-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817916000301/lhal2016_def14a.htm",
+        "n_chars": 242587,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2017,
+        "accession": "0001308179-17-000120",
+        "form": "DEF 14A",
+        "filing_date": "2017-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817917000120/lhal2017_def14a.htm",
+        "n_chars": 334034,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2018,
+        "accession": "0001308179-18-000119",
+        "form": "DEF 14A",
+        "filing_date": "2018-04-03",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817918000119/lhal2018_def14a.htm",
+        "n_chars": 213529,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2019,
+        "accession": "0001308179-19-000086",
+        "form": "DEF 14A",
+        "filing_date": "2019-04-02",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817919000086/lhal2019_def14a.htm",
+        "n_chars": 280235,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2020,
+        "accession": "0001308179-20-000154",
+        "form": "DEF 14A",
+        "filing_date": "2020-04-07",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817920000154/lhal2020_def14a.htm",
+        "n_chars": 278822,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2021,
+        "accession": "0001308179-21-000173",
+        "form": "DEF 14A",
+        "filing_date": "2021-04-06",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817921000173/lhal2021_def14a.htm",
+        "n_chars": 327303,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2022,
+        "accession": "0001308179-22-000182",
+        "form": "DEF 14A",
+        "filing_date": "2022-04-05",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817922000182/lhal2022-def14a.htm",
+        "n_chars": 221445,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2023,
+        "accession": "0001308179-23-000504",
+        "form": "DEF 14A",
+        "filing_date": "2023-04-04",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817923000504/hal-20221231.htm",
+        "n_chars": 317875,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      },
+      {
+        "meeting_year": 2024,
+        "accession": "0001308179-24-000414",
+        "form": "DEF 14A",
+        "filing_date": "2024-04-02",
+        "doc_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817924000414/lhal2024_def14a.htm",
+        "n_chars": 345457,
+        "status": "ok",
+        "n_candidates": 1,
+        "alternates": []
+      }
+    ],
+    "error": null,
+    "collisions": 0
+  }
+}
