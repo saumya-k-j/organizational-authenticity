@@ -1,0 +1,302 @@
+ticker,sector,year,over_claim_index,under_claim_index,top_over_theme,top_under_theme,web_words,web_chars,proxy_words,low_evidence,yoy_change
+ABBV,Healthcare,2016,1.1037,2.0969,innovation_science,operational_excellence,66,413,32921,True,
+ABBV,Healthcare,2017,1.9637,1.4666,innovation_science,operational_excellence,450,3094,33357,False,0.8600000000000001
+ABBV,Healthcare,2018,0.9477,2.7878,human_progress_wellbeing,operational_excellence,42,267,36320,True,-1.016
+ABBV,Healthcare,2019,0.9488,2.6732,human_progress_wellbeing,operational_excellence,61,358,35446,True,0.0010999999999999899
+ABBV,Healthcare,2020,0.9494,3.0208,human_progress_wellbeing,operational_excellence,61,358,35823,True,0.0006000000000000449
+ABBV,Healthcare,2021,1.6173,2.6375,innovation_science,operational_excellence,110,711,61575,True,0.6678999999999999
+ABBV,Healthcare,2022,1.5421,1.7308,human_progress_wellbeing,operational_excellence,213,1424,39439,False,-0.07519999999999993
+ABBV,Healthcare,2023,1.4251,1.7354,human_progress_wellbeing,operational_excellence,213,1424,43653,False,-0.11699999999999999
+ABT,Healthcare,2016,1.8092,2.5527,human_progress_wellbeing,operational_excellence,271,1593,29885,False,
+ABT,Healthcare,2017,2.9534,2.7923,community_social_good,people_talent,234,1318,55319,False,1.1441999999999999
+ABT,Healthcare,2018,1.2145,2.0364,human_progress_wellbeing,operational_excellence,310,1799,32991,False,-1.7389
+ABT,Healthcare,2019,1.3773,2.7202,human_progress_wellbeing,operational_excellence,373,2393,27945,False,0.16280000000000006
+ABT,Healthcare,2020,1.8152,2.402,community_social_good,operational_excellence,363,2308,31558,False,0.43789999999999996
+ABT,Healthcare,2021,1.4673,3.1363,community_social_good,operational_excellence,363,2308,39441,False,-0.3478999999999999
+ABT,Healthcare,2022,1.3598,2.8637,community_social_good,operational_excellence,363,2308,37020,False,-0.10750000000000015
+ABT,Healthcare,2023,1.6976,2.4513,community_social_good,operational_excellence,363,2308,38553,False,0.3378000000000001
+ABT,Healthcare,2024,2.4497,3.1986,community_social_good,operational_excellence,194,1129,33408,False,0.7521
+AMZN,Consumer Discretionary,2018,0.7577,1.7532,innovation_science,integrity_responsibility,507,5078,19780,False,
+AMZN,Consumer Discretionary,2019,0.6792,1.8803,community_social_good,integrity_responsibility,643,5346,32231,False,-0.07850000000000001
+AMZN,Consumer Discretionary,2020,0.518,2.0082,innovation_science,diversity_inclusion,365,3278,40958,False,-0.1612
+AMZN,Consumer Discretionary,2023,0.7634,4.6962,community_social_good,people_talent,81,1194,78817,True,
+AMZN,Consumer Discretionary,2024,0.3681,3.5677,innovation_science,people_talent,95,1320,71075,True,-0.3953
+AVGO,Technology,2016,0.0,2.38,,customer_client_focus,114,905,41505,True,
+BAC,Financials,2021,0.436,2.2341,integrity_responsibility,people_talent,466,2848,80656,False,
+BAC,Financials,2022,0.3665,2.8607,human_progress_wellbeing,environmental_stewardship,466,2848,66760,False,-0.0695
+BAC,Financials,2023,0.9588,2.4356,customer_client_focus,environmental_stewardship,466,2850,89152,False,0.5923
+BAC,Financials,2024,0.5778,2.7408,human_progress_wellbeing,operational_excellence,466,2867,82398,False,-0.381
+BLK,Financials,2016,0.1701,1.3709,heritage_longevity,operational_excellence,388,2743,40768,False,
+BLK,Financials,2017,0.1642,2.1536,heritage_longevity,operational_excellence,381,2691,43677,False,-0.005899999999999989
+BLK,Financials,2018,0.6399,2.1607,environmental_stewardship,operational_excellence,228,1442,49086,False,0.4757
+BLK,Financials,2019,0.2966,2.6361,community_social_good,operational_excellence,229,1458,48677,False,-0.34330000000000005
+BLK,Financials,2020,1.2509,2.8694,environmental_stewardship,operational_excellence,251,1752,50175,False,0.9542999999999999
+BLK,Financials,2021,1.0631,1.9637,diversity_inclusion,operational_excellence,308,2164,58050,False,-0.18779999999999997
+BLK,Financials,2022,1.5613,1.288,human_progress_wellbeing,operational_excellence,718,4462,48857,False,0.4982
+BLK,Financials,2023,0.9031,1.7356,human_progress_wellbeing,operational_excellence,738,4579,54785,False,-0.6581999999999999
+BLK,Financials,2024,1.0863,1.5004,human_progress_wellbeing,operational_excellence,753,4674,72505,False,0.18320000000000003
+BMY,Healthcare,2016,2.6827,0.4347,environmental_stewardship,operational_excellence,323,2202,44125,False,
+BMY,Healthcare,2017,3.1787,1.4265,integrity_responsibility,operational_excellence,179,1267,67219,False,0.496
+BMY,Healthcare,2018,2.2652,1.713,integrity_responsibility,operational_excellence,179,1267,44472,False,-0.9135
+BMY,Healthcare,2019,2.6828,1.8396,community_social_good,operational_excellence,221,1561,41364,False,0.41759999999999975
+BMY,Healthcare,2020,1.0839,2.0818,innovation_science,operational_excellence,432,2913,50315,False,-1.5988999999999998
+BMY,Healthcare,2021,0.853,2.6386,innovation_science,people_talent,413,2702,72194,False,-0.2309000000000001
+BMY,Healthcare,2022,0.8739,2.3265,innovation_science,people_talent,413,2703,48775,False,0.02090000000000003
+BMY,Healthcare,2023,1.3023,2.0805,integrity_responsibility,people_talent,530,3526,54320,False,0.4284
+BMY,Healthcare,2024,1.3109,2.1212,integrity_responsibility,people_talent,532,3533,59029,False,0.008599999999999941
+C,Financials,2016,0.4264,2.1173,customer_client_focus,operational_excellence,1661,11264,76816,False,
+C,Financials,2017,0.2222,2.0969,innovation_science,operational_excellence,1587,10654,56747,False,-0.2042
+C,Financials,2018,0.3117,2.2131,innovation_science,operational_excellence,1877,12859,75290,False,0.08949999999999997
+C,Financials,2019,0.1547,2.1704,innovation_science,operational_excellence,1825,12303,69167,False,-0.15699999999999997
+C,Financials,2020,0.3709,2.6256,innovation_science,operational_excellence,1629,10904,74470,False,0.2162
+C,Financials,2021,0.4229,2.7149,innovation_science,operational_excellence,2006,13253,79906,False,0.05199999999999999
+C,Financials,2024,0.0795,2.9414,human_progress_wellbeing,operational_excellence,161,1088,79427,False,
+COP,Energy,2017,0.8955,1.8001,innovation_science,people_talent,99,693,62986,True,
+COP,Energy,2018,0.8945,1.8078,innovation_science,people_talent,98,688,57257,True,-0.0010000000000000009
+COP,Energy,2019,0.8627,2.2041,innovation_science,people_talent,98,688,62092,True,-0.03179999999999994
+COP,Energy,2020,2.7292,0.9617,heritage_longevity,customer_client_focus,214,1402,63922,False,1.8665
+COP,Energy,2021,2.6968,1.1896,heritage_longevity,environmental_stewardship,214,1402,69888,False,-0.032399999999999984
+COP,Energy,2022,3.134,1.0864,heritage_longevity,customer_client_focus,229,1524,81624,False,0.4371999999999998
+COP,Energy,2023,3.5705,0.7051,heritage_longevity,customer_client_focus,227,1511,102229,False,0.4365000000000001
+COP,Energy,2024,3.4356,0.7102,heritage_longevity,customer_client_focus,227,1512,66116,False,-0.13490000000000002
+CRM,Technology,2016,1.086,3.1372,innovation_science,operational_excellence,211,1472,34814,False,
+CRM,Technology,2017,1.4005,2.2869,customer_client_focus,operational_excellence,181,1221,76640,False,0.3145
+CRM,Technology,2018,1.23,2.3481,innovation_science,operational_excellence,180,1211,80957,False,-0.1705000000000001
+CRM,Technology,2019,1.187,2.5195,innovation_science,operational_excellence,208,1477,81885,False,-0.04299999999999993
+CRM,Technology,2020,1.1026,2.8365,innovation_science,people_talent,274,1895,81543,False,-0.08440000000000003
+CRM,Technology,2021,0.9874,2.8925,innovation_science,operational_excellence,274,1897,65034,False,-0.11519999999999997
+CRM,Technology,2022,2.209,2.4547,integrity_responsibility,operational_excellence,339,2506,83048,False,1.2216
+CRM,Technology,2023,0.7032,2.221,customer_client_focus,operational_excellence,325,2424,72502,False,-1.5058
+CRM,Technology,2024,0.5316,2.9775,customer_client_focus,operational_excellence,62,395,77028,True,-0.17160000000000009
+CVX,Energy,2016,0.578,2.3968,innovation_science,people_talent,121,948,58825,False,
+CVX,Energy,2017,0.4686,2.1311,innovation_science,environmental_stewardship,121,964,49411,False,-0.10939999999999994
+CVX,Energy,2018,0.4098,2.1331,innovation_science,environmental_stewardship,121,948,50495,False,-0.05880000000000002
+CVX,Energy,2019,0.5128,2.0508,innovation_science,environmental_stewardship,121,864,51466,False,0.10300000000000004
+CVX,Energy,2020,1.4801,2.5892,human_progress_wellbeing,environmental_stewardship,170,1054,53704,False,0.9672999999999999
+CVX,Energy,2021,1.5388,2.9054,human_progress_wellbeing,environmental_stewardship,170,1054,55299,False,0.058699999999999974
+CVX,Energy,2022,1.2999,3.4873,integrity_responsibility,environmental_stewardship,137,876,74047,False,-0.2388999999999999
+CVX,Energy,2023,1.3576,3.1648,integrity_responsibility,environmental_stewardship,123,790,65023,False,0.05769999999999986
+CVX,Energy,2024,1.2884,3.597,integrity_responsibility,environmental_stewardship,126,801,61880,False,-0.06919999999999993
+EOG,Energy,2016,0.4435,2.046,people_talent,operational_excellence,158,1035,30460,False,
+EOG,Energy,2017,2.5066,1.7104,innovation_science,operational_excellence,172,1155,33231,False,2.0631000000000004
+EOG,Energy,2018,1.7762,1.7588,heritage_longevity,operational_excellence,54,427,39049,True,-0.7304000000000002
+EOG,Energy,2019,1.8793,1.7039,heritage_longevity,operational_excellence,54,427,33475,True,0.10309999999999997
+EOG,Energy,2020,1.8212,1.7291,heritage_longevity,operational_excellence,54,427,33454,True,-0.05810000000000004
+EOG,Energy,2021,1.7211,1.9895,heritage_longevity,operational_excellence,50,416,55158,True,-0.10009999999999986
+EOG,Energy,2022,1.8554,1.7182,heritage_longevity,operational_excellence,50,416,37117,True,0.13429999999999986
+EOG,Energy,2023,1.0267,1.8068,heritage_longevity,operational_excellence,56,467,39755,True,-0.8287
+EOG,Energy,2024,1.0927,1.7181,heritage_longevity,operational_excellence,58,487,39137,True,0.06600000000000006
+GOOGL,Technology,2016,0.9874,3.9389,human_progress_wellbeing,people_talent,217,1346,47968,False,
+GOOGL,Technology,2017,0.9785,4.4852,heritage_longevity,people_talent,21,143,47315,True,-0.008900000000000019
+GOOGL,Technology,2018,0.5354,3.1773,community_social_good,customer_client_focus,155,1047,46759,False,-0.44310000000000005
+GOOGL,Technology,2019,0.9783,3.8235,heritage_longevity,people_talent,67,415,52586,True,0.44289999999999996
+GOOGL,Technology,2020,0.9818,4.1346,heritage_longevity,people_talent,55,414,49496,True,0.0035000000000000586
+GOOGL,Technology,2021,0.5141,4.4386,diversity_inclusion,people_talent,63,419,50256,True,-0.4677
+GOOGL,Technology,2022,4.3943,3.3333,heritage_longevity,integrity_responsibility,95,654,75618,True,3.8802000000000003
+GOOGL,Technology,2023,1.4286,4.2827,safety,integrity_responsibility,62,422,67816,True,-2.9657
+GOOGL,Technology,2024,1.9595,4.2829,safety,integrity_responsibility,76,502,55133,True,0.5308999999999999
+GS,Financials,2016,1.1175,1.4581,environmental_stewardship,people_talent,406,2732,45095,False,
+GS,Financials,2017,1.0678,1.7075,environmental_stewardship,operational_excellence,406,2732,44336,False,-0.049699999999999855
+GS,Financials,2018,0.7541,1.5793,environmental_stewardship,people_talent,385,2595,67908,False,-0.3137000000000001
+GS,Financials,2019,0.476,2.8768,heritage_longevity,people_talent,59,412,50099,True,-0.2781
+GS,Financials,2020,0.4683,3.4544,heritage_longevity,people_talent,59,412,46216,True,-0.007699999999999985
+GS,Financials,2021,0.4653,3.3263,heritage_longevity,people_talent,59,412,73904,True,-0.0030000000000000027
+GS,Financials,2022,0.4439,3.805,heritage_longevity,operational_excellence,59,412,57480,True,-0.021399999999999975
+GS,Financials,2023,0.4735,4.0236,heritage_longevity,operational_excellence,59,412,67871,True,0.02959999999999996
+GS,Financials,2024,0.4619,3.8225,heritage_longevity,operational_excellence,59,412,66734,True,-0.0116
+HAL,Energy,2016,0.1923,2.8029,customer_client_focus,operational_excellence,226,1843,34394,False,
+HAL,Energy,2017,0.5995,2.1681,customer_client_focus,operational_excellence,229,1935,48615,False,0.4072
+HAL,Energy,2018,0.5764,2.2316,customer_client_focus,operational_excellence,231,1921,29190,False,-0.02310000000000001
+HAL,Energy,2019,2.0754,1.6848,environmental_stewardship,operational_excellence,90,653,40677,True,1.499
+HAL,Energy,2020,2.0759,1.7246,environmental_stewardship,operational_excellence,91,649,40532,True,0.0004999999999997229
+HAL,Energy,2021,1.8147,0.6787,customer_client_focus,operational_excellence,428,2840,47942,False,-0.2611999999999999
+HAL,Energy,2022,2.4265,0.7143,customer_client_focus,operational_excellence,348,2308,30640,False,0.6117999999999999
+HAL,Energy,2023,1.4051,1.0482,customer_client_focus,operational_excellence,396,2639,44447,False,-1.0213999999999999
+HAL,Energy,2024,1.6192,0.6862,customer_client_focus,diversity_inclusion,299,2140,49172,False,0.21409999999999996
+HD,Consumer Discretionary,2016,0.4247,2.0439,customer_client_focus,operational_excellence,330,2492,34703,False,
+HD,Consumer Discretionary,2017,0.4188,2.0245,customer_client_focus,operational_excellence,330,2492,38282,False,-0.005900000000000016
+HD,Consumer Discretionary,2018,0.3895,2.0294,customer_client_focus,operational_excellence,286,2208,40301,False,-0.029299999999999993
+HD,Consumer Discretionary,2019,0.4033,2.3767,customer_client_focus,operational_excellence,286,2208,41000,False,0.013799999999999979
+HD,Consumer Discretionary,2020,0.4286,2.4163,customer_client_focus,operational_excellence,286,2208,44500,False,0.02529999999999999
+HD,Consumer Discretionary,2021,0.3701,2.4587,customer_client_focus,operational_excellence,286,2215,43167,False,-0.058499999999999996
+HD,Consumer Discretionary,2022,0.4776,2.2941,customer_client_focus,operational_excellence,282,2195,61259,False,0.10750000000000004
+IBM,Technology,2019,1.2498,2.2871,innovation_science,operational_excellence,607,5552,52249,False,
+IBM,Technology,2020,0.7947,3.2259,innovation_science,people_talent,851,5648,51982,False,-0.45510000000000006
+IBM,Technology,2021,0.7793,3.9378,innovation_science,people_talent,833,5503,54978,False,-0.01539999999999997
+IBM,Technology,2022,0.7751,3.9374,innovation_science,people_talent,804,5353,49741,False,-0.0041999999999999815
+IBM,Technology,2023,0.6075,3.1528,innovation_science,operational_excellence,758,4968,52176,False,-0.16759999999999997
+IBM,Technology,2024,0.6442,3.3398,innovation_science,operational_excellence,252,1716,48916,False,0.036699999999999955
+JNJ,Healthcare,2016,0.8861,2.073,human_progress_wellbeing,operational_excellence,120,815,38833,False,
+JNJ,Healthcare,2017,2.2779,2.0968,safety,operational_excellence,119,902,49980,True,1.3918
+JNJ,Healthcare,2018,1.7478,1.3609,innovation_science,operational_excellence,267,4659,37794,False,-0.5300999999999998
+JNJ,Healthcare,2019,1.2378,2.2043,human_progress_wellbeing,operational_excellence,256,4895,41427,False,-0.51
+JNJ,Healthcare,2020,1.4861,2.0671,human_progress_wellbeing,operational_excellence,273,5130,45116,False,0.24829999999999997
+JNJ,Healthcare,2023,0.8145,3.0989,human_progress_wellbeing,operational_excellence,291,4626,56144,False,
+JNJ,Healthcare,2024,1.6319,1.0463,integrity_responsibility,operational_excellence,342,2131,48892,False,0.8173999999999999
+JPM,Financials,2020,1.0442,1.6683,integrity_responsibility,operational_excellence,158,983,52637,False,
+JPM,Financials,2021,1.0435,1.9608,integrity_responsibility,operational_excellence,162,1012,63727,False,-0.0006999999999999229
+JPM,Financials,2022,1.0712,2.2191,integrity_responsibility,operational_excellence,162,1012,59290,False,0.027699999999999836
+JPM,Financials,2023,1.3306,2.0397,integrity_responsibility,operational_excellence,162,1012,65857,False,0.2594000000000001
+JPM,Financials,2024,1.5101,2.5488,heritage_longevity,people_talent,130,836,71449,False,0.1795
+LLY,Healthcare,2016,1.3562,2.3185,human_progress_wellbeing,customer_client_focus,151,1139,28458,False,
+LLY,Healthcare,2017,2.9186,0.9336,human_progress_wellbeing,customer_client_focus,244,1832,41163,False,1.5624
+LLY,Healthcare,2018,3.1576,0.6782,human_progress_wellbeing,customer_client_focus,244,1832,55830,False,0.23899999999999988
+LLY,Healthcare,2019,1.8763,0.9402,community_social_good,diversity_inclusion,207,1414,35796,False,-1.2812999999999999
+LLY,Healthcare,2020,1.8725,0.999,community_social_good,diversity_inclusion,207,1380,41828,False,-0.0038000000000000256
+LLY,Healthcare,2024,1.6263,2.5343,heritage_longevity,innovation_science,97,584,51846,True,
+LOW,Consumer Discretionary,2020,0.7786,2.0095,community_social_good,people_talent,170,1043,40619,False,
+LOW,Consumer Discretionary,2021,0.5692,2.2265,community_social_good,people_talent,170,1042,40066,False,-0.20939999999999992
+LOW,Consumer Discretionary,2022,0.733,3.6399,community_social_good,operational_excellence,187,1127,60974,False,0.16379999999999995
+LOW,Consumer Discretionary,2023,0.7686,3.1676,community_social_good,operational_excellence,184,1111,43154,False,0.035599999999999965
+LOW,Consumer Discretionary,2024,0.4415,3.1839,customer_client_focus,operational_excellence,177,1069,40688,False,-0.32709999999999995
+MCD,Consumer Discretionary,2016,1.3845,2.8703,heritage_longevity,operational_excellence,130,788,33190,False,
+MCD,Consumer Discretionary,2017,1.2741,3.5974,heritage_longevity,operational_excellence,130,788,48143,False,-0.11040000000000005
+MCD,Consumer Discretionary,2018,1.6415,3.59,heritage_longevity,operational_excellence,129,774,35074,False,0.36739999999999995
+MCD,Consumer Discretionary,2019,0.8631,3.0211,heritage_longevity,operational_excellence,121,747,34257,False,-0.7784
+MCD,Consumer Discretionary,2020,0.8662,2.9092,heritage_longevity,operational_excellence,121,747,48876,False,0.0030999999999999917
+MCD,Consumer Discretionary,2021,0.63,3.9249,heritage_longevity,operational_excellence,121,747,37036,False,-0.23619999999999997
+MCD,Consumer Discretionary,2022,1.0956,5.2385,heritage_longevity,integrity_responsibility,134,805,56774,False,0.4655999999999999
+MCD,Consumer Discretionary,2023,0.6318,5.2355,heritage_longevity,integrity_responsibility,130,798,51146,False,-0.4637999999999999
+MCD,Consumer Discretionary,2024,0.6592,4.6948,heritage_longevity,operational_excellence,130,798,55024,False,0.02739999999999998
+MDT,Healthcare,2016,1.4934,1.8874,human_progress_wellbeing,customer_client_focus,120,864,89534,False,
+MDT,Healthcare,2017,1.7484,1.3624,human_progress_wellbeing,operational_excellence,159,1096,62199,False,0.2549999999999999
+MDT,Healthcare,2018,1.5969,1.4374,human_progress_wellbeing,operational_excellence,277,3875,36465,False,-0.15149999999999997
+MDT,Healthcare,2019,1.275,1.6526,human_progress_wellbeing,operational_excellence,482,5170,39187,False,-0.3219000000000001
+MDT,Healthcare,2020,3.0689,1.0171,heritage_longevity,customer_client_focus,198,5629,42894,False,1.7939000000000003
+MDT,Healthcare,2021,1.2015,1.8594,human_progress_wellbeing,operational_excellence,476,7321,67001,False,-1.8674000000000002
+MDT,Healthcare,2022,1.0654,2.1661,human_progress_wellbeing,operational_excellence,484,8516,41231,False,-0.1361000000000001
+MDT,Healthcare,2023,0.6763,3.0307,innovation_science,operational_excellence,579,9472,48679,False,-0.3890999999999999
+MDT,Healthcare,2024,0.6307,2.6942,innovation_science,operational_excellence,461,3177,42359,False,-0.045599999999999974
+META,Technology,2022,0.6184,4.1244,innovation_science,customer_client_focus,86,588,49188,True,
+META,Technology,2023,0.5626,4.2488,innovation_science,customer_client_focus,76,499,55651,True,-0.05579999999999996
+META,Technology,2024,0.4168,4.7124,innovation_science,integrity_responsibility,76,499,74616,True,-0.14579999999999999
+MPC,Energy,2019,3.2144,0.3687,integrity_responsibility,operational_excellence,313,2165,41158,False,
+MPC,Energy,2020,2.6711,0.4533,integrity_responsibility,people_talent,254,1778,39745,False,-0.5432999999999999
+MPC,Energy,2021,2.8377,0.4911,integrity_responsibility,people_talent,226,1572,66604,False,0.16659999999999986
+MPC,Energy,2022,2.2543,0.8532,integrity_responsibility,people_talent,226,1572,46374,False,-0.5833999999999997
+MPC,Energy,2023,2.0281,1.2139,integrity_responsibility,people_talent,226,1572,47587,False,-0.2262000000000004
+MPC,Energy,2024,2.004,1.121,integrity_responsibility,people_talent,226,1572,46444,False,-0.024099999999999788
+MRK,Healthcare,2016,0.9586,3.9106,human_progress_wellbeing,operational_excellence,61,411,41141,True,
+MRK,Healthcare,2017,1.6843,2.2819,human_progress_wellbeing,operational_excellence,491,3534,43313,False,0.7256999999999999
+MRK,Healthcare,2018,1.2427,2.5641,human_progress_wellbeing,people_talent,483,3472,39018,False,-0.4416
+MRK,Healthcare,2019,1.7084,2.4668,human_progress_wellbeing,operational_excellence,483,3472,54644,False,0.4657
+MRK,Healthcare,2020,0.9458,2.6142,human_progress_wellbeing,customer_client_focus,477,3421,40166,False,-0.7626
+MRK,Healthcare,2021,0.6203,2.9656,human_progress_wellbeing,operational_excellence,525,3425,41721,False,-0.3255
+MRK,Healthcare,2022,0.5389,2.7217,innovation_science,customer_client_focus,529,3440,46392,False,-0.08139999999999992
+MRK,Healthcare,2023,0.2523,2.436,community_social_good,operational_excellence,529,3440,55485,False,-0.2866
+MRK,Healthcare,2024,0.9428,2.1584,human_progress_wellbeing,operational_excellence,418,2590,49535,False,0.6904999999999999
+MS,Financials,2016,2.9089,2.7864,community_social_good,operational_excellence,571,3868,51593,False,
+MS,Financials,2017,2.6413,2.7638,community_social_good,operational_excellence,571,3920,64880,False,-0.26759999999999984
+MS,Financials,2018,2.6287,2.6986,community_social_good,operational_excellence,571,3920,39660,False,-0.012600000000000389
+MS,Financials,2019,2.4922,2.6583,community_social_good,operational_excellence,571,3920,41603,False,-0.13649999999999984
+MS,Financials,2020,0.7837,3.8971,environmental_stewardship,operational_excellence,43,272,40942,True,-1.7085
+MS,Financials,2021,0.8492,4.6977,environmental_stewardship,operational_excellence,43,272,49915,True,0.0655
+MS,Financials,2022,0.513,4.3031,environmental_stewardship,customer_client_focus,43,272,41434,True,-0.33619999999999994
+MS,Financials,2023,0.3687,3.8248,environmental_stewardship,operational_excellence,43,272,46366,True,-0.14429999999999998
+MS,Financials,2024,0.5333,3.7654,environmental_stewardship,operational_excellence,43,272,63787,True,0.16459999999999997
+MSFT,Technology,2016,0.865,3.1521,innovation_science,customer_client_focus,153,1032,30828,False,
+MSFT,Technology,2017,1.1421,3.3618,innovation_science,operational_excellence,161,971,42407,False,0.2770999999999999
+MSFT,Technology,2018,1.2244,2.888,innovation_science,operational_excellence,224,1404,49910,False,0.08230000000000004
+MSFT,Technology,2019,1.4415,3.2659,innovation_science,operational_excellence,196,1222,31574,False,0.21710000000000007
+MSFT,Technology,2020,1.4926,4.1892,innovation_science,operational_excellence,201,1254,34775,False,0.05109999999999992
+MSFT,Technology,2021,1.3189,3.4457,innovation_science,operational_excellence,192,1209,37045,False,-0.17369999999999997
+MSFT,Technology,2022,1.2401,3.9105,innovation_science,people_talent,192,1209,50209,False,-0.07879999999999998
+MSFT,Technology,2023,0.8747,4.3206,innovation_science,customer_client_focus,192,1209,44094,False,-0.36539999999999995
+MSFT,Technology,2024,1.0748,3.9771,innovation_science,customer_client_focus,192,1209,48568,False,0.20009999999999994
+NKE,Consumer Discretionary,2016,1.0608,2.6798,innovation_science,operational_excellence,82,533,29584,True,
+NKE,Consumer Discretionary,2017,1.1198,2.1733,innovation_science,operational_excellence,82,533,29366,True,0.05899999999999994
+NKE,Consumer Discretionary,2018,2.0606,3.2411,innovation_science,operational_excellence,208,1767,27279,False,0.9408000000000001
+NKE,Consumer Discretionary,2019,1.9405,3.7855,innovation_science,operational_excellence,204,1722,25723,False,-0.1201000000000001
+NKE,Consumer Discretionary,2020,2.0082,3.5753,innovation_science,people_talent,203,1714,40179,False,0.0677000000000001
+NKE,Consumer Discretionary,2021,1.6582,3.6054,innovation_science,people_talent,203,1714,36535,False,-0.3500000000000001
+NKE,Consumer Discretionary,2022,1.8819,2.8046,innovation_science,people_talent,203,1714,35611,False,0.2237
+NVDA,Technology,2017,0.6031,4.1752,innovation_science,operational_excellence,56,367,27322,True,
+NVDA,Technology,2022,1.1241,3.0828,innovation_science,operational_excellence,7941,71626,55837,False,
+NVDA,Technology,2023,0.6046,3.4464,innovation_science,people_talent,37,256,36786,True,-0.5195000000000001
+OXY,Energy,2021,0.9897,1.7965,environmental_stewardship,people_talent,533,3312,42957,False,
+OXY,Energy,2022,0.8413,0.9887,integrity_responsibility,people_talent,533,3312,52854,False,-0.14839999999999998
+OXY,Energy,2023,0.5499,2.0557,heritage_longevity,diversity_inclusion,533,3312,47904,False,-0.2914
+OXY,Energy,2024,0.7372,1.8343,heritage_longevity,people_talent,529,3282,44360,False,0.1872999999999999
+PFE,Healthcare,2016,0.9428,2.082,human_progress_wellbeing,operational_excellence,695,4330,56322,False,
+PFE,Healthcare,2017,0.7477,2.2802,human_progress_wellbeing,operational_excellence,734,4557,59523,False,-0.19509999999999994
+PFE,Healthcare,2018,1.5677,1.2702,human_progress_wellbeing,operational_excellence,4614,32508,67383,False,0.8200000000000001
+PFE,Healthcare,2019,1.8266,1.1387,human_progress_wellbeing,operational_excellence,4614,32508,81309,False,0.2588999999999999
+PFE,Healthcare,2020,1.3164,2.0903,human_progress_wellbeing,operational_excellence,4614,32525,64522,False,-0.5102
+PFE,Healthcare,2021,0.3739,2.9106,innovation_science,operational_excellence,5702,40352,63138,False,-0.9425
+PFE,Healthcare,2022,0.1316,3.3204,safety,operational_excellence,5853,41393,53695,False,-0.24230000000000002
+PFE,Healthcare,2023,0.0672,3.131,safety,operational_excellence,6151,43769,60305,False,-0.0644
+PFE,Healthcare,2024,0.6185,2.6417,innovation_science,operational_excellence,6046,43012,73384,False,0.5513
+PSX,Energy,2016,1.3143,1.2409,safety,customer_client_focus,89,637,33134,True,
+PSX,Energy,2017,2.3194,0.9832,heritage_longevity,diversity_inclusion,847,6289,30526,False,1.0050999999999999
+PSX,Energy,2018,2.4489,1.3291,human_progress_wellbeing,customer_client_focus,913,6741,34194,False,0.12950000000000017
+PSX,Energy,2019,3.2613,1.2206,heritage_longevity,customer_client_focus,895,6712,32942,False,0.8123999999999998
+PSX,Energy,2020,3.3426,1.3909,heritage_longevity,customer_client_focus,905,6832,32435,False,0.08130000000000015
+PSX,Energy,2021,1.986,1.617,heritage_longevity,environmental_stewardship,769,5206,38597,False,-1.3566
+PSX,Energy,2022,1.6157,1.9719,heritage_longevity,environmental_stewardship,592,4028,54664,False,-0.3703000000000001
+SBUX,Consumer Discretionary,2017,0.6521,1.8257,community_social_good,people_talent,129,743,36910,False,
+SBUX,Consumer Discretionary,2018,0.3972,2.7544,community_social_good,diversity_inclusion,129,743,41446,False,-0.2549
+SBUX,Consumer Discretionary,2019,0.5206,2.4133,community_social_good,people_talent,129,743,41563,False,0.12339999999999995
+SBUX,Consumer Discretionary,2020,0.1985,3.4211,community_social_good,people_talent,129,743,45043,False,-0.32209999999999994
+SBUX,Consumer Discretionary,2021,0.0658,3.5788,community_social_good,people_talent,129,743,47923,False,-0.1327
+SBUX,Consumer Discretionary,2022,2.2251,2.1881,heritage_longevity,operational_excellence,421,2462,68801,False,2.1593
+SBUX,Consumer Discretionary,2023,2.5083,2.3436,heritage_longevity,operational_excellence,421,2491,52214,False,0.28320000000000034
+SBUX,Consumer Discretionary,2024,2.45,2.2654,heritage_longevity,integrity_responsibility,421,2491,60109,False,-0.05830000000000002
+SCHW,Financials,2016,0.8502,1.1107,heritage_longevity,people_talent,2552,16419,27658,False,
+SCHW,Financials,2017,0.8808,1.1691,heritage_longevity,operational_excellence,2552,16419,29950,False,0.03060000000000007
+SLB,Energy,2019,1.3502,2.5285,innovation_science,people_talent,416,4037,46447,False,
+SLB,Energy,2020,0.8476,3.3172,innovation_science,people_talent,483,4524,40435,False,-0.5026
+SLB,Energy,2021,1.4154,2.2908,innovation_science,people_talent,111,722,66979,True,0.5678
+SLB,Energy,2022,0.5381,2.2312,innovation_science,operational_excellence,452,4452,37208,False,-0.8773
+SLB,Energy,2023,0.7875,2.5589,innovation_science,operational_excellence,549,3931,36015,False,0.24939999999999996
+SLB,Energy,2024,0.7971,3.0433,innovation_science,operational_excellence,604,4289,35752,False,0.009600000000000053
+TGT,Consumer Discretionary,2016,0.427,2.6564,integrity_responsibility,operational_excellence,52,363,35370,True,
+TJX,Consumer Discretionary,2016,0.7737,1.6722,customer_client_focus,operational_excellence,861,5460,31915,False,
+TJX,Consumer Discretionary,2017,1.5001,1.4831,innovation_science,integrity_responsibility,469,3091,55893,False,0.7263999999999999
+TJX,Consumer Discretionary,2018,1.6606,2.0637,innovation_science,operational_excellence,453,2958,35761,False,0.1605000000000001
+TJX,Consumer Discretionary,2019,1.4909,1.4982,innovation_science,integrity_responsibility,544,3606,35375,False,-0.16970000000000018
+TJX,Consumer Discretionary,2020,0.8996,2.6011,heritage_longevity,integrity_responsibility,408,2748,39301,False,-0.5912999999999999
+TJX,Consumer Discretionary,2021,1.6491,2.0173,human_progress_wellbeing,people_talent,607,3992,41766,False,0.7495
+TJX,Consumer Discretionary,2022,1.6831,2.128,heritage_longevity,people_talent,589,3938,62996,False,0.03400000000000003
+TJX,Consumer Discretionary,2023,1.7468,2.3165,heritage_longevity,integrity_responsibility,568,3766,47387,False,0.06369999999999987
+TMO,Healthcare,2016,0.3172,3.5407,innovation_science,operational_excellence,17,1326,30935,True,
+TMO,Healthcare,2017,0.4234,3.7254,innovation_science,operational_excellence,17,1340,28958,True,0.10620000000000002
+TMO,Healthcare,2018,0.5038,3.6397,innovation_science,operational_excellence,23,1391,30396,True,0.08040000000000003
+TMO,Healthcare,2019,0.0,4.2129,,operational_excellence,28,220,37850,True,-0.5038
+TMO,Healthcare,2020,0.4018,4.1076,innovation_science,operational_excellence,31,1448,38753,True,0.4018
+TMO,Healthcare,2021,0.4539,4.0061,innovation_science,operational_excellence,30,1443,42231,True,0.052100000000000035
+TSLA,Consumer Discretionary,2016,3.0862,2.4003,innovation_science,customer_client_focus,647,4109,24904,False,
+TSLA,Consumer Discretionary,2017,3.0951,2.2536,innovation_science,customer_client_focus,603,3812,27493,False,0.00890000000000013
+TSLA,Consumer Discretionary,2018,2.5145,1.261,safety,operational_excellence,462,3058,33045,False,-0.5806
+TSLA,Consumer Discretionary,2019,1.773,3.1408,safety,customer_client_focus,500,3283,77658,False,-0.7415
+TSLA,Consumer Discretionary,2020,1.765,2.5419,safety,customer_client_focus,523,3421,32978,False,-0.008000000000000007
+TSLA,Consumer Discretionary,2021,1.7526,3.0769,safety,customer_client_focus,523,3421,52695,False,-0.012399999999999967
+TSLA,Consumer Discretionary,2022,1.7209,2.7641,safety,customer_client_focus,523,3421,55770,False,-0.03169999999999984
+TSLA,Consumer Discretionary,2023,0.7894,2.368,environmental_stewardship,diversity_inclusion,186,1278,33259,False,-0.9315000000000001
+TSLA,Consumer Discretionary,2024,1.0236,2.0855,environmental_stewardship,diversity_inclusion,202,1580,236905,False,0.23420000000000007
+UNH,Healthcare,2017,0.8949,1.7712,human_progress_wellbeing,operational_excellence,415,2985,38485,False,
+UNH,Healthcare,2018,1.0212,2.496,human_progress_wellbeing,operational_excellence,236,1779,37359,False,0.12630000000000008
+UNH,Healthcare,2019,0.8874,2.7391,human_progress_wellbeing,operational_excellence,229,1725,38013,False,-0.13380000000000014
+UNH,Healthcare,2020,0.7111,3.1107,human_progress_wellbeing,operational_excellence,230,1739,50693,False,-0.1763
+UNH,Healthcare,2021,0.5019,3.5202,human_progress_wellbeing,operational_excellence,207,1424,45392,False,-0.20919999999999994
+UNH,Healthcare,2022,0.4453,3.1946,human_progress_wellbeing,operational_excellence,235,1721,38894,False,-0.05660000000000004
+VLO,Energy,2020,1.3809,0.3768,environmental_stewardship,diversity_inclusion,142,984,49508,False,
+VLO,Energy,2021,1.5143,0.4079,customer_client_focus,diversity_inclusion,148,1020,37977,False,0.13339999999999996
+VLO,Energy,2022,1.0573,0.8179,customer_client_focus,environmental_stewardship,148,1018,51178,False,-0.4570000000000001
+VLO,Energy,2023,1.034,0.7419,customer_client_focus,diversity_inclusion,155,1062,61467,False,-0.023299999999999876
+VLO,Energy,2024,0.6941,1.0866,environmental_stewardship,operational_excellence,292,2051,60930,False,-0.3399
+WFC,Financials,2016,1.7986,1.7279,community_social_good,operational_excellence,316,3417,57357,False,
+WFC,Financials,2017,1.5136,1.6928,community_social_good,customer_client_focus,318,3387,68281,False,-0.2849999999999999
+WFC,Financials,2018,1.3228,2.0545,community_social_good,customer_client_focus,207,1417,68863,False,-0.19080000000000008
+WFC,Financials,2019,1.4431,2.4472,community_social_good,customer_client_focus,207,1417,96180,False,0.12030000000000007
+WFC,Financials,2020,1.4588,2.5958,community_social_good,people_talent,151,1068,71715,False,0.015700000000000047
+WFC,Financials,2021,1.2878,3.2911,community_social_good,people_talent,151,1068,73059,False,-0.17100000000000004
+WFC,Financials,2022,0.8328,3.2718,community_social_good,people_talent,135,976,79034,False,-0.45500000000000007
+WFC,Financials,2023,0.8494,3.6689,community_social_good,customer_client_focus,135,976,65540,False,0.01660000000000006
+WFC,Financials,2024,0.7762,3.6189,community_social_good,people_talent,135,976,72288,False,-0.07320000000000004
+XOM,Energy,2016,1.9473,2.7853,heritage_longevity,environmental_stewardship,194,1404,36677,False,
+XOM,Energy,2018,0.9797,1.2455,heritage_longevity,people_talent,581,3928,27211,False,
+XOM,Energy,2019,1.4086,1.7742,heritage_longevity,people_talent,752,5009,32723,False,0.42890000000000006
+XOM,Energy,2020,1.5863,2.2382,heritage_longevity,people_talent,583,3883,32258,False,0.17769999999999997
+XOM,Energy,2021,1.7554,1.9325,heritage_longevity,environmental_stewardship,515,3430,46326,False,0.16910000000000003
+XOM,Energy,2022,1.8086,1.5398,heritage_longevity,environmental_stewardship,601,3949,38769,False,0.053199999999999914
+XOM,Energy,2023,2.0139,1.398,operational_excellence,environmental_stewardship,601,3949,55855,False,0.20530000000000004
