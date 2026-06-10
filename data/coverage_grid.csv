@@ -1,0 +1,51 @@
+ticker,name,sector,tier,chosen_url,years_covered,is_canonical,non_canonical_note,2016,2017,2018,2019,2020,2021,2022,2023,2024
+MSFT,Microsoft,Technology,override,microsoft.com/en-us/about,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+AAPL,Apple,Technology,timeout,,0,True,,timeout,timeout,timeout,timeout,timeout,timeout,timeout,timeout,timeout
+NVDA,NVIDIA,Technology,agent,nvidia.com/en-us/about-nvidia/,9,True,,broken_snapshot,filled,filled,filled,filled,filled,filled,filled,filled
+GOOGL,Alphabet,Technology,agent,about.google,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+META,Meta Platforms,Technology,override,about.meta.com,3,True,,no_capture,no_capture,no_capture,no_capture,no_capture,no_capture,filled,filled,filled
+AVGO,Broadcom,Technology,low_coverage,www.broadcom.com/about,2,True,,filled,no_capture,no_capture,no_capture,no_capture,filled,no_capture,no_capture,no_capture
+CRM,Salesforce,Technology,agent,www.salesforce.com/company/about-us,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+ORCL,Oracle,Technology,timeout,,0,True,,timeout,timeout,timeout,timeout,timeout,timeout,timeout,timeout,timeout
+IBM,IBM,Technology,agent,www.ibm.com/about,6,False,"www.ibm.com/able/about.html is IBM's accessibility sub-section About page, not the main corporate About/values page. It covers 2019 only of the missing years. No canonical About/values path confirmed for 2016–2018.",no_capture,no_capture,no_capture,filled,filled,filled,filled,filled,filled
+INTC,Intel,Technology,timeout,,0,True,,timeout,timeout,timeout,timeout,timeout,timeout,timeout,timeout,timeout
+BRK.B,Berkshire Hathaway,Financials,override,berkshirehathaway.com,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,broken_snapshot
+JPM,JPMorgan Chase,Financials,agent,jpmorganchase.com/about,9,True,,broken_snapshot,broken_snapshot,broken_snapshot,broken_snapshot,filled,filled,filled,filled,filled
+BAC,Bank of America,Financials,agent,about.bankofamerica.com/en/our-company,4,True,,no_capture,no_capture,no_capture,no_capture,no_capture,filled,filled,filled,filled
+WFC,Wells Fargo,Financials,prefix_filter,www.wellsfargo.com/about,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+GS,Goldman Sachs,Financials,agent,www.goldmansachs.com/our-firm,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+MS,Morgan Stanley,Financials,override,morganstanley.com/about-us,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+BLK,BlackRock,Financials,agent,www.blackrock.com/corporate/about-us,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+SCHW,Charles Schwab,Financials,low_coverage,www.schwab.com/public/schwab/nn/intelligent/about-sip.html,2,True,,filled,filled,no_capture,no_capture,no_capture,no_capture,no_capture,no_capture,no_capture
+AXP,American Express,Financials,genuine_miss,,0,True,,host_wrong,host_wrong,host_wrong,host_wrong,host_wrong,host_wrong,host_wrong,host_wrong,host_wrong
+C,Citigroup,Financials,agent,www.citigroup.com/citi/about/consumer_businesses.html,9,True,,filled,filled,filled,filled,filled,filled,broken_snapshot,broken_snapshot,filled
+LLY,Eli Lilly,Healthcare,agent,www.lilly.com/who-we-are,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+UNH,UnitedHealth Group,Healthcare,agent,www.unitedhealthgroup.com/about.html,6,True,,no_capture,filled,filled,filled,filled,filled,filled,no_capture,no_capture
+JNJ,Johnson & Johnson,Healthcare,agent,www.jnj.com/about-jnj,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+ABBV,AbbVie,Healthcare,agent,www.abbvie.com/our-company.html,8,True,,filled,filled,filled,filled,filled,filled,filled,filled,no_capture
+MRK,Merck,Healthcare,agent,merck.com/about,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+TMO,Thermo Fisher,Healthcare,agent,www.thermofisher.com/cn/zh/home/about-us.html,7,True,"Regional pages (UAE /ae/en, China /cn/zh, Japan /jp/ja) used because no canonical corporate About page (corporate.thermofisher.com/en/about-us.html or www.thermofisher.com/us/en/home/about-us.html) returned archive coverage for the missing years.",filled,filled,filled,filled,filled,filled,filled,no_capture,no_capture
+ABT,Abbott Laboratories,Healthcare,prefix_filter,www.abbott.com/about-abbott.html,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+PFE,Pfizer,Healthcare,agent,pfizer.com/about,9,True,Sub-section page within the /about hierarchy (accolades listings); the canonical pfizer.com/about page has no archive snapshots for 2018–2020. No broader About/values page was found with those years in the archive.,filled,filled,filled,filled,filled,filled,filled,filled,filled
+MDT,Medtronic,Healthcare,agent,www.medtronic.com/au-en/about.html,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+BMY,Bristol-Myers Squibb,Healthcare,agent,www.bms.com/about-us.html,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+AMZN,Amazon,Consumer Discretionary,override,aboutamazon.com,7,False,"amazon.jobs is Amazon's careers/jobs sub-domain; the canonical aboutamazon.com only begins in 2018. These pages (Working at Amazon and Leadership Principles) are About/values-adjacent pages found on the jobs site, as no corporate About host has archive coverage for 2016-2017.",no_capture,no_capture,filled,filled,filled,filled,filled,filled,filled
+TSLA,Tesla,Consumer Discretionary,prefix_filter,www.tesla.com/about,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+HD,Home Depot,Consumer Discretionary,agent,corporate.homedepot.com/about,7,True,,filled,filled,filled,filled,filled,filled,filled,no_capture,no_capture
+MCD,McDonald's,Consumer Discretionary,agent,www.mcdonalds.com/us/en-us/about-us.html,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+NKE,Nike,Consumer Discretionary,agent,about.nike.com,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+SBUX,Starbucks,Consumer Discretionary,agent,www.starbucks.com/about-us,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+TGT,Target,Consumer Discretionary,low_coverage,www.target.com/bp/purpose,2,True,,filled,broken_snapshot,no_capture,no_capture,no_capture,no_capture,no_capture,no_capture,no_capture
+LOW,Lowe's,Consumer Discretionary,agent,corporate.lowes.com/who-we-are,5,True,,no_capture,no_capture,no_capture,no_capture,filled,filled,filled,filled,filled
+TJX,TJX Companies,Consumer Discretionary,agent,www.tjx.com/company,8,True,,filled,filled,filled,filled,filled,filled,filled,filled,no_capture
+F,Ford Motor,Consumer Discretionary,timeout,,0,True,,timeout,timeout,timeout,timeout,timeout,timeout,timeout,timeout,timeout
+XOM,ExxonMobil,Energy,agent,www.exxonmobil.com/en/aviation/about-us/innovation,7,False,Sub-brand aviation section About page; no canonical corporate About/values page found on corporate.exxonmobil.com or about.exxonmobil.com (both empty in archive). The main www.exxonmobil.com/ap-english/about.aspx only covers 2016. Aviation sub-pages are the best available for missing years.,filled,no_capture,filled,filled,filled,filled,filled,filled,no_capture
+CVX,Chevron,Energy,agent,chevron.com/about,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+COP,ConocoPhillips,Energy,prefix_filter,www.conocophillips.com/about-us,8,True,,no_capture,filled,filled,filled,filled,filled,filled,filled,filled
+EOG,EOG Resources,Energy,agent,www.eogresources.com/company,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled
+SLB,SLB (Schlumberger),Energy,agent,www.slb.com/who-we-are,6,True,,no_capture,no_capture,no_capture,filled,filled,filled,filled,filled,filled
+MPC,Marathon Petroleum,Energy,prefix_filter,www.marathonpetroleum.com/about,6,True,,no_capture,no_capture,no_capture,filled,filled,filled,filled,filled,filled
+PSX,Phillips 66,Energy,agent,www.phillips66.com/about,7,True,,filled,filled,filled,filled,filled,filled,filled,no_capture,no_capture
+VLO,Valero Energy,Energy,prefix_filter,www.valero.com/about,5,True,,no_capture,no_capture,no_capture,no_capture,filled,filled,filled,filled,filled
+OXY,Occidental Petroleum,Energy,prefix_filter,www.oxy.com/about,4,True,,no_capture,no_capture,no_capture,no_capture,no_capture,filled,filled,filled,filled
+HAL,Halliburton,Energy,agent,www.halliburton.com/en/about-us,9,True,,filled,filled,filled,filled,filled,filled,filled,filled,filled

@@ -1,0 +1,61 @@
+# Global run settings for Part 1 (stated values).
+
+# Year window (inclusive). One snapshot is selected per year.
+year_start: 2016
+year_end: 2024
+
+# Anchor date within each year. When several snapshots exist for a year, the one
+# whose timestamp is closest to <year>-anchor is chosen. Deterministic + defensible.
+anchor_month: 7
+anchor_day: 1
+
+# Politeness toward web.archive.org (no hard documented limit; be conservative).
+wayback_min_interval_seconds: 2.0  # gentle: space requests out to avoid re-throttling
+request_timeout_seconds: 30
+max_retries: 3  # exponential-backoff retry on timeout/429 before declaring a timeout
+
+# Identify ourselves on every request (good web-citizen practice; SEC requires it).
+user_agent: "authenticity-index research (ssaumyajaiswal07@gmail.com)"
+
+# --- Page discovery (deterministic stage) ---
+# ONE domain-scoped CDX query per company (matchType=domain) with a server-side
+# urlkey keyword filter returns every archived About/values-ish path in the window.
+# We rank those paths locally by keyword priority + year coverage and pick the best.
+# Runs with bounded concurrency. Fully deterministic — no LLM here.
+discovery:
+  min_years_covered: 4         # a chosen path must cover >= this many years
+  concurrency: 2               # GENTLE: <=2 simultaneous requests (avoid re-throttling)
+  query_limit: 400             # SMALL: canonical paths sort early; large limits make
+                               # the server scan deep and time out on huge sites
+  # ONE host query per company — the single best corporate host. Trying several
+  # hosts per company multiplied request volume and helped trigger throttling;
+  # subdomain-hosted values pages (e.g. corporate.*) are handled via overrides.
+  hosts: ["www."]
+  # urlkey keyword filter (server-side) — kept SIMPLE so CDX accepts it (boundary
+  # regexes are rejected). Precise token-boundary filtering happens locally in
+  # Python (so "commission"/"missionary" are dropped there, not by the server).
+  keyword_regex: "about|mission|values|who-we-are|purpose|company"
+  # Local ranking priority (earlier = preferred) when a path matches multiple.
+  keywords_priority: ["values", "mission", "about", "who-we-are", "purpose", "company"]
+  # Paths containing any of these are NOT values pages — drop them.
+  exclude: ["news", "press", "investor", "career", "jobs", "legal", "privacy",
+            "sitemap", "blog", "support", "help", "contact", "store", "shop",
+            "product", "media", "events", "awards", "history/", "leadership",
+            "test", "/_", "login", "search",
+            "/b/", "facebook.com", "twitter.com", "instagram.com",  # product-browse & social profiles
+            "/learn/", "/topic/", "earnings",  # learning-center / topic / earnings pages are not values pages
+            # non-page file types — never choose an asset as the values page
+            ".pdf", ".jpg", ".jpeg", ".png", ".gif", ".svg", ".ico",
+            ".json", ".xml", ".css", ".js"]
+
+# --- LLM theme tagging ---
+llm:
+  # Bulk per-snapshot classification against the frozen taxonomy.
+  classify_model: "claude-haiku-4-5"
+  # Taxonomy bootstrap + any hard adjudication.
+  reason_model: "claude-opus-4-8"
+  # Step-E discovery agent (tool-using loop over ~40 companies). Sonnet 4.6 is the
+  # cost/quality balance for this high-volume tool-use workload; bump to opus for hard cases.
+  agent_model: "claude-sonnet-4-6"
+  agent_max_iters: 12          # hard cap on tool-call rounds per company (bounds cost)
+  max_tokens: 2000

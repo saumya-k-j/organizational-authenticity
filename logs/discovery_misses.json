@@ -1,0 +1,359 @@
+[
+  {
+    "ticker": "NVDA",
+    "resolved_by": "genuine_miss",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": []
+  },
+  {
+    "ticker": "META",
+    "resolved_by": "low_coverage",
+    "chosen_url": "about.meta.com",
+    "years_covered": 3,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "about.meta.com"
+    ],
+    "covered_years": [
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "AVGO",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.broadcom.com/about",
+    "years_covered": 1,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "www.broadcom.com/about"
+    ],
+    "covered_years": [
+      2021
+    ]
+  },
+  {
+    "ticker": "CRM",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.salesforce.com/ap/company",
+    "years_covered": 2,
+    "n_candidate_paths": 4,
+    "candidates": [
+      "www.salesforce.com/ap/company",
+      "www.salesforce.com/ap/company/about-us",
+      "www.salesforce.com/ap/company/feedback",
+      "www.salesforce.com/ap/company/locations"
+    ],
+    "covered_years": [
+      2016,
+      2017
+    ]
+  },
+  {
+    "ticker": "BAC",
+    "resolved_by": "genuine_miss",
+    "chosen_url": "about.bankofamerica.com",
+    "years_covered": 0,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "about.bankofamerica.com"
+    ],
+    "covered_years": []
+  },
+  {
+    "ticker": "BLK",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.blackrock.com/americas-offshore/about-us",
+    "years_covered": 2,
+    "n_candidate_paths": 71,
+    "candidates": [
+      "www.blackrock.com/americas-offshore/about-us",
+      "www.blackrock.com/au/about-us/about-ishares",
+      "www.blackrock.com/au/individual/about-blackrock",
+      "www.blackrock.com/americas-offshore/en/about-us",
+      "www.blackrock.com/aladdin/resources/about-aladdin",
+      "www.blackrock.com/au/about-us/about-blackrock-australia",
+      "www.blackrock.com/aladdin/about-us/aladdin-in-the-nordics",
+      "www.blackrock.com/americas-offshore/resources/about-ishares",
+      "www.blackrock.com/americas-offshore/about-us/investment-stewardship",
+      "www.blackrock.com/americas-offshore/about-us/corporate-sustainability"
+    ],
+    "covered_years": [
+      2019,
+      2020
+    ]
+  },
+  {
+    "ticker": "SCHW",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.schwab.com/public/intelligent/about-intelligent-portfolios",
+    "years_covered": 1,
+    "n_candidate_paths": 3,
+    "candidates": [
+      "www.schwab.com/public/intelligent/about-intelligent-portfolios",
+      "www.schwab.com/learn/topic/company-earnings",
+      "www.schwab.com/public/schwab/nn/intelligent/about-sip.html"
+    ],
+    "covered_years": [
+      2016
+    ]
+  },
+  {
+    "ticker": "AXP",
+    "resolved_by": "genuine_miss",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": []
+  },
+  {
+    "ticker": "LLY",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.lilly.com/about",
+    "years_covered": 1,
+    "n_candidate_paths": 275,
+    "candidates": [
+      "www.lilly.com/about",
+      "www.lilly.com/who-we-are",
+      "www.lilly.com/who-we-are-meet-a-lilly-engineer",
+      "www.lilly.com/about/index=",
+      "www.lilly.com/about/history",
+      "www.lilly.com/eu/about-lilly",
+      "www.lilly.com/se/about-lilly",
+      "www.lilly.com/fi/about-lilly",
+      "www.lilly.com/about/indexhtml",
+      "www.lilly.com/about/highlights"
+    ],
+    "covered_years": [
+      2022
+    ]
+  },
+  {
+    "ticker": "UNH",
+    "resolved_by": "low_coverage",
+    "chosen_url": "unitedhealthgroup.com/about",
+    "years_covered": 2,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "unitedhealthgroup.com/about"
+    ],
+    "covered_years": [
+      2018,
+      2019
+    ]
+  },
+  {
+    "ticker": "TMO",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.thermofisher.com/ar/es/home/about-us/partnering-licensing.html",
+    "years_covered": 2,
+    "n_candidate_paths": 39,
+    "candidates": [
+      "www.thermofisher.com/ar/es/home/about-us/partnering-licensing.html",
+      "www.thermofisher.com/ae/en/home/about-us/partnering-licensing.html",
+      "www.thermofisher.com/af/en/home/about-us/partnering-licensing.html",
+      "www.thermofisher.com/ar/en/home/about-us/partnering-licensing.html",
+      "www.thermofisher.com/at/en/home/about-us/corporate-social-responsibility.html",
+      "www.thermofisher.com/ar/es/home/about-us/corporate-social-responsibility.html",
+      "www.thermofisher.com/ar/en/home/about-us/corporate-social-responsibility.html",
+      "www.thermofisher.com/ar/es/home/about-us/partnering-licensing/oem-commercial-supply.html",
+      "www.thermofisher.com/ar/en/home/about-us/partnering-licensing/oem-commercial-supply.html",
+      "www.thermofisher.com/ae/en/home/about-us/partnering-licensing/oem-commercial-supply.html"
+    ],
+    "covered_years": [
+      2017,
+      2018
+    ]
+  },
+  {
+    "ticker": "HD",
+    "resolved_by": "genuine_miss",
+    "chosen_url": "www.homedepot.com/b/2-light/3-light/mission/n-5yc1vz1z17pplz1z1se0yz1z1secg/ntk-elastic/ntt-bathroom%2bwall%2blights",
+    "years_covered": 0,
+    "n_candidate_paths": 5,
+    "candidates": [
+      "www.homedepot.com/b/2-light/3-light/mission/n-5yc1vz1z17pplz1z1se0yz1z1secg/ntk-elastic/ntt-bathroom%2bwall%2blights",
+      "www.homedepot.com/b/2-light/3-light/mission/n-5yc1vzbwo5nz1z17pplz1z1se0yz1z1secg/ntk-elasticplus/ntt-bathroom%2bwall%2blights",
+      "www.homedepot.com/b/2-light/3-light/metal/mission/n-5yc1vz1z17pplz1z1841pz1z1se0yz1z1secg/ntk-elasticplus/ntt-bathroom%2bwall%2blights",
+      "www.homedepot.com/b/2-light/3-light/no-shade/mission/n-5yc1vz1z17pplz1z1841lz1z1se0yz1z1secg/ntk-elasticplus/ntt-bathroom%2bwall%2blights",
+      "www.homedepot.com/b/2-light/3-light/industrial/mission/n-5yc1vz1z0jylez1z17pplz1z1se0yz1z1secg/ntk-elasticplus/ntt-bathroom%2bwall%2blights"
+    ],
+    "covered_years": []
+  },
+  {
+    "ticker": "SBUX",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.starbucks.com/about",
+    "years_covered": 1,
+    "n_candidate_paths": 46,
+    "candidates": [
+      "www.starbucks.com/about",
+      "www.starbucks.com/about-us",
+      "www.starbucks.com/mission/default.asp",
+      "www.starbucks.com/partners/mission-values",
+      "www.starbucks.com/partners/about-us",
+      "www.starbucks.com/about-us/accessibility",
+      "www.starbucks.com/about-us/web-accessibility",
+      "www.starbucks.com/about-us/open-forum-1-05-11",
+      "www.starbucks.com/about-us/company-information",
+      "www.starbucks.com/about-us/corporate-governance"
+    ],
+    "covered_years": [
+      2016
+    ]
+  },
+  {
+    "ticker": "TGT",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.target.com/bp/mission",
+    "years_covered": 1,
+    "n_candidate_paths": 12,
+    "candidates": [
+      "www.target.com/bp/mission",
+      "www.target.com/about/me",
+      "www.target.com/bp/purpose",
+      "www.target.com/b/mission/-/n-56cx8",
+      "www.target.com/b/mission/-/-91.6686",
+      "www.target.com/b/mission-athletecare/-/n-557ya",
+      "www.target.com/b/mission-engineering/-/n-jskp2",
+      "www.target.com/b/mission-cooling/-/n-q643leh5hbo",
+      "www.target.com/b/mission-automotive/-/n-q643le7lux7",
+      "www.target.com/c/about-kendra-scott/-/n-tluag"
+    ],
+    "covered_years": [
+      2016
+    ]
+  },
+  {
+    "ticker": "LOW",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.lowes.com/l/about",
+    "years_covered": 1,
+    "n_candidate_paths": 38,
+    "candidates": [
+      "www.lowes.com/l/about",
+      "www.lowes.com/l/about/safe",
+      "www.lowes.com/l/about/logos",
+      "www.lowes.com/l/about/nec-2020",
+      "www.lowes.com/l/about/sms-terms",
+      "www.lowes.com/l/about/suppliers",
+      "www.lowes.com/l/about/lowes-loop",
+      "www.lowes.com/l/about/tech-connect",
+      "www.lowes.com/l/about/download-apps",
+      "www.lowes.com/l/about/price-promise"
+    ],
+    "covered_years": [
+      2024
+    ]
+  },
+  {
+    "ticker": "TJX",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.tjx.com/about",
+    "years_covered": 2,
+    "n_candidate_paths": 31,
+    "candidates": [
+      "www.tjx.com/about",
+      "www.tjx.com/about.asp",
+      "www.tjx.com/company",
+      "www.tjx.com/about/about",
+      "www.tjx.com/about/tkmaxx",
+      "www.tjx.com/about/winners",
+      "www.tjx.com/about/ajwright",
+      "www.tjx.com/about/homesense",
+      "www.tjx.com/about/marshalls",
+      "www.tjx.com/about/index.html"
+    ],
+    "covered_years": [
+      2016,
+      2017
+    ]
+  },
+  {
+    "ticker": "XOM",
+    "resolved_by": "low_coverage",
+    "chosen_url": "exxonmobil.com/basestocks/about.aspx",
+    "years_covered": 1,
+    "n_candidate_paths": 8,
+    "candidates": [
+      "exxonmobil.com/basestocks/about.aspx",
+      "www.exxonmobil.com/ap-english/about.aspx",
+      "exxonmobil.com/benelux-english/about.aspx",
+      "www.exxonmobil.com/en/aviation/about-us",
+      "exxonmobil.com/australia-english/pa/about.aspx",
+      "www.exxonmobil.com/en/aviation/about-us/innovation",
+      "www.exxonmobil.com/en/aviation/about-us/sustainability",
+      "www.exxonmobil.com/en/aviation/about-us/supply-reliability"
+    ],
+    "covered_years": [
+      2016
+    ]
+  },
+  {
+    "ticker": "CVX",
+    "resolved_by": "genuine_miss",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": []
+  },
+  {
+    "ticker": "EOG",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.eogresources.com/about",
+    "years_covered": 1,
+    "n_candidate_paths": 19,
+    "candidates": [
+      "www.eogresources.com/about",
+      "www.eogresources.com/company",
+      "www.eogresources.com/about/corpgov.html",
+      "www.eogresources.com/about/overview.html",
+      "www.eogresources.com/about/factsheet.html",
+      "www.eogresources.com/about/industry_links.html",
+      "www.eogresources.com/about/officers_board.html",
+      "www.eogresources.com/about/company_history.html",
+      "www.eogresources.com/about/letter_stockholders.html",
+      "www.eogresources.com/company/owners"
+    ],
+    "covered_years": [
+      2016
+    ]
+  },
+  {
+    "ticker": "SLB",
+    "resolved_by": "genuine_miss",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": []
+  },
+  {
+    "ticker": "HAL",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.halliburton.com/en-us/about-us/hse-sq.html",
+    "years_covered": 1,
+    "n_candidate_paths": 121,
+    "candidates": [
+      "www.halliburton.com/en-us/about-us/hse-sq.html",
+      "www.halliburton.com/en-us/about-us/hse-sq.page",
+      "www.halliburton.com/en-us/about-us/default.page",
+      "www.halliburton.com/en-us/about-us/default.html",
+      "www.halliburton.com/en-us/about-us/lead-direct-charter.page",
+      "www.halliburton.com/en-us/about-us/lead-direct-charter.html",
+      "www.halliburton.com/en-us/about-us/halliburton-uk-tax-strategy.page",
+      "www.halliburton.com/en-us/about-us/halliburton-uk-tax-strategy.html",
+      "www.halliburton.com/en-us/about-us/our-global-training-centers.page",
+      "www.halliburton.com/en-us/about-us/corporate-governance-guidelines.page"
+    ],
+    "covered_years": [
+      2020
+    ]
+  }
+]

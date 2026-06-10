@@ -1,0 +1,16 @@
+# --- HTTP + politeness ---
+requests>=2.32
+tenacity>=9.0          # retry/backoff
+
+# --- text extraction / cleaning ---
+trafilatura>=1.12      # main-content extraction (strips nav/footer/boilerplate)
+ftfy>=6.2              # fix mojibake / encoding artifacts in archived HTML
+
+# --- config + structured data ---
+pyyaml>=6.0
+pydantic>=2.9          # validated LLM output schemas
+pandas>=2.2            # tidy output tables
+
+# --- LLM theme tagging ---
+anthropic>=0.40        # Claude SDK (theme tagging, Part 1 step 7)
+python-dotenv>=1.0     # load ANTHROPIC_API_KEY from .env

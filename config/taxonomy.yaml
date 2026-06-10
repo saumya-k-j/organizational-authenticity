@@ -1,0 +1,52 @@
+# FROZEN value-theme taxonomy (v1) used to classify every company-year snapshot.
+#
+# HOW THIS WAS BUILT (do not re-derive per page — that gives inconsistent labels):
+#   1. Scrape-cleaned a 5-sector sample (MSFT/CVX/JPM/JNJ/MCD, 41 pages, 2016-2024).
+#   2. scripts/bootstrap_taxonomy.py proposed a taxonomy from that sample (12 themes).
+#   3. Added `safety` (1 justified addition): this universe is energy + healthcare +
+#      industrial-heavy (20+ firms) where physical/operational safety is a primary
+#      stated value the 5-company sample under-weighted.
+#   4. FROZEN here as v1. Every one of the ~335 snapshots is classified against this
+#      fixed list, which is what makes the labels comparable across companies/years.
+# See PART1.md for the full justification.
+version: 1
+themes:
+  - key: integrity_responsibility
+    label: Integrity & Responsible Conduct
+    desc: "Acting ethically, honestly and responsibly to earn trust and accountability."
+  - key: operational_excellence
+    label: Operational Excellence & Quality
+    desc: "Top performance through high-quality, reliable, disciplined execution."
+  - key: innovation_science
+    label: Innovation & Science
+    desc: "Applying ingenuity, research and new technology to solve problems."
+  - key: people_talent
+    label: People & Talent
+    desc: "Valuing, developing and supporting employees as the core resource."
+  - key: diversity_inclusion
+    label: Diversity & Inclusion
+    desc: "An inclusive workplace that respects individual dignity and difference."
+  - key: customer_client_focus
+    label: Customer & Client Focus
+    desc: "Serving the needs of customers, clients and end-users first."
+  - key: community_social_good
+    label: Community & Social Responsibility
+    desc: "Giving back to and improving communities and the wider world."
+  - key: environmental_stewardship
+    label: Environmental Stewardship
+    desc: "Protecting the environment; cleaner, sustainable resources and operations."
+  - key: leadership_governance
+    label: Leadership & Governance
+    desc: "Strong, just leadership and sound corporate governance."
+  - key: human_progress_wellbeing
+    label: Human Progress & Well-being
+    desc: "Advancing health, modern life and a better future for people."
+  - key: profitable_growth
+    label: Profitable Growth & Shareholder Value
+    desc: "Sound profit, returns and investment for sustained success."
+  - key: heritage_longevity
+    label: Heritage & Longevity
+    desc: "Pride in long history and a legacy built on enduring principles."
+  - key: safety
+    label: Safety
+    desc: "Physical safety of workers, patients, customers and the public; safe, reliable operations."

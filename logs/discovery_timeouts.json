@@ -1,0 +1,38 @@
+[
+  {
+    "ticker": "AAPL",
+    "resolved_by": "timeout",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": []
+  },
+  {
+    "ticker": "ORCL",
+    "resolved_by": "timeout",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": []
+  },
+  {
+    "ticker": "INTC",
+    "resolved_by": "timeout",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": []
+  },
+  {
+    "ticker": "F",
+    "resolved_by": "timeout",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": []
+  }
+]

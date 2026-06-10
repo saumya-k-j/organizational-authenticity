@@ -1,0 +1,60 @@
+# 50 companies: 10 largest by market cap in each of 5 sectors (S&P 500 as of Jan 2024).
+# `domain`  : best-guess primary corporate domain — discovery tries paths/subdomains against it.
+# `values_url` (optional): pin a known-good archived page URL to SKIP discovery for that company.
+#                          Fill these in as discovery resolves them, for reproducibility.
+companies:
+  # --- Technology ---
+  - {ticker: MSFT,  name: Microsoft,            sector: Technology, domain: microsoft.com, values_url: "microsoft.com/en-us/about"}
+  - {ticker: AAPL,  name: Apple,                sector: Technology, domain: apple.com}
+  - {ticker: NVDA,  name: NVIDIA,               sector: Technology, domain: nvidia.com}
+  - {ticker: GOOGL, name: Alphabet,             sector: Technology, domain: abc.xyz, values_url: "about.google"}
+  - {ticker: META,  name: Meta Platforms,       sector: Technology, domain: meta.com, values_url: "about.meta.com"}
+  - {ticker: AVGO,  name: Broadcom,             sector: Technology, domain: broadcom.com}
+  - {ticker: CRM,   name: Salesforce,           sector: Technology, domain: salesforce.com}
+  - {ticker: ORCL,  name: Oracle,               sector: Technology, domain: oracle.com}
+  - {ticker: IBM,   name: IBM,                  sector: Technology, domain: ibm.com}
+  - {ticker: INTC,  name: Intel,                sector: Technology, domain: intel.com}
+  # --- Financials ---
+  - {ticker: BRK.B, name: Berkshire Hathaway,   sector: Financials, domain: berkshirehathaway.com, values_url: "berkshirehathaway.com"}
+  - {ticker: JPM,   name: JPMorgan Chase,       sector: Financials, domain: jpmorganchase.com, values_url: "jpmorganchase.com/about"}
+  - {ticker: BAC,   name: Bank of America,      sector: Financials, domain: bankofamerica.com, values_url: "about.bankofamerica.com"}
+  - {ticker: WFC,   name: Wells Fargo,          sector: Financials, domain: wellsfargo.com}
+  - {ticker: GS,    name: Goldman Sachs,        sector: Financials, domain: goldmansachs.com}
+  - {ticker: MS,    name: Morgan Stanley,       sector: Financials, domain: morganstanley.com, values_url: "morganstanley.com/about-us"}
+  - {ticker: BLK,   name: BlackRock,            sector: Financials, domain: blackrock.com}
+  - {ticker: SCHW,  name: Charles Schwab,       sector: Financials, domain: schwab.com}
+  - {ticker: AXP,   name: American Express,     sector: Financials, domain: americanexpress.com}
+  - {ticker: C,     name: Citigroup,            sector: Financials, domain: citigroup.com, values_url: "citigroup.com/citi/about"}
+  # --- Healthcare ---
+  - {ticker: LLY,   name: Eli Lilly,            sector: Healthcare, domain: lilly.com}
+  - {ticker: UNH,   name: UnitedHealth Group,   sector: Healthcare, domain: unitedhealthgroup.com, values_url: "unitedhealthgroup.com/about"}
+  - {ticker: JNJ,   name: Johnson & Johnson,    sector: Healthcare, domain: jnj.com, values_url: "www.jnj.com/about-jnj"}
+  - {ticker: ABBV,  name: AbbVie,               sector: Healthcare, domain: abbvie.com}
+  - {ticker: MRK,   name: Merck,                sector: Healthcare, domain: merck.com, values_url: "merck.com/about"}
+  - {ticker: TMO,   name: Thermo Fisher,        sector: Healthcare, domain: thermofisher.com}
+  - {ticker: ABT,   name: Abbott Laboratories,  sector: Healthcare, domain: abbott.com}
+  - {ticker: PFE,   name: Pfizer,               sector: Healthcare, domain: pfizer.com, values_url: "pfizer.com/about"}
+  - {ticker: MDT,   name: Medtronic,            sector: Healthcare, domain: medtronic.com}
+  - {ticker: BMY,   name: Bristol-Myers Squibb, sector: Healthcare, domain: bms.com}
+  # --- Consumer Discretionary ---
+  - {ticker: AMZN,  name: Amazon,               sector: Consumer Discretionary, domain: amazon.com, values_url: "aboutamazon.com"}
+  - {ticker: TSLA,  name: Tesla,                sector: Consumer Discretionary, domain: tesla.com}
+  - {ticker: HD,    name: Home Depot,           sector: Consumer Discretionary, domain: homedepot.com}
+  - {ticker: MCD,   name: McDonald's,           sector: Consumer Discretionary, domain: mcdonalds.com}
+  - {ticker: NKE,   name: Nike,                 sector: Consumer Discretionary, domain: nike.com, values_url: "about.nike.com"}
+  - {ticker: SBUX,  name: Starbucks,            sector: Consumer Discretionary, domain: starbucks.com}
+  - {ticker: TGT,   name: Target,               sector: Consumer Discretionary, domain: target.com}
+  - {ticker: LOW,   name: Lowe's,               sector: Consumer Discretionary, domain: lowes.com}
+  - {ticker: TJX,   name: TJX Companies,        sector: Consumer Discretionary, domain: tjx.com}
+  - {ticker: F,     name: Ford Motor,           sector: Consumer Discretionary, domain: ford.com}
+  # --- Energy ---
+  - {ticker: XOM,   name: ExxonMobil,           sector: Energy, domain: exxonmobil.com}
+  - {ticker: CVX,   name: Chevron,              sector: Energy, domain: chevron.com}
+  - {ticker: COP,   name: ConocoPhillips,       sector: Energy, domain: conocophillips.com}
+  - {ticker: EOG,   name: EOG Resources,        sector: Energy, domain: eogresources.com}
+  - {ticker: SLB,   name: SLB (Schlumberger),   sector: Energy, domain: slb.com}
+  - {ticker: MPC,   name: Marathon Petroleum,   sector: Energy, domain: marathonpetroleum.com}
+  - {ticker: PSX,   name: Phillips 66,          sector: Energy, domain: phillips66.com}
+  - {ticker: VLO,   name: Valero Energy,        sector: Energy, domain: valero.com}
+  - {ticker: OXY,   name: Occidental Petroleum, sector: Energy, domain: oxy.com}
+  - {ticker: HAL,   name: Halliburton,          sector: Energy, domain: halliburton.com}

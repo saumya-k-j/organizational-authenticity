@@ -1,0 +1,1545 @@
+[
+  {
+    "ticker": "MSFT",
+    "resolved_by": "override",
+    "chosen_url": "microsoft.com/en-us/about",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "microsoft.com/en-us/about"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "resolved_by": "timeout",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": [],
+    "per_year_url": {}
+  },
+  {
+    "ticker": "NVDA",
+    "resolved_by": "agent",
+    "chosen_url": "nvidia.com/en-us/about-nvidia/",
+    "years_covered": 9,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "nvidia.com/en-us/about-nvidia/",
+      "2017": "nvidia.com/object/about-nvidia.html",
+      "2018": "nvidia.com/en-us/about-nvidia/",
+      "2019": "nvidia.com/en-us/about-nvidia/",
+      "2020": "nvidia.com/en-us/about-nvidia/",
+      "2021": "nvidia.com/en-us/about-nvidia/",
+      "2022": "nvidia.com/en-us/about-nvidia/",
+      "2023": "nvidia.com/en-us/about-nvidia/",
+      "2024": "nvidia.com/en-us/about-nvidia/"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "GOOGL",
+    "resolved_by": "agent",
+    "chosen_url": "about.google",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "about.google"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "google.com/about",
+      "2017": "google.com/about",
+      "2018": "google.com/about",
+      "2019": "about.google",
+      "2020": "about.google",
+      "2021": "about.google",
+      "2022": "about.google",
+      "2023": "about.google",
+      "2024": "about.google"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "META",
+    "resolved_by": "override",
+    "chosen_url": "about.meta.com",
+    "years_covered": 3,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "about.meta.com"
+    ],
+    "covered_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2022": "about.meta.com",
+      "2023": "about.meta.com",
+      "2024": "about.meta.com"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "AVGO",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.broadcom.com/about",
+    "years_covered": 2,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "www.broadcom.com/about"
+    ],
+    "covered_years": [
+      2016,
+      2021
+    ],
+    "per_year_url": {
+      "2016": "www.broadcom.com/company",
+      "2021": "www.broadcom.com/about"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "CRM",
+    "resolved_by": "agent",
+    "chosen_url": "www.salesforce.com/company/about-us",
+    "years_covered": 9,
+    "n_candidate_paths": 4,
+    "candidates": [
+      "www.salesforce.com/ap/company",
+      "www.salesforce.com/ap/company/about-us",
+      "www.salesforce.com/ap/company/feedback",
+      "www.salesforce.com/ap/company/locations"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.salesforce.com/ap/company",
+      "2017": "www.salesforce.com/company/about-us",
+      "2018": "www.salesforce.com/company/about-us",
+      "2019": "www.salesforce.com/company/about-us",
+      "2020": "www.salesforce.com/company/about-us",
+      "2021": "www.salesforce.com/company/about-us",
+      "2022": "www.salesforce.com/company/our-story",
+      "2023": "www.salesforce.com/company/our-story",
+      "2024": "www.salesforce.com/company/our-story"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "ORCL",
+    "resolved_by": "timeout",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": [],
+    "per_year_url": {}
+  },
+  {
+    "ticker": "IBM",
+    "resolved_by": "agent",
+    "chosen_url": "www.ibm.com/about",
+    "years_covered": 6,
+    "n_candidate_paths": 68,
+    "candidates": [
+      "www.ibm.com/about",
+      "www.ibm.com/about/ginni",
+      "www.ibm.com/about/arvind",
+      "www.ibm.com/about/covid19",
+      "www.ibm.com/able/about.html",
+      "www.ibm.com/about/automation",
+      "www.ibm.com/about/be-fearless",
+      "www.ibm.com/about/environment",
+      "www.ibm.com/about/client-advocacy",
+      "www.ibm.com/about/deploy-ai-at-scale"
+    ],
+    "covered_years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2019": "www.ibm.com/able/about.html",
+      "2020": "www.ibm.com/about",
+      "2021": "www.ibm.com/about",
+      "2022": "www.ibm.com/about",
+      "2023": "www.ibm.com/about",
+      "2024": "www.ibm.com/about"
+    },
+    "is_canonical": false,
+    "non_canonical_note": "www.ibm.com/able/about.html is IBM's accessibility sub-section About page, not the main corporate About/values page. It covers 2019 only of the missing years. No canonical About/values path confirmed for 2016\u20132018."
+  },
+  {
+    "ticker": "INTC",
+    "resolved_by": "timeout",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": [],
+    "per_year_url": {}
+  },
+  {
+    "ticker": "BRK.B",
+    "resolved_by": "override",
+    "chosen_url": "berkshirehathaway.com",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "berkshirehathaway.com"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "berkshirehathaway.com",
+      "2017": "berkshirehathaway.com",
+      "2018": "berkshirehathaway.com",
+      "2019": "berkshirehathaway.com",
+      "2020": "berkshirehathaway.com",
+      "2021": "berkshirehathaway.com",
+      "2022": "berkshirehathaway.com",
+      "2023": "berkshirehathaway.com",
+      "2024": "berkshirehathaway.com"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "JPM",
+    "resolved_by": "agent",
+    "chosen_url": "jpmorganchase.com/about",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "jpmorganchase.com/about"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.jpmorganchase.com/corporate/About-JPMC/business-principles.htm",
+      "2017": "www.jpmorganchase.com/corporate/About-JPMC/business-principles.htm",
+      "2018": "www.jpmorganchase.com/corporate/About-JPMC/business-principles.htm",
+      "2019": "www.jpmorganchase.com/corporate/About-JPMC/business-principles.htm",
+      "2020": "jpmorganchase.com/about",
+      "2021": "jpmorganchase.com/about",
+      "2022": "jpmorganchase.com/about",
+      "2023": "jpmorganchase.com/about",
+      "2024": "jpmorganchase.com/about"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "BAC",
+    "resolved_by": "agent",
+    "chosen_url": "about.bankofamerica.com/en/our-company",
+    "years_covered": 4,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "about.bankofamerica.com"
+    ],
+    "covered_years": [
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2021": "about.bankofamerica.com/en/our-company",
+      "2022": "about.bankofamerica.com/en/our-company",
+      "2023": "about.bankofamerica.com/en/our-company",
+      "2024": "about.bankofamerica.com/en/our-company"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "WFC",
+    "resolved_by": "prefix_filter",
+    "chosen_url": "www.wellsfargo.com/about",
+    "years_covered": 9,
+    "n_candidate_paths": 283,
+    "candidates": [
+      "www.wellsfargo.com/about",
+      "www.wellsfargo.com/about.php",
+      "www.wellsfargo.com/about.asp",
+      "www.wellsfargo.com/about.html",
+      "www.wellsfargo.com/about.shtml",
+      "www.wellsfargo.com/about/csr",
+      "www.wellsfargo.com/about/csr.",
+      "www.wellsfargo.com/about/corporate",
+      "www.wellsfargo.com/about/diversity",
+      "www.wellsfargo.com/about/charitable"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "GS",
+    "resolved_by": "agent",
+    "chosen_url": "www.goldmansachs.com/our-firm",
+    "years_covered": 9,
+    "n_candidate_paths": 12,
+    "candidates": [
+      "www.goldmansachs.com/about-us",
+      "www.goldmansachs.com/about-us/index.html",
+      "www.goldmansachs.com/about-us/culture-of-innovation/gs-accelerate",
+      "www.goldmansachs.com/about-us/culture-of-innovation/gs-accelerate/index.html",
+      "www.goldmansachs.com/about-us/culture-of-innovation/gs-accelerate/sprint-week-2021",
+      "www.goldmansachs.com/about-us/culture-of-innovation/gs-accelerate/bts-gs-accelerate",
+      "www.goldmansachs.com/about-us/culture-of-innovation/gs-accelerate/case-studies/louisa",
+      "www.goldmansachs.com/about-us/culture-of-innovation/gs-accelerate/sprint-week-2021/index.html",
+      "www.goldmansachs.com/about-us/culture-of-innovation/gs-accelerate/bts-gs-accelerate/index.html",
+      "www.goldmansachs.com/about-us/culture-of-innovation/gs-accelerate/case-studies/directed-share-program"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.goldmansachs.com/who-we-are/index.html",
+      "2017": "www.goldmansachs.com/who-we-are/index.html",
+      "2018": "www.goldmansachs.com/who-we-are/index.html",
+      "2019": "www.goldmansachs.com/our-firm",
+      "2020": "www.goldmansachs.com/our-firm",
+      "2021": "www.goldmansachs.com/our-firm",
+      "2022": "www.goldmansachs.com/our-firm",
+      "2023": "www.goldmansachs.com/our-firm",
+      "2024": "www.goldmansachs.com/our-firm"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "MS",
+    "resolved_by": "override",
+    "chosen_url": "morganstanley.com/about-us",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "morganstanley.com/about-us"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "BLK",
+    "resolved_by": "agent",
+    "chosen_url": "www.blackrock.com/corporate/about-us",
+    "years_covered": 9,
+    "n_candidate_paths": 71,
+    "candidates": [
+      "www.blackrock.com/americas-offshore/about-us",
+      "www.blackrock.com/au/about-us/about-ishares",
+      "www.blackrock.com/au/individual/about-blackrock",
+      "www.blackrock.com/americas-offshore/en/about-us",
+      "www.blackrock.com/aladdin/resources/about-aladdin",
+      "www.blackrock.com/au/about-us/about-blackrock-australia",
+      "www.blackrock.com/aladdin/about-us/aladdin-in-the-nordics",
+      "www.blackrock.com/americas-offshore/resources/about-ishares",
+      "www.blackrock.com/americas-offshore/about-us/investment-stewardship",
+      "www.blackrock.com/americas-offshore/about-us/corporate-sustainability"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.blackrock.com/au/individual/about-blackrock",
+      "2017": "www.blackrock.com/au/individual/about-blackrock",
+      "2018": "www.blackrock.com/corporate/about-us",
+      "2019": "www.blackrock.com/americas-offshore/about-us",
+      "2020": "www.blackrock.com/corporate/about-us",
+      "2021": "www.blackrock.com/corporate/about-us",
+      "2022": "www.blackrock.com/corporate/about-us",
+      "2023": "www.blackrock.com/corporate/about-us",
+      "2024": "www.blackrock.com/corporate/about-us"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "SCHW",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.schwab.com/public/schwab/nn/intelligent/about-sip.html",
+    "years_covered": 2,
+    "n_candidate_paths": 3,
+    "candidates": [
+      "www.schwab.com/public/intelligent/about-intelligent-portfolios",
+      "www.schwab.com/learn/topic/company-earnings",
+      "www.schwab.com/public/schwab/nn/intelligent/about-sip.html"
+    ],
+    "covered_years": [
+      2016,
+      2017
+    ],
+    "per_year_url": {
+      "2016": "www.schwab.com/public/schwab/nn/intelligent/about-sip.html",
+      "2017": "www.schwab.com/public/schwab/nn/intelligent/about-sip.html"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "AXP",
+    "resolved_by": "genuine_miss",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": []
+  },
+  {
+    "ticker": "C",
+    "resolved_by": "agent",
+    "chosen_url": "www.citigroup.com/citi/about/consumer_businesses.html",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "citigroup.com/citi/about"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.citigroup.com/citi/about/consumer_businesses.html",
+      "2017": "www.citigroup.com/citi/about/consumer_businesses.html",
+      "2018": "www.citigroup.com/citi/about/consumer_businesses.html",
+      "2019": "www.citigroup.com/citi/about/consumer_businesses.html",
+      "2020": "www.citigroup.com/citi/about/consumer_businesses.html",
+      "2021": "www.citigroup.com/citi/about/consumer_businesses.html",
+      "2022": "www.citigroup.com/citi/about/consumer_businesses.html",
+      "2023": "www.citigroup.com/citi/about/consumer_businesses.html",
+      "2024": "www.citigroup.com/canada/en/about-us"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "LLY",
+    "resolved_by": "agent",
+    "chosen_url": "www.lilly.com/who-we-are",
+    "years_covered": 9,
+    "n_candidate_paths": 275,
+    "candidates": [
+      "www.lilly.com/about",
+      "www.lilly.com/who-we-are",
+      "www.lilly.com/who-we-are-meet-a-lilly-engineer",
+      "www.lilly.com/about/index=",
+      "www.lilly.com/about/history",
+      "www.lilly.com/eu/about-lilly",
+      "www.lilly.com/se/about-lilly",
+      "www.lilly.com/fi/about-lilly",
+      "www.lilly.com/about/indexhtml",
+      "www.lilly.com/about/highlights"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.lilly.com/who-we-are",
+      "2017": "www.lilly.com/who-we-are",
+      "2018": "www.lilly.com/who-we-are",
+      "2019": "www.lilly.com/who-we-are",
+      "2020": "www.lilly.com/who-we-are",
+      "2021": "www.lilly.com/about/index=",
+      "2022": "www.lilly.com/who-we-are",
+      "2023": "www.lilly.com/who-we-are",
+      "2024": "www.lilly.com/eu/about-lilly"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "UNH",
+    "resolved_by": "agent",
+    "chosen_url": "www.unitedhealthgroup.com/about.html",
+    "years_covered": 6,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "unitedhealthgroup.com/about"
+    ],
+    "covered_years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "per_year_url": {
+      "2017": "www.unitedhealthgroup.com/2012-annual-report/mission-and-culture.aspx",
+      "2018": "www.unitedhealthgroup.com/about.html",
+      "2019": "www.unitedhealthgroup.com/about.html",
+      "2020": "www.unitedhealthgroup.com/about.html",
+      "2021": "www.unitedhealthgroup.com/who-we-are.html",
+      "2022": "www.unitedhealthgroup.com/who-we-are.html"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "JNJ",
+    "resolved_by": "agent",
+    "chosen_url": "www.jnj.com/about-jnj",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "www.jnj.com/about-jnj"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.jnj.com/about-jnj",
+      "2017": "www.jnj.com/about-jnj",
+      "2018": "www.jnj.com/about-jnj",
+      "2019": "www.jnj.com/about-jnj",
+      "2020": "www.jnj.com/about-jnj",
+      "2021": "www.jnj.com/about-jnj",
+      "2022": "www.jnj.com/about-jnj",
+      "2023": "www.jnj.com/about-jnj",
+      "2024": "www.jnj.com/about-jnj/jnj-credo"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "ABBV",
+    "resolved_by": "agent",
+    "chosen_url": "www.abbvie.com/our-company.html",
+    "years_covered": 8,
+    "n_candidate_paths": 171,
+    "candidates": [
+      "www.abbvie.com/our-company.html",
+      "www.abbvie.com/about-us/home.html",
+      "www.abbvie.com/about-us/who-we-are.html",
+      "www.abbvie.com/about-us/fact-sheets.html",
+      "www.abbvie.com/our-company/about-abbvie.html",
+      "www.abbvie.com/about-us/ethics-compliance.html",
+      "www.abbvie.com/our-company/key-facts.html",
+      "www.abbvie.com/our-company/at-a-glance.html",
+      "www.abbvie.com/our-company/ethics-compliance.html",
+      "www.abbvie.com/our-company/equality-inclusion-diversity.html"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "per_year_url": {
+      "2016": "www.abbvie.com/about-us/home.html",
+      "2017": "www.abbvie.com/our-company.html",
+      "2018": "www.abbvie.com/our-company.html",
+      "2019": "www.abbvie.com/our-company.html",
+      "2020": "www.abbvie.com/our-company.html",
+      "2021": "www.abbvie.com/our-company.html",
+      "2022": "www.abbvie.com/our-company.html",
+      "2023": "www.abbvie.com/our-company.html"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "MRK",
+    "resolved_by": "agent",
+    "chosen_url": "merck.com/about",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "merck.com/about"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "merck.com/about",
+      "2017": "merck.com/about",
+      "2018": "merck.com/about",
+      "2019": "merck.com/about",
+      "2020": "merck.com/about",
+      "2021": "www.merck.com/company-overview",
+      "2022": "www.merck.com/company-overview",
+      "2023": "www.merck.com/company-overview",
+      "2024": "www.merck.com/company-overview"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "TMO",
+    "resolved_by": "agent",
+    "chosen_url": "www.thermofisher.com/cn/zh/home/about-us.html",
+    "years_covered": 7,
+    "n_candidate_paths": 39,
+    "candidates": [
+      "www.thermofisher.com/ar/es/home/about-us/partnering-licensing.html",
+      "www.thermofisher.com/ae/en/home/about-us/partnering-licensing.html",
+      "www.thermofisher.com/af/en/home/about-us/partnering-licensing.html",
+      "www.thermofisher.com/ar/en/home/about-us/partnering-licensing.html",
+      "www.thermofisher.com/at/en/home/about-us/corporate-social-responsibility.html",
+      "www.thermofisher.com/ar/es/home/about-us/corporate-social-responsibility.html",
+      "www.thermofisher.com/ar/en/home/about-us/corporate-social-responsibility.html",
+      "www.thermofisher.com/ar/es/home/about-us/partnering-licensing/oem-commercial-supply.html",
+      "www.thermofisher.com/ar/en/home/about-us/partnering-licensing/oem-commercial-supply.html",
+      "www.thermofisher.com/ae/en/home/about-us/partnering-licensing/oem-commercial-supply.html"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "per_year_url": {
+      "2016": "www.thermofisher.com/cn/zh/home/about-us.html",
+      "2017": "www.thermofisher.com/cn/zh/home/about-us.html",
+      "2018": "www.thermofisher.com/cn/zh/home/about-us.html",
+      "2019": "www.thermofisher.com/jp/ja/home/about-us.html",
+      "2020": "www.thermofisher.com/cn/zh/home/about-us.html",
+      "2021": "www.thermofisher.com/cn/zh/home/about-us.html",
+      "2022": "www.thermofisher.com/cn/zh/home/about-us.html"
+    },
+    "is_canonical": true,
+    "non_canonical_note": "Regional pages (UAE /ae/en, China /cn/zh, Japan /jp/ja) used because no canonical corporate About page (corporate.thermofisher.com/en/about-us.html or www.thermofisher.com/us/en/home/about-us.html) returned archive coverage for the missing years."
+  },
+  {
+    "ticker": "ABT",
+    "resolved_by": "prefix_filter",
+    "chosen_url": "www.abbott.com/about-abbott.html",
+    "years_covered": 9,
+    "n_candidate_paths": 39,
+    "candidates": [
+      "www.abbott.com/about-abbott.html",
+      "www.abbott.com/about-abbott/faqs.html",
+      "www.abbott.com/about-abbott/who-we-are.html",
+      "www.abbott.com/about-abbott/at-a-glance.html",
+      "www.abbott.com/about-abbott/our-promise.html",
+      "www.abbott.com/about-abbott/our-heritage.html",
+      "www.abbott.com/about-abbott/abbott-global.html",
+      "www.abbott.com/about-abbott/abbott-citizenship.html",
+      "www.abbott.com/about-abbott/abbott-citizenship/upside-in-action.html",
+      "www.abbott.com/about-abbott/abbott-citizenship/finding-the-upside.html"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "PFE",
+    "resolved_by": "agent",
+    "chosen_url": "pfizer.com/about",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "pfizer.com/about"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "pfizer.com/about",
+      "2017": "pfizer.com/about",
+      "2018": "www.pfizer.com/about/accolades/accolades",
+      "2019": "www.pfizer.com/about/accolades/accolades",
+      "2020": "www.pfizer.com/about/accolades/accolades",
+      "2021": "pfizer.com/about",
+      "2022": "pfizer.com/about",
+      "2023": "pfizer.com/about",
+      "2024": "pfizer.com/about"
+    },
+    "is_canonical": true,
+    "non_canonical_note": "Sub-section page within the /about hierarchy (accolades listings); the canonical pfizer.com/about page has no archive snapshots for 2018\u20132020. No broader About/values page was found with those years in the archive."
+  },
+  {
+    "ticker": "MDT",
+    "resolved_by": "agent",
+    "chosen_url": "www.medtronic.com/au-en/about.html",
+    "years_covered": 9,
+    "n_candidate_paths": 162,
+    "candidates": [
+      "www.medtronic.com/au-en/about.html",
+      "www.medtronic.com/au-en/about-3.html",
+      "www.medtronic.com/ar-es/our-company.html",
+      "www.medtronic.com/at-de/our-company.html",
+      "www.medtronic.com/at-de/uber/mission.html",
+      "www.medtronic.com/au-en/about/mission.html",
+      "www.medtronic.com/ar-es/acerca/mission.html",
+      "www.medtronic.com/at-de/our-company/mission.html",
+      "www.medtronic.com/ar-es/our-company/mission.html",
+      "www.medtronic.com/au-en/about-3/mission-statement.html"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.medtronic.com/au-en/about-3.html",
+      "2017": "www.medtronic.com/au-en/about.html",
+      "2018": "www.medtronic.com/au-en/about.html",
+      "2019": "www.medtronic.com/au-en/about.html",
+      "2020": "www.medtronic.com/au-en/about.html",
+      "2021": "www.medtronic.com/au-en/about.html",
+      "2022": "www.medtronic.com/au-en/about.html",
+      "2023": "www.medtronic.com/at-de/our-company.html",
+      "2024": "www.medtronic.com/at-de/our-company.html"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "BMY",
+    "resolved_by": "agent",
+    "chosen_url": "www.bms.com/about-us.html",
+    "years_covered": 9,
+    "n_candidate_paths": 156,
+    "candidates": [
+      "www.bms.com/about-us.html",
+      "www.bms.com/about-us.html.html",
+      "www.bms.com/about-us/our-company.html",
+      "www.bms.com/about-us/our-company.html.html",
+      "www.bms.com/about-us/global-diversity-and-inclusion.html",
+      "www.bms.com/about-us/global-diversity-and-inclusion.html.html",
+      "www.bms.com/about-us/our-company/achievements.html",
+      "www.bms.com/about-us/our-company/atlantic-live.html",
+      "www.bms.com/about-us/our-company/achievements.html.html",
+      "www.bms.com/about-us/our-company/atlantic-live.html.html"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.bms.com/ourcompany/mission/pages/default.aspx",
+      "2017": "www.bms.com/about-us.html",
+      "2018": "www.bms.com/about-us.html",
+      "2019": "www.bms.com/about-us.html",
+      "2020": "www.bms.com/about-us.html",
+      "2021": "www.bms.com/about-us.html",
+      "2022": "www.bms.com/about-us.html",
+      "2023": "www.bms.com/about-us.html",
+      "2024": "www.bms.com/about-us.html"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "AMZN",
+    "resolved_by": "override",
+    "chosen_url": "aboutamazon.com",
+    "years_covered": 7,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "aboutamazon.com"
+    ],
+    "covered_years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2018": "aboutamazon.com",
+      "2019": "aboutamazon.com",
+      "2020": "aboutamazon.com",
+      "2021": "aboutamazon.com",
+      "2022": "aboutamazon.com",
+      "2023": "aboutamazon.com",
+      "2024": "aboutamazon.com"
+    },
+    "is_canonical": false,
+    "non_canonical_note": "amazon.jobs is Amazon's careers/jobs sub-domain; the canonical aboutamazon.com only begins in 2018. These pages (Working at Amazon and Leadership Principles) are About/values-adjacent pages found on the jobs site, as no corporate About host has archive coverage for 2016-2017."
+  },
+  {
+    "ticker": "TSLA",
+    "resolved_by": "prefix_filter",
+    "chosen_url": "www.tesla.com/about",
+    "years_covered": 9,
+    "n_candidate_paths": 8,
+    "candidates": [
+      "www.tesla.com/about",
+      "www.tesla.com/about/%22/about/%22/de_at/about/%22/about/gtm.start",
+      "www.tesla.com/about/%22/about/%22/de_ch/about/%22/about/gtm.start",
+      "www.tesla.com/about/%22/about/%22/en_ae/about/%22/about/gtm.start",
+      "www.tesla.com/about/%22/about/%22/en_gb/about/%22/about/gtm.start",
+      "www.tesla.com/about/%22/about/%22/de_de/about/%22/about/gtm.start",
+      "www.tesla.com/about/%22/about/%22/de_lu/about/%22/about/gtm.start",
+      "www.tesla.com/about/%22/about/%22/en_ie/about/%22/about/gtm.start"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "HD",
+    "resolved_by": "agent",
+    "chosen_url": "corporate.homedepot.com/about",
+    "years_covered": 7,
+    "n_candidate_paths": 5,
+    "candidates": [
+      "www.homedepot.com/b/2-light/3-light/mission/n-5yc1vz1z17pplz1z1se0yz1z1secg/ntk-elastic/ntt-bathroom%2bwall%2blights",
+      "www.homedepot.com/b/2-light/3-light/mission/n-5yc1vzbwo5nz1z17pplz1z1se0yz1z1secg/ntk-elasticplus/ntt-bathroom%2bwall%2blights",
+      "www.homedepot.com/b/2-light/3-light/metal/mission/n-5yc1vz1z17pplz1z1841pz1z1se0yz1z1secg/ntk-elasticplus/ntt-bathroom%2bwall%2blights",
+      "www.homedepot.com/b/2-light/3-light/no-shade/mission/n-5yc1vz1z17pplz1z1841lz1z1se0yz1z1secg/ntk-elasticplus/ntt-bathroom%2bwall%2blights",
+      "www.homedepot.com/b/2-light/3-light/industrial/mission/n-5yc1vz1z0jylez1z17pplz1z1se0yz1z1secg/ntk-elasticplus/ntt-bathroom%2bwall%2blights"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "per_year_url": {
+      "2016": "corporate.homedepot.com/about",
+      "2017": "corporate.homedepot.com/about",
+      "2018": "corporate.homedepot.com/about",
+      "2019": "corporate.homedepot.com/about",
+      "2020": "corporate.homedepot.com/about",
+      "2021": "corporate.homedepot.com/about",
+      "2022": "corporate.homedepot.com/about"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "MCD",
+    "resolved_by": "agent",
+    "chosen_url": "www.mcdonalds.com/us/en-us/about-us.html",
+    "years_covered": 9,
+    "n_candidate_paths": 214,
+    "candidates": [
+      "www.mcdonalds.com/ca/fr-ca/about-us.html",
+      "www.mcdonalds.com/ca/en-ca/about-us.html",
+      "www.mcdonalds.com/bh/en-bh/about-our-food.html",
+      "www.mcdonalds.com/bh/ar-bh/about-our-food.html",
+      "www.mcdonalds.com/ca/fr-ca/about-our-food.html",
+      "www.mcdonalds.com/ae/en-ae/about-our-food.html",
+      "www.mcdonalds.com/ae/ar-ae/about-our-food.html",
+      "www.mcdonalds.com/ca/en-ca/about-our-food.html",
+      "www.mcdonalds.com/bh/en-bh/about-our-food1.html",
+      "www.mcdonalds.com/ca/en-ca/about-our-food.htmlrobots.txt"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.mcdonalds.com/us/en-us/about-us.html",
+      "2017": "www.mcdonalds.com/us/en-us/about-us.html",
+      "2018": "www.mcdonalds.com/us/en-us/about-us.html",
+      "2019": "www.mcdonalds.com/us/en-us/about-us.html",
+      "2020": "www.mcdonalds.com/us/en-us/about-us.html",
+      "2021": "www.mcdonalds.com/us/en-us/about-us.html",
+      "2022": "www.mcdonalds.com/us/en-us/about-us.html",
+      "2023": "www.mcdonalds.com/us/en-us/about-us.html",
+      "2024": "www.mcdonalds.com/us/en-us/about-us.html"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "NKE",
+    "resolved_by": "agent",
+    "chosen_url": "about.nike.com",
+    "years_covered": 9,
+    "n_candidate_paths": 1,
+    "candidates": [
+      "about.nike.com"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "about.nike.com",
+      "2017": "about.nike.com",
+      "2018": "about.nike.com",
+      "2019": "about.nike.com",
+      "2020": "about.nike.com",
+      "2021": "about.nike.com",
+      "2022": "about.nike.com",
+      "2023": "about.nike.com/en/company",
+      "2024": "about.nike.com/en/company"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "SBUX",
+    "resolved_by": "agent",
+    "chosen_url": "www.starbucks.com/about-us",
+    "years_covered": 9,
+    "n_candidate_paths": 46,
+    "candidates": [
+      "www.starbucks.com/about",
+      "www.starbucks.com/about-us",
+      "www.starbucks.com/mission/default.asp",
+      "www.starbucks.com/partners/mission-values",
+      "www.starbucks.com/partners/about-us",
+      "www.starbucks.com/about-us/accessibility",
+      "www.starbucks.com/about-us/web-accessibility",
+      "www.starbucks.com/about-us/open-forum-1-05-11",
+      "www.starbucks.com/about-us/company-information",
+      "www.starbucks.com/about-us/corporate-governance"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.starbucks.com/about-us",
+      "2017": "www.starbucks.com/about-us",
+      "2018": "www.starbucks.com/about-us",
+      "2019": "www.starbucks.com/about-us",
+      "2020": "www.starbucks.com/about-us",
+      "2021": "www.starbucks.com/about-us",
+      "2022": "www.starbucks.com/about-us",
+      "2023": "www.starbucks.com/about-us",
+      "2024": "www.starbucks.com/about-us"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "TGT",
+    "resolved_by": "low_coverage",
+    "chosen_url": "www.target.com/bp/purpose",
+    "years_covered": 2,
+    "n_candidate_paths": 12,
+    "candidates": [
+      "www.target.com/bp/mission",
+      "www.target.com/about/me",
+      "www.target.com/bp/purpose",
+      "www.target.com/b/mission/-/n-56cx8",
+      "www.target.com/b/mission/-/-91.6686",
+      "www.target.com/b/mission-athletecare/-/n-557ya",
+      "www.target.com/b/mission-engineering/-/n-jskp2",
+      "www.target.com/b/mission-cooling/-/n-q643leh5hbo",
+      "www.target.com/b/mission-automotive/-/n-q643le7lux7",
+      "www.target.com/c/about-kendra-scott/-/n-tluag"
+    ],
+    "covered_years": [
+      2016,
+      2017
+    ],
+    "per_year_url": {
+      "2016": "www.target.com/bp/purpose",
+      "2017": "www.target.com/bp/purpose"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "LOW",
+    "resolved_by": "agent",
+    "chosen_url": "corporate.lowes.com/who-we-are",
+    "years_covered": 5,
+    "n_candidate_paths": 38,
+    "candidates": [
+      "www.lowes.com/l/about",
+      "www.lowes.com/l/about/safe",
+      "www.lowes.com/l/about/logos",
+      "www.lowes.com/l/about/nec-2020",
+      "www.lowes.com/l/about/sms-terms",
+      "www.lowes.com/l/about/suppliers",
+      "www.lowes.com/l/about/lowes-loop",
+      "www.lowes.com/l/about/tech-connect",
+      "www.lowes.com/l/about/download-apps",
+      "www.lowes.com/l/about/price-promise"
+    ],
+    "covered_years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2020": "corporate.lowes.com/who-we-are",
+      "2021": "corporate.lowes.com/who-we-are",
+      "2022": "corporate.lowes.com/who-we-are",
+      "2023": "corporate.lowes.com/who-we-are",
+      "2024": "corporate.lowes.com/who-we-are"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "TJX",
+    "resolved_by": "agent",
+    "chosen_url": "www.tjx.com/company",
+    "years_covered": 8,
+    "n_candidate_paths": 31,
+    "candidates": [
+      "www.tjx.com/about",
+      "www.tjx.com/about.asp",
+      "www.tjx.com/company",
+      "www.tjx.com/about/about",
+      "www.tjx.com/about/tkmaxx",
+      "www.tjx.com/about/winners",
+      "www.tjx.com/about/ajwright",
+      "www.tjx.com/about/homesense",
+      "www.tjx.com/about/marshalls",
+      "www.tjx.com/about/index.html"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "per_year_url": {
+      "2016": "www.tjx.com/about",
+      "2017": "www.tjx.com/company",
+      "2018": "www.tjx.com/company",
+      "2019": "www.tjx.com/company",
+      "2020": "www.tjx.com/company",
+      "2021": "www.tjx.com/company",
+      "2022": "www.tjx.com/company",
+      "2023": "www.tjx.com/company"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "F",
+    "resolved_by": "timeout",
+    "chosen_url": null,
+    "years_covered": 0,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": [],
+    "per_year_url": {}
+  },
+  {
+    "ticker": "XOM",
+    "resolved_by": "agent",
+    "chosen_url": "www.exxonmobil.com/en/aviation/about-us/innovation",
+    "years_covered": 7,
+    "n_candidate_paths": 8,
+    "candidates": [
+      "exxonmobil.com/basestocks/about.aspx",
+      "www.exxonmobil.com/ap-english/about.aspx",
+      "exxonmobil.com/benelux-english/about.aspx",
+      "www.exxonmobil.com/en/aviation/about-us",
+      "exxonmobil.com/australia-english/pa/about.aspx",
+      "www.exxonmobil.com/en/aviation/about-us/innovation",
+      "www.exxonmobil.com/en/aviation/about-us/sustainability",
+      "www.exxonmobil.com/en/aviation/about-us/supply-reliability"
+    ],
+    "covered_years": [
+      2016,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "per_year_url": {
+      "2016": "www.exxonmobil.com/ap-english/about.aspx",
+      "2018": "www.exxonmobil.com/en/aviation/about-us/innovation",
+      "2019": "www.exxonmobil.com/en/aviation/about-us/innovation",
+      "2020": "www.exxonmobil.com/en/aviation/about-us/innovation",
+      "2021": "www.exxonmobil.com/en/aviation/about-us/innovation",
+      "2022": "www.exxonmobil.com/en/aviation/about-us/innovation",
+      "2023": "www.exxonmobil.com/en/aviation/about-us/innovation"
+    },
+    "is_canonical": false,
+    "non_canonical_note": "Sub-brand aviation section About page; no canonical corporate About/values page found on corporate.exxonmobil.com or about.exxonmobil.com (both empty in archive). The main www.exxonmobil.com/ap-english/about.aspx only covers 2016. Aviation sub-pages are the best available for missing years."
+  },
+  {
+    "ticker": "CVX",
+    "resolved_by": "agent",
+    "chosen_url": "chevron.com/about",
+    "years_covered": 9,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "chevron.com/about",
+      "2017": "chevron.com/about",
+      "2018": "chevron.com/about",
+      "2019": "chevron.com/about",
+      "2020": "chevron.com/about",
+      "2021": "chevron.com/about",
+      "2022": "chevron.com/about",
+      "2023": "chevron.com/about",
+      "2024": "chevron.com/who-we-are"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "COP",
+    "resolved_by": "prefix_filter",
+    "chosen_url": "www.conocophillips.com/about-us",
+    "years_covered": 8,
+    "n_candidate_paths": 46,
+    "candidates": [
+      "www.conocophillips.com/about-us",
+      "www.conocophillips.com/about-us/mission-vision",
+      "www.conocophillips.com/about-us/people",
+      "www.conocophillips.com/about-us/how-energy-works",
+      "www.conocophillips.com/about-us/diversity-inclusion",
+      "www.conocophillips.com/about-us/conocophillipscenter",
+      "www.conocophillips.com/about-us/safety-health-security",
+      "www.conocophillips.com/about-us/people/employee-networks",
+      "www.conocophillips.com/about-us/people/diversity-inclusion",
+      "www.conocophillips.com/about-us/people/learning-development"
+    ],
+    "covered_years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "EOG",
+    "resolved_by": "agent",
+    "chosen_url": "www.eogresources.com/company",
+    "years_covered": 9,
+    "n_candidate_paths": 19,
+    "candidates": [
+      "www.eogresources.com/about",
+      "www.eogresources.com/company",
+      "www.eogresources.com/about/corpgov.html",
+      "www.eogresources.com/about/overview.html",
+      "www.eogresources.com/about/factsheet.html",
+      "www.eogresources.com/about/industry_links.html",
+      "www.eogresources.com/about/officers_board.html",
+      "www.eogresources.com/about/company_history.html",
+      "www.eogresources.com/about/letter_stockholders.html",
+      "www.eogresources.com/company/owners"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.eogresources.com/about/overview.html",
+      "2017": "www.eogresources.com/about/overview.html",
+      "2018": "www.eogresources.com/company",
+      "2019": "www.eogresources.com/company",
+      "2020": "www.eogresources.com/company",
+      "2021": "www.eogresources.com/company",
+      "2022": "www.eogresources.com/company",
+      "2023": "www.eogresources.com/company",
+      "2024": "www.eogresources.com/company"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "SLB",
+    "resolved_by": "agent",
+    "chosen_url": "www.slb.com/who-we-are",
+    "years_covered": 6,
+    "n_candidate_paths": 0,
+    "candidates": [],
+    "covered_years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2019": "www.slb.com/who-we-are",
+      "2020": "www.slb.com/who-we-are",
+      "2021": "www.slb.com/who-we-are",
+      "2022": "www.slb.com/who-we-are",
+      "2023": "www.slb.com/about/who-we-are",
+      "2024": "www.slb.com/about/who-we-are"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "MPC",
+    "resolved_by": "prefix_filter",
+    "chosen_url": "www.marathonpetroleum.com/about",
+    "years_covered": 6,
+    "n_candidate_paths": 11,
+    "candidates": [
+      "www.marathonpetroleum.com/about",
+      "www.marathonpetroleum.com/about/our-values",
+      "www.marathonpetroleum.com/about/history",
+      "www.marathonpetroleum.com/about/board-of-directors",
+      "www.marathonpetroleum.com/brand/content/documents/mpc/about/atlas.swf",
+      "www.marathonpetroleum.com/brand/content/documents/mpc/about/penpals.swf",
+      "www.marathonpetroleum.com/brand/content/documents/mpc/about/glidingstars.swf",
+      "www.marathonpetroleum.com/brand/content/documents/mpc/about/hitching_post.swf",
+      "www.marathonpetroleum.com/brand/content/documents/mpc/about/09_clothe_a_child.swf",
+      "www.marathonpetroleum.com/brand/content/documents/mpc/about/holland%20michigan.swf"
+    ],
+    "covered_years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "PSX",
+    "resolved_by": "agent",
+    "chosen_url": "www.phillips66.com/about",
+    "years_covered": 7,
+    "n_candidate_paths": 61,
+    "candidates": [
+      "www.phillips66.com/about",
+      "www.phillips66.com/about-site",
+      "www.phillips66.com/about/timeline",
+      "www.phillips66.com/about/sert-technology",
+      "www.phillips66.com/about/u002f_layoutsu002f15u002fscriptresx.ashx",
+      "www.phillips66.com/about-site/pages/energy-star-certifications.aspx",
+      "www.phillips66.com/en/about/pages/index.aspx",
+      "www.phillips66.com/en/about/pages/visionandvalues.aspx",
+      "www.phillips66.com/en/about/pages/u002f_layoutsu002f15u002fscriptresx.ashx",
+      "www.phillips66.com/en/about/our-businesses/pages/index.aspx"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "per_year_url": {
+      "2016": "www.phillips66.com/en/about/pages/index.aspx",
+      "2017": "www.phillips66.com/about",
+      "2018": "www.phillips66.com/about",
+      "2019": "www.phillips66.com/about",
+      "2020": "www.phillips66.com/about",
+      "2021": "www.phillips66.com/about",
+      "2022": "www.phillips66.com/about"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  },
+  {
+    "ticker": "VLO",
+    "resolved_by": "prefix_filter",
+    "chosen_url": "www.valero.com/about",
+    "years_covered": 5,
+    "n_candidate_paths": 56,
+    "candidates": [
+      "www.valero.com/about",
+      "www.valero.com/fr-ca/about",
+      "www.valero.com/es-419/about",
+      "www.valero.com/about/offices",
+      "www.valero.com/about/locations",
+      "www.valero.com/about/our-history",
+      "www.valero.com/about/executive-team",
+      "www.valero.com/about/board-directors",
+      "www.valero.com/about/valero-suppliers",
+      "www.valero.com/about/guiding-principles"
+    ],
+    "covered_years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "OXY",
+    "resolved_by": "prefix_filter",
+    "chosen_url": "www.oxy.com/about",
+    "years_covered": 4,
+    "n_candidate_paths": 3,
+    "candidates": [
+      "www.oxy.com/about",
+      "www.oxy.com/about/our-dib-commitment",
+      "www.oxy.com/about/our-dei-commitment"
+    ],
+    "covered_years": [
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "resolved_by": "agent",
+    "chosen_url": "www.halliburton.com/en/about-us",
+    "years_covered": 9,
+    "n_candidate_paths": 121,
+    "candidates": [
+      "www.halliburton.com/en-us/about-us/hse-sq.html",
+      "www.halliburton.com/en-us/about-us/hse-sq.page",
+      "www.halliburton.com/en-us/about-us/default.page",
+      "www.halliburton.com/en-us/about-us/default.html",
+      "www.halliburton.com/en-us/about-us/lead-direct-charter.page",
+      "www.halliburton.com/en-us/about-us/lead-direct-charter.html",
+      "www.halliburton.com/en-us/about-us/halliburton-uk-tax-strategy.page",
+      "www.halliburton.com/en-us/about-us/halliburton-uk-tax-strategy.html",
+      "www.halliburton.com/en-us/about-us/our-global-training-centers.page",
+      "www.halliburton.com/en-us/about-us/corporate-governance-guidelines.page"
+    ],
+    "covered_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "per_year_url": {
+      "2016": "www.halliburton.com/en-us/about-us/default.page",
+      "2017": "www.halliburton.com/en-us/about-us/default.page",
+      "2018": "www.halliburton.com/en-us/about-us/default.page",
+      "2019": "www.halliburton.com/en-us/about-us/default.html",
+      "2020": "www.halliburton.com/en-us/about-us/default.html",
+      "2021": "www.halliburton.com/en/about-us",
+      "2022": "www.halliburton.com/en/about-us",
+      "2023": "www.halliburton.com/en/about-us",
+      "2024": "www.halliburton.com/en/about-us"
+    },
+    "is_canonical": true,
+    "non_canonical_note": ""
+  }
+]
