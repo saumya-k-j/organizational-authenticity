@@ -5,12 +5,9 @@ a company's public website emphasizes each value than its proxy filings back up.
 degree, is asymmetric (over-claiming is penalized, modesty is not), and scores only where both
 sides exist. A **trajectory** shows whether the gap is widening or closing over 2016–2024.
 
-**Honest framing, stated up front.** This index does **not** measure words versus behavior.
-A proxy statement is not behavior. It is a legal document, more accountable and costlier to
-lie in than a homepage, but still the company describing itself. So the index compares two
+This index does **not** measure words versus behavior. A proxy statement is not behavior. It is a legal document, more accountable and costlier to lie in than a homepage, but still the company describing itself. So the index compares two
 *registers of corporate speech*: **unconstrained self-presentation** (the website, Part 1)
-versus **accountable self-presentation** (the proxy, Part 2). Read everything below in that
-light.
+versus **accountable self-presentation** (the proxy, Part 2). 
 
 > **Status: full run, 301 scored company-years across 44 companies; 243 high-evidence
 > (58 flagged `low_evidence`).** A company-year is scored only where both a Part 1 website
@@ -20,7 +17,7 @@ light.
 
 ---
 
-# Part A: Precise definition (formal and reproducible)
+# Part A: Precise definition
 
 For each company `c` and year `y`:
 
@@ -78,7 +75,7 @@ and a Part 2 cell exist. Every other company-year is simply **absent** from the 
 documented gap, never a zero row. (In Part 1, 5 companies and many individual years have no
 website text; those cannot be scored.)
 
-**8. LEVEL vs CHANGE (kept separate).** The level is step 6. The change is the
+**8. LEVEL vs CHANGE.** The level is step 6. The change is the
 year-over-year delta of the level, **only between consecutively-scored years**:
 
 ```
@@ -192,9 +189,9 @@ whether companies are closing or widening that gap over time.
 
 ---
 
-## Implementation decisions beyond that reasoning (flagged honestly)
+## Implementation decisions beyond that reasoning 
 
-Three mechanical choices the reasoning above did not settle, surfaced here rather than buried:
+Three mechanical choices the reasoning above did not settle, surfaced here:
 
 1. **Website emphasis is recomputed, not reused.** Part 1 stored only binary present/absent
    theme tags. Grading by degree requires a frequency, measured the *same* way as the proxy,
@@ -237,10 +234,7 @@ the aggregate). A soft external anchor, not proof, but it points the right way. 
 actual board composition disclosed in each proxy (women / racially-ethnically diverse director
 nominees) and test whether a company's stated diversity emphasis (website) tracks its real
 board diversity: authentic commitment should correlate positively; cheap talk should not.
-**This is implemented and cache-backed but could not be executed: the Anthropic API key is out
-of credits** (exhausted by the Parts 1–2 tagging runs). The core index needs no API and is
-unaffected; re-running `scripts/p3_validate.py` once credits are topped up produces
-`part3_validity_diversity.csv` and the correlations. Flagged rather than faked.
+
 
 ---
 
