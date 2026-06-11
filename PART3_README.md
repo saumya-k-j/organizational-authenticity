@@ -124,7 +124,7 @@ score a company-year where I actually have both sides.
 Then I worried about the opposite: what if a company says the exact same thing two years
 running? My method might read that as a "change" when nothing changed. So I had to keep the
 **level** of alignment in a year separate from the **change** between years. Identical wording
-just means the company held steady. That's information, not a shift.
+just means the company held steady. 
 
 The next issue was **time**. A single per-year score is just a
 snapshot. A company might be badly aligned one year and improve a lot the next, and that
@@ -136,7 +136,7 @@ Once the structure felt right, I had to decide what **"alignment" actually means
 simplest options were checking whether the same themes appear on both sides (overlap), or
 whether the company ranks themes in the same order in both places (rank agreement). I rejected
 both as too simplistic. Overlap treats a meaningful match and a throwaway match the same, and
-rank agreement is mechanical. Neither captures what authenticity actually is.
+rank agreement is mechanical, neither captures what authenticity actually is.
 
 What it came down to: **authenticity is about not claiming what you don't back up.** A
 company that loudly advertises sustainability on its website but barely mentions it in its
@@ -264,7 +264,7 @@ real low-over-claimers (C, HD, BAC) standing. The numbers above are post-exclusi
 
 - **Speech vs speech, not words vs behavior.** Both sides are the company describing itself.
   The proxy is the more accountable register, but it is not conduct. The index measures
-  alignment between two self-presentations, full stop.
+  alignment between two self-presentations.
 - **Coverage gaps.** Only company-years with both a website page and a proxy are scored
   (301 of 450 possible, bounded by Part 1's 72% web coverage). Five companies (incl. Apple)
   have no scorable website and drop out entirely. Gaps are documented, never zeroed.
@@ -284,7 +284,7 @@ real low-over-claimers (C, HD, BAC) standing. The numbers above are post-exclusi
 - **Confounders are deliberately outside the formula.** Market conditions, sector norms, and
   the cost/expectedness of a given value all shape language independently of authenticity. By
   design they live here in interpretation, not in the index (see Part B). High over-claiming
-  is a flag to investigate, not a verdict.
+  is a flag to investigate.
 
 ---
 
