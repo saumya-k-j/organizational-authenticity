@@ -47,7 +47,7 @@ Average mentions per 1,000 words, early decade (2016–18) vs recent (2022–24)
 | People & talent | 3.46 | 4.57 | +32% |
 | **Profit & shareholder value** | **7.91** | **7.89** | **−0%** |
 
-## Finding 2: The headline: companies *added*, they didn't *swap* (vs Part 1)
+## Finding 2
 
 Part 1 found that on company **websites**, profit/shareholder language fell steeply
 (48% → 26% of pages) as ESG language rose, a *substitution*. In the **proxy** it didn't
@@ -62,7 +62,7 @@ around **shareholder primacy falling from 37% (2016) to 8% (2024)**, with "balan
 framing rising from 63% to ~89%. So firms increasingly *present* themselves as
 stakeholder-balanced while never actually dialing down how much they talk about returns.
 
-## Finding 3: The big shifts coincide with real external events (mostly)
+## Finding 3
 
 We tested whether the timing of language shifts lines up with known 2016–2024 events,
 accounting for the lag between an event and the next proxy season. **What aligned:**
@@ -75,25 +75,13 @@ accounting for the lag between an event and the next proxy season. **What aligne
 - **Business Roundtable stakeholder statement (2019) → community language (+46%).** Rises
   into 2021.
 
-**What didn't (reported, not buried):**
-
-- **The Paris Agreement (2016) did *not* move proxy climate language in 2017.** Environmental
-  wording was flat until it surged in 2021–22. The climate-in-governance story is a
-  proxy-fight-era phenomenon, not a Paris-era one.
-- **Human-capital ("people & talent") language was already climbing before COVID and before
-  the 2020 SEC human-capital disclosure rule.** Its biggest jump is in 2018. Those events
-  rode a trend that predated them rather than starting it.
-- **The 2022–23 anti-ESG backlash** coincides with diversity language going *flat*, which is consistent
-  with backlash. But environmental language **kept rising** (+24%), so the backlash story
-  only half-holds in the data.
-
-## Finding 4: Proxies got longer and denser
+## Finding 4
 
 The average proxy grew from ~43,500 to ~56,500 words (**+30%**) over the decade, and reading
 ease fell (Flesch 32 → 27.5, solidly "difficult"). Companies are disclosing *more* about
 values, in *harder* language. Tone stayed steadily promotional throughout.
 
-## Finding 5: Beyond the boilerplate, sectors foreground predictable values
+## Finding 5
 
 Every proxy is saturated with governance and pay language (its legal purpose), so the
 informative signal is the leading *discretionary* value once that's set aside. Across all
@@ -113,7 +101,7 @@ company emphasizes to customers vs to owners, is exactly what an authenticity in
 3–4) is built to quantify. The natural next step is a per-company-year join of the two
 datasets and a "say-do" divergence score.
 
-## Limitations (full list in PART2_README)
+## Limitations 
 
 - **Governance saturation** makes the raw "dominant theme" uninformative; we rely on the
   discretionary-theme metric, the stakeholder-orientation tag, and per-theme trends instead.
