@@ -5,8 +5,7 @@
 to *say* a value. An energy firm almost has to profess environmental concern, and its absence
 would be conspicuous. But nothing compels it to *back that up* in its filings. So
 sector-expected themes should carry a bigger say-vs-do gap than themes the sector isn't
-expected to care about. I expected this to hold. It partly did and partly surprised me, and I
-report both below.
+expected to care about. I expected this to hold. 
 
 This builds entirely on Parts 1–3 (no new collection): the same 11 discretionary themes, the
 same max-normalized per-theme over-claiming from Part 3, the same `low_evidence` exclusion.
@@ -56,7 +55,7 @@ read as "washes out at +0.014" purely because it paired the strongest sector wit
 the honest sequence is: the slice under-sold the effect, the full run confirms my prior holds
 broadly, and Financials remains the lone documented exception.
 
-### Finding 2 (centerpiece): The energy/environment case study surprised me
+### Finding 2 (centerpiece): The energy/environment 
 
 I expected environmental stewardship to be energy's **biggest** over-claim. It is nearly its
 **smallest**. Ranked by mean over-claim across the 10 energy firms:
@@ -80,7 +79,7 @@ reason to detail. Energy says environment *and largely backs it up*; it says her
 doesn't. My prior had the specific theme exactly backwards, which pointed me at a sharper
 question (Finding 3).
 
-### Finding 3: The refined "cheap-vs-costly expected value" pattern generalizes (and energy isn't special)
+### Finding 3: The refined "cheap-vs-costly expected value" pattern generalizes 
 
 The energy case suggested a rule: a company **backs up** expected values that are
 costly/material/enforced (environment, which is regulated and litigated) but **over-claims** expected
@@ -109,7 +108,7 @@ special case.** In fact environment never even clears the 60% "expected" bar (it
 50% of energy firms), yet it behaves exactly as the rule predicts: heavily engaged in proxies,
 barely over-claimed. So the refined thesis holds across all five sectors.
 
-### Confounders (the part I most want to be honest about)
+### Confounders 
 
 - **Trendiness vs sector-conformity** A theme being "expected"
   and being "over-claimed" might both just track how visible/fashionable the theme is
@@ -211,7 +210,7 @@ treat it as the same kind of soft external anchor Part 3 used, just with more ou
 
 ---
 
-## Caveats / limitations
+## Limitations
 
 - **Preliminary and small-n.** All five sectors but only 40 companies, unevenly split
   (Technology n=5, Energy n=10). The per-sector gaps are directional, not significance-tested,
