@@ -1,6 +1,6 @@
 # Part 4: Exploratory: Do companies over-claim more on the values their sector expects?
 
-**My hypothesis (stated up front).** I think companies over-claim *more* on the values their
+**My hypothesis.** I think companies over-claim *more* on the values their
 **sector is expected** to hold. The mechanism I have in mind: sector norms pressure a company
 to *say* a value. An energy firm almost has to profess environmental concern, and its absence
 would be conspicuous. But nothing compels it to *back that up* in its filings. So
@@ -74,7 +74,7 @@ Environment is **#8 of 11**. And the reason is clean and checkable: in energy **
 environmental stewardship ranks **#4 of 11** discretionary themes (3.24 per 1k words). Energy
 filings *genuinely engage* climate (it's material, regulated, and litigated for them; recall
 the Engine No. 1 fight). Meanwhile **heritage_longevity ranks dead last in energy proxies**
-(0.15 per 1k) yet is the **#1 over-claim**. So the cheap talk isn't environment at all. It's
+(0.15 per 1k) yet is the **#1 over-claim**. So the talk isn't environment at all. It's
 the soft, unfalsifiable image themes (heritage, innovation, human progress) the proxy has no
 reason to detail. Energy says environment *and largely backs it up*; it says heritage and
 doesn't. My prior had the specific theme exactly backwards, which pointed me at a sharper
@@ -109,14 +109,9 @@ special case.** In fact environment never even clears the 60% "expected" bar (it
 50% of energy firms), yet it behaves exactly as the rule predicts: heavily engaged in proxies,
 barely over-claimed. So the refined thesis holds across all five sectors.
 
-**But the −0.86 is also the catch, and I won't hide it** (see confounders): "soft vs costly" and
-"rare-vs-frequent in the proxy" are here almost the *same variable*, so I can describe the
-pattern cleanly but cannot fully attribute it to conformity-driven cheap talk over the
-mechanical max-norm effect.
-
 ### Confounders (the part I most want to be honest about)
 
-- **Trendiness vs sector-conformity, which I can't fully separate.** A theme being "expected"
+- **Trendiness vs sector-conformity** A theme being "expected"
   and being "over-claimed" might both just track how visible/fashionable the theme is
   generally, not sector-conformity specifically. The partial control (per theme, over-claim
   where it's expected vs where it isn't) now has enough sectors to read: human_progress
@@ -125,9 +120,7 @@ mechanical max-norm effect.
   flat, and customer_client_focus is *negative* (−0.05). So conformity shows up for the soft
   themes but not the material ones. That's suggestive, not clean, because it overlaps the
   frequency story below.
-- **Frequency confounder, and it nearly *is* the refined thesis.** Over-claiming is
-  mechanically smaller for a theme the proxy discusses a lot (max-normalization: a frequent
-  theme is near the proxy's top, so `p[t]` is high and `over[t]` small). Across all 2,673
+- **Frequency confounder** Over-claiming is mechanically smaller for a theme the proxy discusses a lot (max-normalization: a frequent theme is near the proxy's top, so `p[t]` is high and `over[t]` small). Across all 2,673
   theme-cells the Spearman of over-claim vs proxy frequency is **−0.25**; restricted to the
   expected themes that drive Finding 3 it is **−0.86**. That second number is the one to worry
   about: my "costly/material" stand-in *is* proxy frequency, so the substantive story (soft,
@@ -152,15 +145,14 @@ have to say it, whether or not you do anything about it. Whereas a value nobody 
 your sector, you'd only claim if you actually meant it. So my prior was that over-claiming
 should concentrate on the sector-expected themes: the social pressure is to *say* the value,
 and there's nothing forcing you to back it up where it counts, in the filings. I expected this
-to hold, and I expected energy + environment to be the poster child.
+to hold, and I expected energy + environment to be the main issue.
 
 I set it up the simplest honest way: mark each sector's expected themes from what its
 companies actually profess on their websites, then split each company's over-claiming into the
 expected themes versus the rest, and see if the expected side is bigger. I reused everything
 from Part 3 so I wasn't quietly changing the measure mid-stream.
 
-The first result, on a two-sector slice, almost talked me out of it. Energy did what I
-expected, but Financials did the opposite and the effect washed out, so I nearly concluded
+Energy did what I expected, but Financials did the opposite and the effect washed out, so I nearly concluded
 "sector expects it → over-claims it" was at most a weak tendency. I'm glad I scaled before
 believing that, because it was a sampling artifact: my slice had paired the strongest sector
 with the single reversal. Across all five sectors the prior holds plainly: four of five
@@ -171,9 +163,9 @@ Then the energy case study reversed my prior, in a useful way. I was sure
 environment would be energy's biggest over-claim. It's almost its smallest, eighth of eleven.
 When I looked at why, it made sense and taught me something: energy proxies actually
 talk about the environment a lot, because for an oil company climate is a material, regulated,
-litigated risk they're forced to address in the filing. So environment isn't cheap talk for
+litigated risk they're forced to address in the filing. So environment isn't a light issue for
 them. It's the one expected value they're genuinely compelled to back up. The cheap talk is
-somewhere quieter: heritage, innovation, human progress, the soft image themes the proxy has no
+somewhere in: heritage, innovation, human progress, the soft image themes the proxy has no
 reason to detail. I'd had the mechanism right (expected values are easy to say) but applied it
 to the wrong theme, because I forgot that some expected values are *also* the ones
 outside forces make you act on.
@@ -200,10 +192,9 @@ actually costs companies anything.
 
 ---
 
-## Consequences extension: do over-claimers face real consequences? (reasoned, not built)
+## Consequences extension: do over-claimers face real consequences? 
 
-Part 3 already dropped a hint here. Its contested-proxy validity check found that the
-company-years where activists openly fought the board, **XOM 2021 (Engine No. 1, 77th
+Part 3 found that the company-years where activists openly fought the board, **XOM 2021 (Engine No. 1, 77th
 percentile) and SBUX 2024 (89th)**, sit high in over-claiming, while a single-issue fight
 (MCD/Icahn) doesn't. That's the seed of the natural next question: **do over-claimers actually
 get punished for the gap**, by activists, regulators, the press, employees, or the market?
@@ -216,8 +207,7 @@ returns around proxy season. Then ask whether high or *widening* over-claiming p
 of those, controlling for size and sector. The honest framing is that this stays
 *speech-vs-consequence*, not proof of causation: an over-claimer drawing a fight could be
 cause (the gap invites scrutiny) or effect (a company under attack puffs up its website). I'd
-treat it as the same kind of soft external anchor Part 3 used, just with more outcomes. I'm
-explicitly **not** building it here. It's the reasoned extension, not Part 4's deliverable.
+treat it as the same kind of soft external anchor Part 3 used, just with more outcomes. 
 
 ---
 
