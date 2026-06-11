@@ -17,16 +17,8 @@ themes it expresses, producing one tidy row per company-year.
 | Clean text | **library**: `trafilatura` + **`ftfy`** | trafilatura extracts main content; the fetch layer decodes with the *detected* charset (not requests' ISO-8859-1 default, which mojibakes UTF-8 archived HTML) and `ftfy` repairs any residual artifacts, so `page_text_clean` is pristine. |
 | Theme tagging | **structured LLM**: Claude `messages.parse()` vs the **frozen** taxonomy (`tagging.py`) | Same frozen prompt+schema for every page ⇒ the ~335 classifications are reproducible and comparable. Bulk on Haiku 4.5. |
 
-> **Watch-item: `human_progress_wellbeing`.** In the slice it appeared on nearly every MSFT year
-> and on CVX post-2020. It may be acting as a catch-all "better future / empower people" bucket.
-> Across the full run, check whether it co-occurs with almost everything (a sign it's too broad);
-> if so, tighten its definition or split it (e.g. health vs. societal-progress) and re-tag.
 
-The governing rule: deterministic code for anything with one right answer; a
-frozen-schema LLM call only for bounded semantic judgment; an agent reserved for
-the genuinely branching sub-task (values-page discovery on the misses).
-
-## Discovery design (and why it changed)
+## Discovery design 
 
 The first version guessed ~40 exact `{subdomain}×{path}` URLs per company, serially.
 It worked but was slow and could only find paths we thought to guess. We rebuilt it
@@ -80,7 +72,7 @@ against the live archive. The redesign is shaped by what CDX actually does:
   - At 500× this matters more, not less: keep the small pool + delay, add jitter, and prefer an
     off-peak window over a burst. Overrides-as-data scale linearly and sidestep discovery entirely.
 
-## Making "resolved" mean something + the coverage grid
+## The coverage grid
 
 A first clean sweep "resolved" 34/50, but that label was too generous: it included
 1–3-year picks and two junk URLs where a keyword matched mid-slug (`/gaming-company`,
@@ -109,7 +101,7 @@ updated in place by later steps (pins, retries, agent fills), so at any moment i
 exactly what is missing and why. Every blank for a big company must end up justified by
 a reason code, never left as an unexplained default.
 
-## Step-E agent: scoped to missing-year RECOVERY (not whole-company discovery)
+## Step-E agent: scoped to missing-year RECOVERY
 
 The agent is the expensive, non-deterministic tier, so it runs ONLY where deterministic
 methods genuinely fell short, and its job is narrow: for a given company-year that the grid
@@ -130,7 +122,7 @@ actually tried alternates. Every decision is logged per company-year for audit.
   (e.g. SLB's old `/who-we-are` 2019–22 + new `/about/who-we-are` 2022–24). The agent submits
   *all* confirmed URLs and the harness unions their real per-year coverage (storing a per-year
   URL map), so a year is filled whenever *any* confirmed URL has it, leaving a cell blank only
-  when no URL covers it. (SLB: 4y → 6y once both paths count.)
+  when no URL covers it. 
 - **Canonical flag.** When only a sub-brand/regional page exists in the archive (e.g. XOM's
   `/aviation/about-us`, because `corporate.exxonmobil.com` is empty in the archive), the agent fills
   from it but marks `is_canonical=false` with a note, so non-corporate picks are reviewable in
@@ -153,10 +145,6 @@ actually tried alternates. Every decision is logged per company-year for audit.
   `urls_tried` (every host/URL queried), and `hit_cap` (whether it exhausted the round budget),
   alongside the fills and confirmed gaps, so a struggling company (e.g. one that hit 12 rounds)
   is visible.
-- **Cost dependency.** The agent is the only step that needs Anthropic API credits; everything
-  else (CDX discovery, coverage, the scrub, the grid) uses the free archive. At 500 companies the
-  agent is also the dominant cost, so scope it tightly (only genuine gaps), and lean on the
-  deterministic tiers + pins first.
 
 ### Recovery stopped at 75% verified: diminishing returns
 After the credit-enabled recovery pass, **recovery was deliberately stopped**. The companies still
@@ -168,14 +156,6 @@ learning/earnings paths (`/learn/`, `/topic/`, `earnings`) are excluded, so a se
 non-values page; SCHW's affected years reverted to a confirmed gap. **75% verified, all from real
 values pages, with every remaining blank carrying a reason code, is the accepted baseline.** No
 further discovery refinement loops.
-
-### What changes at 500 companies
-Nothing structural; it's parameterized. Raise `concurrency` (and budget CDX rate limits
-accordingly, since the archive is a shared public resource, so stay polite, ~6–10 in flight),
-keep the cache (so a partial run resumes for free), and feed the inevitably larger misses
-list to the agent in batches. Overrides stay as data in `companies.yaml`. The one thing to
-watch is the archive's tolerance: at 500× you'd add jitter/backoff and possibly a nightly
-window rather than hammering it in one burst.
 
 ## Frozen value-theme taxonomy (v1)
 
@@ -206,7 +186,7 @@ would give 335 inconsistent label sets). Procedure:
 
 ## Key assumptions / judgment calls (graded)
 
-1. **One snapshot per year, nearest July 1.** A fixed rule beats cherry-picking.
+1. **One snapshot per year, nearest July 1.** 
 2. **Frozen taxonomy.** Bootstrapped from a sample (`bootstrap_taxonomy.py`), then
    frozen and justified, not re-derived per page (which would give inconsistent labels).
 3. **`status:200` + `text/html` only.** Redirects/404s are dropped (and logged);
