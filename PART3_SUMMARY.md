@@ -1,4 +1,4 @@
-# Part 3: What We Built and What It Says (plain-language summary)
+# Part 3: What We Built and What It Says
 
 ## The finding, in one breath
 
@@ -22,7 +22,7 @@ thin pages). Scores range from near-zero to about 3.6, with a typical company ar
 spread is wide enough that the score genuinely separates companies rather than rating everyone
 the same.
 
-## Who over-claims, who doesn't: the part a reader can act on
+## The part a reader can act on
 
 - **Over-claim the most: energy companies.** Three of the four highest scorers are energy:
   ConocoPhillips, Marathon Petroleum and Phillips 66. Their websites market sustainability,
@@ -35,7 +35,7 @@ the same.
   gap is widening or closing over the decade. More companies are *closing* the gap than widening
   it, so their two voices are converging over time. A meaningful minority are drifting apart.
 
-## A sanity check that it's measuring something real
+## Check
 
 The years when activist investors publicly fought a company's board are exactly the years you'd
 expect self-presentation to be under strain. Two of the three such cases in our data,
@@ -44,14 +44,13 @@ highest-over-claiming years in the whole dataset (top ~10–20%). The third (a s
 at McDonald's) sits mid-pack, which also makes sense. The score points the right way without
 being told the answer.
 
-## The limitation:
+## The limitation
 
 This index compares **two kinds of corporate speech, not words against real behavior.** A proxy
 filing is more accountable and costlier to lie in than a homepage, but it is still the company
 describing itself, not a measure of what it actually did. So a high score means "the company's
-marketing leans on values its formal disclosures don't echo." That's a flag worth investigating,
-not a verdict that the company is dishonest. Plenty of innocent reasons (different audiences,
-different document purposes) can drive the gap. Treat the score as a question, not a conclusion.
+marketing leans on values its formal disclosures don't echo." Plenty of innocent reasons (different audiences,
+different document purposes) can drive the gap.
 
 ## Bottom line
 
