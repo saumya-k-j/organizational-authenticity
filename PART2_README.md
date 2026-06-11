@@ -18,7 +18,7 @@ dictionary. Part 2 reuses Part 1's repo layout, on-disk cache, run-log style, an
 
 ---
 
-## What it does (end to end)
+## What it does 
 
 ```
 ticker → CIK → submissions → pick DEF 14A per meeting-year → download → clean
@@ -57,7 +57,7 @@ schema in `PART2_SCHEMA.md`.
   marketing-page "stated" values.
 - **Meeting-year bucketing, not filing-date year.** A proxy is filed weeks before its
   annual meeting; off-cycle filers (Apple files in December some years) otherwise produce
-  a phantom gap in one calendar year and a double in the next. Bucketing by meeting year
+  a gap in one calendar year and a double in the next. Bucketing by meeting year
   (`filing_month ≥ 10 → year+1`) gives one clean row per annual cycle. In the slice this
   turned Apple's apparent 2017-double / 2018-gap into a clean 2016–2024 with zero
   collisions.
@@ -107,7 +107,7 @@ schema in `PART2_SCHEMA.md`.
 
 ---
 
-## What I'd do differently with more time
+## What I'd do differently 
 
 - **Section-aware extraction.** Split the proxy into its standard sections (governance,
   human capital, sustainability, compensation D&A) and analyze the values-bearing sections
