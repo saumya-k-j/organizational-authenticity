@@ -11,7 +11,7 @@ the final 50-company picture. The method and code are unchanged for the full run
 
 ---
 
-## The one-paragraph version
+## Summary
 
 For three of America's largest companies, we recovered **every** annual proxy statement
 (SEC DEF 14A) for 2016–2024 and measured how their values language moved. The headline:
