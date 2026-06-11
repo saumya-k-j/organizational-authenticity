@@ -31,7 +31,7 @@ points to their *current* legal entity: **BlackRock** (a 2024 reorganization) an
 filings so the time series stays continuous. Nine companies had a "collision," meaning more than
 one candidate filing in a year. This was almost always a shareholder-activist contest where the
 dissident's materials sit alongside management's in the same SEC feed. In every case we
-verified we kept management's full annual proxy (details in the coverage report).
+verified we kept management's full annual proxy.
 
 ## Finding 1: Stakeholder/ESG language rose sharply
 
@@ -98,8 +98,7 @@ Part 2 gives the "lived/disclosed" baseline to set against Part 1's "stated" val
 channels **rhyme but don't match**: the same ESG rise, but a different relationship to
 shareholder language (substitution on the website, accretion in the proxy). That gap, what a
 company emphasizes to customers vs to owners, is exactly what an authenticity index (Parts
-3–4) is built to quantify. The natural next step is a per-company-year join of the two
-datasets and a "say-do" divergence score.
+3–4) is built to quantify. 
 
 ## Limitations 
 
@@ -110,4 +109,3 @@ datasets and a "say-do" divergence score.
   action, and measuring the gap to action is the whole point of the later parts.
 - **Event coincidence is timing, not causation.** We report alignment of dates, and we report
   the misses; we do not claim any event *caused* a language change.
-- **Tone uses a compact curated lexicon** (not the full Loughran-McDonald dictionary).
