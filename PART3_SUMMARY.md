@@ -44,7 +44,7 @@ highest-over-claiming years in the whole dataset (top ~10–20%). The third (a s
 at McDonald's) sits mid-pack, which also makes sense. The score points the right way without
 being told the answer.
 
-## The honest caveat: please read this before using the number
+## The limitation:
 
 This index compares **two kinds of corporate speech, not words against real behavior.** A proxy
 filing is more accountable and costlier to lie in than a homepage, but it is still the company
