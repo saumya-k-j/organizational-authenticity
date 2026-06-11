@@ -1,8 +1,7 @@
-# Part 4: Where the Over-Claiming Concentrates (plain-language summary)
+# Part 4: Where the Over-Claiming Concentrates
 
-*This is an exploratory follow-on to the Part 3 authenticity index. It's a first pass at "where does the gap come from," not a settled result.*
 
-## The finding, in one breath
+## The finding
 
 Companies tend to over-claim more on the values their **industry expects** them to hold. But that's not really the driver. The sharper pattern is this: companies **back up** the expected values that are **costly or regulated**, and **over-claim** the expected values that are **soft and image-driven**. An energy company genuinely engages with the environment in its filings, because climate is material, regulated, and litigated for it. But it leans on softer themes like heritage and innovation that nothing forces it to substantiate. So the real distinction isn't "expected vs not." It's **cheap-and-unenforced vs costly-and-enforced.**
 
