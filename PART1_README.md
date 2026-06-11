@@ -9,21 +9,21 @@ company-year dataset of stated values and how they changed.
 
 ---
 
-## What it does (end to end)
+## What it does 
 
 ```
 discover  →  fetch  →  clean  →  change-detect  →  agent-recover  →  tag
 ```
 
 1. **Discover** the right "About/values" URL per company. One Wayback **CDX host query**
-   per company returns the archived About-ish paths. They're ranked locally and the best
+   per company returns the archived About paths. They're ranked locally and the best
    is kept. Companies the query can't resolve are split into `genuine_miss` (archive
    answered, no page) vs `timeout` (archive didn't answer).
 2. **Fetch** one archived snapshot per year (nearest a fixed anchor date) as raw HTML.
 3. **Clean** to main-content text (trafilatura), with charset-correct decoding plus `ftfy`
    so the text is free of mojibake.
 4. **Change-detect** year over year from the CDX content digest (identical bytes means no
-   change, for free), backed by a difflib similarity check.
+   change), backed by a difflib similarity check.
 5. **Agent-recover** the residual gaps: a tool-using LLM agent looks for a *different*
    archived URL/host that has the missing years, but only for companies deterministic
    discovery couldn't fully resolve.
@@ -49,7 +49,7 @@ discover  →  fetch  →  clean  →  change-detect  →  agent-recover  →  t
   a non-response says nothing about whether a page exists, so those get gentle retries instead.
 - **Confirm-don't-invent harness.** Whatever URL the agent proposes, the harness re-runs a
   real archive query itself and accepts only years a query actually returns. The model
-  cannot fill a cell from thin air, and its URL picks are constrained to real values pages
+  cannot fill a cell without any information, and its URL picks are constrained to real values pages
   (product-category and social-profile pages are rejected by rule).
 - **Frozen taxonomy.** The 13 themes are bootstrapped once from a 5-sector sample, frozen,
   and justified. They're never re-derived per page, which would make labels incomparable.
@@ -58,14 +58,13 @@ discover  →  fetch  →  clean  →  change-detect  →  agent-recover  →  t
   reflects real *content*, not just the presence of a capture.
 - **Politeness plus caching.** Every request sends a `User-Agent`, is rate-limited, and is
   cached by content hash, so reruns are free and deterministic and the archive isn't
-  hammered. (Over-aggressive early runs got us soft-throttled, hence the gentle defaults.)
+  hammered. (Over-aggressive early runs got throttled, hence the gentle defaults.)
 
 ---
 
 ## Assumptions
 
-- **One snapshot per year**, the capture nearest July 1. This is a fixed, defensible rule rather
-  than cherry-picking.
+- **One snapshot per year**
 - **"Values page" means a real About/mission/values page.** Not a homepage (Apple has no
   dedicated values page, so it's left a documented gap rather than tagging the homepage),
   not a product/category page, not a social-media profile.
