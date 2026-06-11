@@ -21,7 +21,7 @@ reckoning, and the 2021 ExxonMobil climate proxy fight. Not every event left a m
 
 ---
 
-## Coverage: complete, and recovered honestly
+## Coverage
 
 All **450 company-years (50 × 9) were recovered, cleaned, and analyzed: 100%.** Filing a
 proxy is mandatory, so unlike Part 1 (72% web coverage) there are no real gaps. Two
