@@ -6,7 +6,7 @@ This is the "lived/disclosed" counterpart to Part 1's "stated" values from compa
 
 ---
 
-## The one-paragraph version
+## Summary
 
 Across all 50 of America's largest companies, the language of social and environmental
 responsibility surged in proxy statements over the decade. Environmental wording **more
